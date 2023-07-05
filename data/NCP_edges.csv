@@ -1,0 +1,464 @@
+SL,from,to,INDIRECT_SERVICE_PROVIDER,PREMONSOON,MONSOON,POSTMONSOON,FUNC_GRP,HABITAT,SIZE_CAT,REL_ABUN_CAT
+7,Felis chaus,Biocontrol,,1,1,1,Mammals,Terrestrial,6,1
+8,Prionailurus viverrinus,Biocontrol,,1,1,1,Mammals,Terrestrial,6,1
+8,Prionailurus viverrinus,Bioindicators,,1,1,1,Mammals,Terrestrial,6,1
+14,Dendrocygna javanica,Bird_watching,,1,1,1,Aves,Limnetic,4,3
+14,Dendrocygna javanica,Nutrient recycling,,1,1,1,Aves,Limnetic,4,3
+14,Dendrocygna javanica,Biocontrol,,1,1,1,Aves,Limnetic,4,3
+15,Tadorna ferruginea,Bird_watching,,0,0,1,Aves,Limnetic,5,2
+15,Tadorna ferruginea,Nutrient recycling,,0,0,1,Aves,Limnetic,5,2
+16,Nettapus coromandelianus,Bird_watching,,1,0,1,Aves,Limnetic,4,3
+16,Nettapus coromandelianus,Nutrient recycling,,1,0,1,Aves,Limnetic,4,3
+16,Nettapus coromandelianus,Biocontrol,,1,0,1,Aves,Limnetic,4,3
+17,Spatula querquedula,Bird_watching,,0,0,1,Aves,Limnetic,4,2
+17,Spatula querquedula,Nutrient recycling,,0,0,1,Aves,Limnetic,4,2
+17,Spatula querquedula,Biocontrol,,0,0,1,Aves,Limnetic,4,2
+18,Anas poecilorhyncha,Bird_watching,,1,0,1,Aves,Limnetic,5,3
+18,Anas poecilorhyncha,Nutrient recycling,,1,0,1,Aves,Limnetic,5,3
+18,Anas poecilorhyncha,Biocontrol,,1,0,1,Aves,Limnetic,5,3
+19,Anas acuta,Bird_watching,,0,0,1,Aves,Limnetic,5,2
+19,Anas acuta,Nutrient recycling,,0,0,1,Aves,Limnetic,5,2
+19,Anas acuta,Biocontrol,,0,0,1,Aves,Limnetic,5,2
+20,Netta rufina,Bird_watching,,0,0,1,Aves,Limnetic,5,3
+20,Netta rufina,Nutrient recycling,,0,0,1,Aves,Limnetic,5,3
+20,Netta rufina,Biocontrol,,0,0,1,Aves,Limnetic,5,3
+23,Tachybaptus ruficollis,Bird_watching,,1,1,1,Aves,Limnetic,4,2
+23,Tachybaptus ruficollis,Nutrient recycling,,1,1,1,Aves,Limnetic,4,2
+23,Tachybaptus ruficollis,Biocontrol,,1,1,1,Aves,Limnetic,4,2
+28,Centropus bengalensis,Bird_watching,,1,1,1,Aves,Terrestrial,4,2
+28,Centropus bengalensis,Nutrient recycling,,1,1,1,Aves,Terrestrial,4,2
+32,Gallinula chloropus,Bird_watching,,1,0,1,Aves,Limnetic,4,2
+32,Gallinula chloropus,Nutrient recycling,,1,0,1,Aves,Limnetic,4,2
+32,Gallinula chloropus,Biocontrol,,1,0,1,Aves,Limnetic,4,2
+33,Fulica atra,Bird_watching,,0,0,1,Aves,Limnetic,4,2
+33,Fulica atra,Nutrient recycling,,0,0,1,Aves,Limnetic,4,2
+33,Fulica atra,Biocontrol,,0,0,1,Aves,Limnetic,4,2
+34,Porphyrio poliocephalus,Bird_watching,,1,1,1,Aves,Terrestrial,4,2
+34,Porphyrio poliocephalus,Nutrient recycling,,1,1,1,Aves,Terrestrial,4,2
+34,Porphyrio poliocephalus,Biocontrol,,1,1,1,Aves,Terrestrial,4,2
+35,Amaurornis phoenicurus,Bird_watching,,1,1,1,Aves,Terrestrial,4,2
+35,Amaurornis phoenicurus,Nutrient recycling,,1,1,1,Aves,Terrestrial,4,2
+35,Amaurornis phoenicurus,Biocontrol,,1,1,1,Aves,Terrestrial,4,2
+36,Himantopus himantopus,Bird_watching,,1,1,1,Aves,Terrestrial,4,3
+36,Himantopus himantopus,Nutrient recycling,,1,1,1,Aves,Terrestrial,4,3
+36,Himantopus himantopus,Biocontrol,,1,1,1,Aves,Terrestrial,4,3
+37,Pluvialis fulva,Bird_watching,,0,0,1,Aves,Terrestrial,4,2
+37,Pluvialis fulva,Nutrient recycling,,0,0,1,Aves,Terrestrial,4,2
+37,Pluvialis fulva,Biocontrol,,0,0,1,Aves,Terrestrial,4,2
+38,Charadrius dubius,Bird_watching,,0,0,1,Aves,Terrestrial,4,2
+38,Charadrius dubius,Nutrient recycling,,0,0,1,Aves,Terrestrial,4,2
+38,Charadrius dubius,Biocontrol,,0,0,1,Aves,Terrestrial,4,2
+39,Vanellus malabaricus,Bird_watching,,0,0,1,Aves,Terrestrial,4,1
+39,Vanellus malabaricus,Nutrient recycling,,0,0,1,Aves,Terrestrial,4,1
+39,Vanellus malabaricus,Biocontrol,,0,0,1,Aves,Terrestrial,4,1
+40,Vanellus indicus,Bird_watching,,1,1,1,Aves,Terrestrial,4,2
+40,Vanellus indicus,Nutrient recycling,,1,1,1,Aves,Terrestrial,4,2
+40,Vanellus indicus,Biocontrol,,1,1,1,Aves,Terrestrial,4,2
+41,Metopidius indicus,Bird_watching,,1,1,1,Aves,Terrestrial,4,3
+41,Metopidius indicus,Nutrient recycling,,1,1,1,Aves,Terrestrial,4,3
+41,Metopidius indicus,Biocontrol,,1,1,1,Aves,Terrestrial,4,3
+42,Hydrophasianus chirurgus,Bird_watching,,1,0,1,Aves,Terrestrial,4,2
+42,Hydrophasianus chirurgus,Nutrient recycling,,1,0,1,Aves,Terrestrial,4,2
+42,Hydrophasianus chirurgus,Biocontrol,,1,0,1,Aves,Terrestrial,4,2
+43,Numenius arquata,Bird_watching,,0,0,1,Aves,Terrestrial,5,1
+43,Numenius arquata,Nutrient recycling,,0,0,1,Aves,Terrestrial,5,1
+43,Numenius arquata,Biocontrol,,0,0,1,Aves,Terrestrial,5,1
+44,Calidris minuta,Bird_watching,,0,0,1,Aves,Terrestrial,3,3
+44,Calidris minuta,Nutrient recycling,,0,0,1,Aves,Terrestrial,3,3
+44,Calidris minuta,Biocontrol,,0,0,1,Aves,Terrestrial,3,3
+45,Xenus cinereus,Bird_watching,,0,0,1,Aves,Terrestrial,4,2
+45,Xenus cinereus,Nutrient recycling,,0,0,1,Aves,Terrestrial,4,2
+45,Xenus cinereus,Biocontrol,,0,0,1,Aves,Terrestrial,4,2
+46,Tringa ochropus,Bird_watching,,0,0,1,Aves,Terrestrial,4,2
+46,Tringa ochropus,Nutrient recycling,,0,0,1,Aves,Terrestrial,4,2
+46,Tringa ochropus,Biocontrol,,0,0,1,Aves,Terrestrial,4,2
+47,Tringa nebularia,Bird_watching,,0,0,1,Aves,Terrestrial,4,2
+47,Tringa nebularia,Nutrient recycling,,0,0,1,Aves,Terrestrial,4,2
+47,Tringa nebularia,Biocontrol,,0,0,1,Aves,Terrestrial,4,2
+48,Tringa stagnatilis,Bird_watching,,0,0,1,Aves,Terrestrial,4,2
+48,Tringa stagnatilis,Nutrient recycling,,0,0,1,Aves,Terrestrial,4,2
+48,Tringa stagnatilis,Biocontrol,,0,0,1,Aves,Terrestrial,4,2
+49,Tringa glareola,Bird_watching,,0,0,1,Aves,Terrestrial,4,2
+49,Tringa glareola,Nutrient recycling,,0,0,1,Aves,Terrestrial,4,2
+50,Tringa tetanus,Bird_watching,,0,0,1,Aves,Terrestrial,4,2
+50,Tringa tetanus,Nutrient recycling,,0,0,1,Aves,Terrestrial,4,2
+50,Tringa tetanus,Biocontrol,,0,0,1,Aves,Terrestrial,4,2
+51,Chroicocephalus brunnicephalus,Bird_watching,,0,0,1,Aves,Limnetic,4,1
+51,Chroicocephalus brunnicephalus,Nutrient recycling,,0,0,1,Aves,Limnetic,4,1
+51,Chroicocephalus brunnicephalus,Biocontrol,,0,0,1,Aves,Limnetic,4,1
+52,Sternula albifrons,Bird_watching,,0,0,1,Aves,Terrestrial,4,1
+52,Sternula albifrons,Nutrient recycling,,0,0,1,Aves,Terrestrial,4,1
+52,Sternula albifrons,Biocontrol,,0,0,1,Aves,Terrestrial,4,1
+53,Chlidonias hybrida,Bird_watching,,0,0,1,Aves,Terrestrial,4,1
+53,Chlidonias hybrida,Nutrient recycling,,0,0,1,Aves,Terrestrial,4,1
+53,Chlidonias hybrida,Biocontrol,,0,0,1,Aves,Terrestrial,4,1
+54,Sterna aurantia,Bird_watching,,0,0,1,Aves,Terrestrial,4,1
+54,Sterna aurantia,Nutrient recycling,,0,0,1,Aves,Terrestrial,4,1
+54,Sterna aurantia,Biocontrol,,0,0,1,Aves,Terrestrial,4,1
+55,Anastomus oscitans,Bird_watching,,1,1,1,Aves,Terrestrial,5,3
+55,Anastomus oscitans,Nutrient recycling,,1,1,1,Aves,Terrestrial,5,3
+56,Mycteria leucocephala,Bird_watching,,1,1,1,Aves,Terrestrial,6,2
+56,Mycteria leucocephala,Nutrient recycling,,1,1,1,Aves,Terrestrial,6,2
+56,Mycteria leucocephala,Biocontrol,,1,1,1,Aves,Terrestrial,6,2
+57,Anhinga melanogaster,Bird_watching,,0,0,1,Aves,Terrestrial,5,2
+57,Anhinga melanogaster,Nutrient recycling,,0,0,1,Aves,Terrestrial,5,2
+58,Microcarbo niger,Bird_watching,,1,1,1,Aves,Limnetic,5,3
+58,Microcarbo niger,Nutrient recycling,,1,1,1,Aves,Limnetic,5,3
+59,Phalacrocorax fuscicollis,Bird_watching,,0,0,1,Aves,Limnetic,5,2
+59,Phalacrocorax fuscicollis,Nutrient recycling,,0,0,1,Aves,Limnetic,5,2
+60,Ardea cinerea,Bird_watching,,0,0,1,Aves,Terrestrial,5,2
+60,Ardea cinerea,Nutrient recycling,,0,0,1,Aves,Terrestrial,5,2
+60,Ardea cinerea,Biocontrol,,0,0,1,Aves,Terrestrial,5,2
+61,Ardea purpurea,Bird_watching,,1,1,1,Aves,Terrestrial,6,2
+61,Ardea purpurea,Nutrient recycling,,1,1,1,Aves,Terrestrial,6,2
+61,Ardea purpurea,Biocontrol,,1,1,1,Aves,Terrestrial,6,2
+62,Ardea alba,Bird_watching,,1,1,1,Aves,Terrestrial,5,2
+62,Ardea alba,Nutrient recycling,,1,1,1,Aves,Terrestrial,5,2
+62,Ardea alba,Biocontrol,,1,1,1,Aves,Terrestrial,5,2
+63,Ardea intermedia,Bird_watching,,1,1,1,Aves,Terrestrial,5,3
+63,Ardea intermedia,Nutrient recycling,,1,1,1,Aves,Terrestrial,5,3
+63,Ardea intermedia,Biocontrol,,1,1,1,Aves,Terrestrial,5,3
+64,Egretta garzetta,Bird_watching,,1,1,1,Aves,Terrestrial,4,3
+64,Egretta garzetta,Nutrient recycling,,1,1,1,Aves,Terrestrial,4,3
+64,Egretta garzetta,Biocontrol,,1,1,1,Aves,Terrestrial,4,3
+65,Bubulcus ibis,Bird_watching,,1,1,1,Aves,Terrestrial,4,3
+65,Bubulcus ibis,Nutrient recycling,,1,1,1,Aves,Terrestrial,4,3
+65,Bubulcus ibis,Biocontrol,,1,1,1,Aves,Terrestrial,4,3
+66,Ardeola grayii,Bird_watching,,1,1,1,Aves,Terrestrial,4,3
+66,Ardeola grayii,Nutrient recycling,,1,1,1,Aves,Terrestrial,4,3
+66,Ardeola grayii,Biocontrol,,1,1,1,Aves,Terrestrial,4,3
+67,Nycticorax nycticorax,Bird_watching,,1,1,1,Aves,Terrestrial,5,2
+67,Nycticorax nycticorax,Nutrient recycling,,1,1,1,Aves,Terrestrial,5,2
+67,Nycticorax nycticorax,Biocontrol,,1,1,1,Aves,Terrestrial,5,2
+68,Plegadis falcinellus,Bird_watching,,0,0,1,Aves,Terrestrial,5,2
+68,Plegadis falcinellus,Nutrient recycling,,0,0,1,Aves,Terrestrial,5,2
+69,Threskiornis melanocephalus,Bird_watching,,0,0,1,Aves,Terrestrial,5,1
+69,Threskiornis melanocephalus,Nutrient recycling,,0,0,1,Aves,Terrestrial,5,1
+69,Threskiornis melanocephalus,Biocontrol,,0,0,1,Aves,Terrestrial,5,1
+75,Haliaeetus leucogaster,Bird_watching,,1,1,1,Aves,Terrestrial,5,1
+75,Haliaeetus leucogaster,Nutrient recycling,,1,1,1,Aves,Terrestrial,5,1
+76,Spilornis cheela,Bird_watching,,1,1,1,Aves,Terrestrial,5,1
+76,Spilornis cheela,Nutrient recycling,,1,1,1,Aves,Terrestrial,5,1
+77,Circus aeruginosus,Bird_watching,,0,0,1,Aves,Terrestrial,4,1
+77,Circus aeruginosus,Nutrient recycling,,0,0,1,Aves,Terrestrial,4,1
+82,Alcedo atthis,Bird_watching,,1,1,1,Aves,Terrestrial,4,1
+82,Alcedo atthis,Nutrient recycling,,1,1,1,Aves,Terrestrial,4,1
+82,Alcedo atthis,Biocontrol,,1,1,1,Aves,Terrestrial,4,1
+83,Halcyon smyrnensis,Bird_watching,,1,1,1,Aves,Terrestrial,4,3
+83,Halcyon smyrnensis,Nutrient recycling,,1,1,1,Aves,Terrestrial,4,3
+83,Halcyon smyrnensis,Biocontrol,,1,1,1,Aves,Terrestrial,4,3
+84,Ceryle rudis,Bird_watching,,1,1,1,Aves,Terrestrial,4,2
+84,Ceryle rudis,Nutrient recycling,,1,1,1,Aves,Terrestrial,4,2
+84,Ceryle rudis,Biocontrol,,1,1,1,Aves,Terrestrial,4,2
+85,Merops orientalis,Bird_watching,,1,1,1,Aves,Terrestrial,4,3
+85,Merops orientalis,Nutrient recycling,,1,1,1,Aves,Terrestrial,4,3
+86,Merops philippinus,Bird_watching,,0,1,1,Aves,Terrestrial,4,2
+86,Merops philippinus,Nutrient recycling,,0,1,1,Aves,Terrestrial,4,2
+87,Coracias benghalensis,Bird_watching,,1,1,1,Aves,Terrestrial,4,2
+87,Coracias benghalensis,Nutrient recycling,,1,1,1,Aves,Terrestrial,4,2
+94,Oriolus kundoo,Bird_watching,,1,1,1,Aves,Terrestrial,4,2
+94,Oriolus kundoo,Nutrient recycling,,1,1,1,Aves,Terrestrial,4,2
+95,Oriolus xanthornus,Bird_watching,,1,1,1,Aves,Terrestrial,4,2
+95,Oriolus xanthornus,Nutrient recycling,,1,1,1,Aves,Terrestrial,4,2
+97,Dicrurus caerulescens,Bird_watching,,0,0,1,Aves,Terrestrial,4,2
+97,Dicrurus caerulescens,Nutrient recycling,,0,0,1,Aves,Terrestrial,4,2
+106,Hirundo rustica,Bird_watching,,1,1,1,Aves,Terrestrial,4,3
+106,Hirundo rustica,Nutrient recycling,,1,1,1,Aves,Terrestrial,4,3
+106,Hirundo rustica,Biocontrol,,1,1,1,Aves,Terrestrial,4,3
+114,Acridotheres ginginianus,Bird_watching,,1,1,1,Aves,Terrestrial,4,2
+114,Acridotheres ginginianus,Nutrient recycling,,1,1,1,Aves,Terrestrial,4,2
+124,Motacilla citreola,Bird_watching,,1,1,1,Aves,Terrestrial,4,2
+124,Motacilla citreola,Nutrient recycling,,1,1,1,Aves,Terrestrial,4,2
+124,Motacilla citreola,Biocontrol,,1,1,1,Aves,Terrestrial,4,2
+125,Motacilla tschutschensis,Bird_watching,,0,0,1,Aves,Terrestrial,4,2
+125,Motacilla tschutschensis,Nutrient recycling,,0,0,1,Aves,Terrestrial,4,2
+125,Motacilla tschutschensis,Biocontrol,,0,0,1,Aves,Terrestrial,4,2
+126,Motacilla alba,Bird_watching,,0,0,1,Aves,Terrestrial,4,2
+126,Motacilla alba,Nutrient recycling,,0,0,1,Aves,Terrestrial,4,2
+126,Motacilla alba,Biocontrol,,0,0,1,Aves,Terrestrial,4,2
+128,Duttaphrynus melanostictus,Nutrient recycling,1;2;4;5;6;7;8,1,1,1,Amphibians,Terrestrial,4,3
+128,Duttaphrynus melanostictus,Biocontrol,1;2;4;5;6;7;8,1,1,1,Amphibians,Terrestrial,4,3
+128,Duttaphrynus melanostictus,Bioindicators,1;2;4;5;6;7;8,1,1,1,Amphibians,Terrestrial,4,3
+129,Duttaphrynus scaber,Nutrient recycling,1;2;4;5;6;7;8,1,1,0,Amphibians,Littoral,3,2
+129,Duttaphrynus scaber,Biocontrol,1;2;4;5;6;7;8,1,1,0,Amphibians,Littoral,3,2
+129,Duttaphrynus scaber,Bioindicators,1;2;4;5;6;7;8,1,1,0,Amphibians,Littoral,3,2
+130,Fejervarya orissaensis,Nutrient recycling,1;2;4;5;6;7;8,1,1,0,Amphibians,Limnetic,3,2
+130,Fejervarya orissaensis,Biocontrol,1;2;4;5;6;7;8,1,1,0,Amphibians,Limnetic,3,2
+130,Fejervarya orissaensis,Bioindicators,1;2;4;5;6;7;8,1,1,0,Amphibians,Limnetic,3,2
+131,Minervarya agricola,Nutrient recycling,1;2;4;5;6;7;8,1,1,1,Amphibians,Limnetic,3,2
+131,Minervarya agricola,Biocontrol,1;2;4;5;6;7;8,1,1,1,Amphibians,Limnetic,3,2
+131,Minervarya agricola,Bioindicators,1;2;4;5;6;7;8,1,1,1,Amphibians,Limnetic,3,2
+132,Minervarya pierrei,Nutrient recycling,1;2;4;5;6;7;8,1,1,0,Amphibians,Limnetic,3,2
+132,Minervarya pierrei,Biocontrol,1;2;4;5;6;7;8,1,1,0,Amphibians,Limnetic,3,2
+132,Minervarya pierrei,Bioindicators,1;2;4;5;6;7;8,1,1,0,Amphibians,Limnetic,3,2
+133,Euphlyctis cyanophlyctis,Nutrient recycling,1;2;4;5;6;7;8,1,1,1,Amphibians,Limnetic,3,3
+133,Euphlyctis cyanophlyctis,Biocontrol,1;2;4;5;6;7;8,1,1,1,Amphibians,Limnetic,3,3
+133,Euphlyctis cyanophlyctis,Bioindicators,1;2;4;5;6;7;8,1,1,1,Amphibians,Limnetic,3,3
+134,Hoplobatrachus tigerinus,Nutrient recycling,1;2;4;5;6;7;8,1,1,1,Amphibians,Limnetic,4,3
+134,Hoplobatrachus tigerinus,Biocontrol,1;2;4;5;6;7;8,1,1,1,Amphibians,Limnetic,4,3
+134,Hoplobatrachus tigerinus,Bioindicators,1;2;4;5;6;7;8,1,1,1,Amphibians,Limnetic,4,3
+135,Hoplobatrachus crassus,Nutrient recycling,1;2;4;5;6;7;8,1,1,0,Amphibians,Limnetic,3,2
+135,Hoplobatrachus crassus,Biocontrol,1;2;4;5;6;7;8,1,1,0,Amphibians,Limnetic,3,2
+135,Hoplobatrachus crassus,Bioindicators,1;2;4;5;6;7;8,1,1,0,Amphibians,Limnetic,3,2
+136,Sphaerotheca breviceps,Nutrient recycling,1;2;4;5;6;7;8,0,1,0,Amphibians,Terrestrial,3,2
+136,Sphaerotheca breviceps,Biocontrol,1;2;4;5;6;7;8,0,1,0,Amphibians,Terrestrial,3,2
+136,Sphaerotheca breviceps,Bioindicators,1;2;4;5;6;7;8,0,1,0,Amphibians,Terrestrial,3,2
+137,Sphaerotheca rolandae,Nutrient recycling,1;2;4;5;6;7;8,0,1,0,Amphibians,Terrestrial,3,2
+137,Sphaerotheca rolandae,Biocontrol,1;2;4;5;6;7;8,0,1,0,Amphibians,Terrestrial,3,2
+137,Sphaerotheca rolandae,Bioindicators,1;2;4;5;6;7;8,0,1,0,Amphibians,Terrestrial,3,2
+138,Microhyla mymensinghensis,Nutrient recycling,1;2;4;5;6;7;8,0,1,1,Amphibians,Terrestrial,2,2
+138,Microhyla mymensinghensis,Biocontrol,1;2;4;5;6;7;8,0,1,1,Amphibians,Terrestrial,2,2
+138,Microhyla mymensinghensis,Bioindicators,1;2;4;5;6;7;8,0,1,1,Amphibians,Terrestrial,2,2
+139,Uperodon systoma,Nutrient recycling,1;2;4;5;6;7;8,1,1,0,Amphibians,Terrestrial,3,2
+139,Uperodon systoma,Biocontrol,1;2;4;5;6;7;8,1,1,0,Amphibians,Terrestrial,3,2
+139,Uperodon systoma,Bioindicators,1;2;4;5;6;7;8,1,1,0,Amphibians,Terrestrial,3,2
+140,Hylarana tytleri,Nutrient recycling,1;2;4;5;6;7;8,0,1,0,Amphibians,Terrestrial,3,3
+140,Hylarana tytleri,Biocontrol,1;2;4;5;6;7;8,0,1,0,Amphibians,Terrestrial,3,3
+140,Hylarana tytleri,Bioindicators,1;2;4;5;6;7;8,0,1,0,Amphibians,Terrestrial,3,3
+141,Polypedates maculatus,Nutrient recycling,1;2;4;5;6;7;8,1,1,1,Amphibians,Terrestrial,3,3
+141,Polypedates maculatus,Biocontrol,1;2;4;5;6;7;8,1,1,1,Amphibians,Terrestrial,3,3
+141,Polypedates maculatus,Bioindicators,1;2;4;5;6;7;8,1,1,1,Amphibians,Terrestrial,3,3
+142,Varanus bengalensis,Nutrient recycling,,1,1,1,Reptiles,Terrestrial,6,1
+142,Varanus bengalensis,Biocontrol,,1,1,1,Reptiles,Terrestrial,6,1
+142,Varanus bengalensis,Bioindicators,,1,1,1,Reptiles,Terrestrial,6,1
+144,Enhydris enhydris,Nutrient recycling,2;4;7;8,1,1,1,Reptiles,Litoral,5,2
+144,Enhydris enhydris,Biocontrol,2;4;7;8,1,1,1,Reptiles,Litoral,5,2
+144,Enhydris enhydris,Bioindicators,2;4;7;8,1,1,1,Reptiles,Litoral,5,2
+145,Fowlea piscator,Nutrient recycling,2;4;7;8,1,1,1,Reptiles,Litoral,5,2
+145,Fowlea piscator,Biocontrol,2;4;7;8,1,1,1,Reptiles,Litoral,5,2
+145,Fowlea piscator,Bioindicators,2;4;7;8,1,1,1,Reptiles,Litoral,5,2
+146,Bungarus fasciatus,Nutrient recycling,2;4;7;8,1,1,0,Reptiles,Terrestial,6,1
+146,Bungarus fasciatus,Biocontrol,2;4;7;8,1,1,0,Reptiles,Terrestial,6,1
+146,Bungarus fasciatus,Bioindicators,2;4;7;8,1,1,0,Reptiles,Terrestial,6,1
+147,Naja naja,Nutrient recycling,2;4,1,1,1,Reptiles,Terrestial,6,1
+147,Naja naja,Biocontrol,2;4,1,1,1,Reptiles,Terrestial,6,1
+147,Naja naja,Bioindicators,2;4,1,1,1,Reptiles,Terrestial,6,1
+148,Lissemys punctata,Nutrient recycling,7;8,1,1,1,Reptiles,Profoundal,4,2
+148,Lissemys punctata,Biocontrol,7;8,1,1,1,Reptiles,Profoundal,4,2
+148,Lissemys punctata,Bioindicators,7;8,1,1,1,Reptiles,Profoundal,4,2
+149,Parambassis baculis,Fishery,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,2
+149,Parambassis baculis,Aquatic recreation,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,2
+149,Parambassis baculis,Food provisioning,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,2
+149,Parambassis baculis,Biocontrol,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,2
+149,Parambassis baculis,Bioindicators,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,2
+150,Aplocheilus panchax,Fishery,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,2
+150,Aplocheilus panchax,Aquatic recreation,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,2
+150,Aplocheilus panchax,Food provisioning,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,2
+150,Aplocheilus panchax,Biocontrol,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,2
+150,Aplocheilus panchax,Bioindicators,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,2
+151,Netuma thalassina,Fishery,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,5,1
+151,Netuma thalassina,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,5,1
+151,Netuma thalassina,Food provisioning,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,5,1
+151,Netuma thalassina,Biocontrol,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,5,1
+151,Netuma thalassina,Bioindicators,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,5,1
+152,Badis badis,Fishery,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,1
+152,Badis badis,Aquatic recreation,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,1
+152,Badis badis,Food provisioning,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,1
+152,Badis badis,Biocontrol,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,1
+152,Badis badis,Bioindicators,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,1
+153,Mystus tengara,Fishery,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,4,3
+153,Mystus tengara,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,4,3
+153,Mystus tengara,Food provisioning,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,4,3
+153,Mystus tengara,Biocontrol,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,4,3
+153,Mystus tengara,Bioindicators,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,4,3
+154,Mystus vittatus,Fishery,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,4,3
+154,Mystus vittatus,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,4,3
+154,Mystus vittatus,Food provisioning,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,4,3
+154,Mystus vittatus,Biocontrol,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,4,3
+154,Mystus vittatus,Bioindicators,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,4,3
+155,Xenentodon cancila,Fishery,1;2;4;5;6;7;8,1,1,1,Fish,Limnetic,4,1
+155,Xenentodon cancila,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Fish,Limnetic,4,1
+155,Xenentodon cancila,Food provisioning,1;2;4;5;6;7;8,1,1,1,Fish,Limnetic,4,1
+155,Xenentodon cancila,Biocontrol,1;2;4;5;6;7;8,1,1,1,Fish,Limnetic,4,1
+155,Xenentodon cancila,Bioindicators,1;2;4;5;6;7;8,1,1,1,Fish,Limnetic,4,1
+156,Channa punctata,Fishery,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,3
+156,Channa punctata,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,3
+156,Channa punctata,Food provisioning,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,3
+156,Channa punctata,Biocontrol,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,3
+156,Channa punctata,Bioindicators,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,3
+157,Channa striata,Fishery,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,5,2
+157,Channa striata,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,5,2
+157,Channa striata,Food provisioning,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,5,2
+157,Channa striata,Biocontrol,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,5,2
+157,Channa striata,Bioindicators,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,5,2
+158,Channa gachua,Fishery,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,3
+158,Channa gachua,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,3
+158,Channa gachua,Food provisioning,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,3
+158,Channa gachua,Biocontrol,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,3
+158,Channa gachua,Bioindicators,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,3
+159,Oreochromis niloticus,Fishery,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,4,3
+159,Oreochromis niloticus,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,4,3
+159,Oreochromis niloticus,Food provisioning,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,4,3
+159,Oreochromis niloticus,Biocontrol,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,4,3
+159,Oreochromis niloticus,Bioindicators,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,4,3
+160,Puntius vittatus,Fishery,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,3
+160,Puntius vittatus,Aquatic recreation,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,3
+160,Puntius vittatus,Food provisioning,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,3
+160,Puntius vittatus,Biocontrol,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,3
+160,Puntius vittatus,Bioindicators,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,3
+161,Rasbora daniconius,Fishery,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,3
+161,Rasbora daniconius,Aquatic recreation,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,3
+161,Rasbora daniconius,Food provisioning,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,3
+161,Rasbora daniconius,Biocontrol,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,3
+161,Rasbora daniconius,Bioindicators,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,3
+162,Pethia phutunio,Fishery,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,3
+162,Pethia phutunio,Aquatic recreation,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,3
+162,Pethia phutunio,Food provisioning,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,3
+162,Pethia phutunio,Biocontrol,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,3
+162,Pethia phutunio,Bioindicators,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,3
+163,Glossogobius giuris,Fishery,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,3
+163,Glossogobius giuris,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,3
+163,Glossogobius giuris,Food provisioning,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,3
+163,Glossogobius giuris,Biocontrol,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,3
+163,Glossogobius giuris,Bioindicators,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,3
+164,Heteropneustes fossilis,Fishery,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,1
+164,Heteropneustes fossilis,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,1
+164,Heteropneustes fossilis,Food provisioning,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,1
+164,Heteropneustes fossilis,Biocontrol,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,1
+164,Heteropneustes fossilis,Bioindicators,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,1
+165,Macrognathus pancalus,Fishery,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,2
+165,Macrognathus pancalus,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,2
+165,Macrognathus pancalus,Food provisioning,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,2
+165,Macrognathus pancalus,Biocontrol,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,2
+165,Macrognathus pancalus,Bioindicators,1;2;4;5;6;7;8,1,1,1,Fish,Benthic,4,2
+166,Mastacembelus armatus,Fishery,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,5,2
+166,Mastacembelus armatus,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,5,2
+166,Mastacembelus armatus,Food provisioning,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,5,2
+166,Mastacembelus armatus,Biocontrol,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,5,2
+166,Mastacembelus armatus,Bioindicators,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,5,2
+167,Notopterus notopterus,Fishery,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,4,3
+167,Notopterus notopterus,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,4,3
+167,Notopterus notopterus,Food provisioning,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,4,3
+167,Notopterus notopterus,Biocontrol,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,4,3
+167,Notopterus notopterus,Bioindicators,1;2;4;5;6;7;8,1,1,1,Fish,Profoundal,4,3
+168,Trichogaster lalius,Fishery,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,2
+168,Trichogaster lalius,Aquatic recreation,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,2
+168,Trichogaster lalius,Food provisioning,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,2
+168,Trichogaster lalius,Biocontrol,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,2
+168,Trichogaster lalius,Bioindicators,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,2
+169,Trichogaster fasciata,Fishery,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,2
+169,Trichogaster fasciata,Aquatic recreation,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,2
+169,Trichogaster fasciata,Food provisioning,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,2
+169,Trichogaster fasciata,Biocontrol,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,2
+169,Trichogaster fasciata,Bioindicators,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,2
+170,Pila globosa,Carbon sequestration,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,3,3
+170,Pila globosa,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,3,3
+170,Pila globosa,Food provisioning,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,3,3
+170,Pila globosa,Biocontrol,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,3,3
+171,Filopaludina bengalensis,Carbon sequestration,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,3,3
+171,Filopaludina bengalensis,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,3,3
+171,Filopaludina bengalensis,Biocontrol,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,3,3
+172,Idiopoma dissimilis,Carbon sequestration,2;4;7,1,1,1,Mollusca,Litoral,3,3
+172,Idiopoma dissimilis,Aquatic recreation,2;4;7,1,1,1,Mollusca,Litoral,3,3
+172,Idiopoma dissimilis,Biocontrol,2;4;7,1,1,1,Mollusca,Litoral,3,3
+173,Melanoides tuberculata,Carbon sequestration,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,3,3
+173,Melanoides tuberculata,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,3,3
+173,Melanoides tuberculata,Biocontrol,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,3,3
+174,Tarebia lineata,Carbon sequestration,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+174,Tarebia lineata,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+174,Tarebia lineata,Biocontrol,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+175,Bithynia pulchella,Carbon sequestration,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+175,Bithynia pulchella,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+175,Bithynia pulchella,Biocontrol,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+176,Gabbia orcula,Carbon sequestration,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+176,Gabbia orcula,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+176,Gabbia orcula,Biocontrol,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+177,Radix rufescens,Carbon sequestration,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,3,3
+177,Radix rufescens,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,3,3
+177,Radix rufescens,Biocontrol,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,3,3
+178,Racesina luteola,Carbon sequestration,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,3,3
+178,Racesina luteola,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,3,3
+178,Racesina luteola,Biocontrol,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,3,3
+179,Gyraulus barrackporensis,Carbon sequestration,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+179,Gyraulus barrackporensis,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+179,Gyraulus barrackporensis,Biocontrol,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+180,Gyraulus convexiusculus,Carbon sequestration,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+180,Gyraulus convexiusculus,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+180,Gyraulus convexiusculus,Biocontrol,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+181,Gyraulus euphraticus,Carbon sequestration,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+181,Gyraulus euphraticus,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+181,Gyraulus euphraticus,Biocontrol,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+182,Indoplanorbis exustus,Carbon sequestration,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+182,Indoplanorbis exustus,Aquatic recreation,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+182,Indoplanorbis exustus,Biocontrol,1;2;4;5;6;7;8,1,1,1,Mollusca,Litoral,2,3
+183,Macrobrachium malcolmsonii,Fishery,1;2;4;5;6;7;8,1,1,1,Prawns,Benthic,3,3
+183,Macrobrachium malcolmsonii,Food provisioning,1;2;4;5;6;7;8,1,1,1,Prawns,Benthic,3,3
+183,Macrobrachium malcolmsonii,Biocontrol,1;2;4;5;6;7;8,1,1,1,Prawns,Benthic,3,3
+184,Macrobrachium rosenbergii,Fishery,1;2;4;5;6;7;8,1,1,1,Prawns,Benthic,3,3
+184,Macrobrachium rosenbergii,Food provisioning,1;2;4;5;6;7;8,1,1,1,Prawns,Benthic,3,3
+184,Macrobrachium rosenbergii,Biocontrol,1;2;4;5;6;7;8,1,1,1,Prawns,Benthic,3,3
+185,Macrobrachium rude,Fishery,1;2;4;5;6;7;8,1,1,1,Prawns,Benthic,3,3
+185,Macrobrachium rude,Food provisioning,1;2;4;5;6;7;8,1,1,1,Prawns,Benthic,3,3
+185,Macrobrachium rude,Biocontrol,1;2;4;5;6;7;8,1,1,1,Prawns,Benthic,3,3
+186,Macrobrachium equidens,Fishery,1;2;4;5;6;7;8,1,1,1,Prawns,Benthic,3,3
+186,Macrobrachium equidens,Food provisioning,1;2;4;5;6;7;8,1,1,1,Prawns,Benthic,3,3
+186,Macrobrachium equidens,Biocontrol,1;2;4;5;6;7;8,1,1,1,Prawns,Benthic,3,3
+187,Diplonychus annulatus,Carbon sequestration,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Benthic,2,3
+187,Diplonychus annulatus,Bioindicators,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Benthic,2,3
+188,Diplonychus rusticus,Carbon sequestration,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Benthic,2,3
+188,Diplonychus rusticus,Bioindicators,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Benthic,2,3
+189,Aquarius adelaides,Carbon sequestration,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Neustonic,2,3
+189,Aquarius adelaides,Bioindicators,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Neustonic,2,3
+190,Limnogonus fossarum,Carbon sequestration,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Neustonic,2,3
+190,Limnogonus fossarum,Bioindicators,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Neustonic,2,3
+191,Laccotrephes griseus,Carbon sequestration,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Benthic,3,3
+191,Laccotrephes griseus,Bioindicators,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Benthic,3,3
+192,Laccotrephes ruber,Carbon sequestration,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Benthic,3,3
+192,Laccotrephes ruber,Bioindicators,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Benthic,3,3
+193,Ranatra elongata,Carbon sequestration,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Profoundal,3,3
+193,Ranatra elongata,Bioindicators,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Profoundal,3,3
+194,Ranatra filiformis,Carbon sequestration,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Profoundal,2,3
+194,Ranatra filiformis,Bioindicators,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Profoundal,2,3
+195,Ranatra varipes,Carbon sequestration,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Profoundal,2,3
+195,Ranatra varipes,Bioindicators,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Profoundal,2,3
+196,Anisops campbelli,Carbon sequestration,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Benthic,2,3
+196,Anisops campbelli,Bioindicators,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Benthic,2,3
+197,Hydrovatus confertus,Carbon sequestration,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Benthic,2,2
+197,Hydrovatus confertus,Bioindicators,1;2;3;4;5;6;7;8,1,1,1,Aquatic_Insects,Benthic,2,2
+198,Arcella discoides,Carbon sequestration,1;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+198,Arcella discoides,Bioindicators,1;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+199,Centropyxis aculeata,Carbon sequestration,1;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+199,Centropyxis aculeata,Bioindicators,1;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+200,Brachionus calyciflorus,Carbon sequestration,1;3;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+200,Brachionus calyciflorus,Bioindicators,1;3;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+201,Brachionus forficula,Carbon sequestration,1;3;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+201,Brachionus forficula,Bioindicators,1;3;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+202,Keratella lenzi,Carbon sequestration,1;3;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+202,Keratella lenzi,Bioindicators,1;3;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+203,Lecane aculeata,Carbon sequestration,1;3;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+203,Lecane aculeata,Bioindicators,1;3;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+204,Lecane bulla,Carbon sequestration,1;3;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+204,Lecane bulla,Bioindicators,1;3;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+205,Asplanchna brightwelli,Carbon sequestration,1;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+205,Asplanchna brightwelli,Bioindicators,1;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+206,Mesocyclops leukarti,Carbon sequestration,1;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+206,Mesocyclops leukarti,Bioindicators,1;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+207,Scapholeberis kingi,Carbon sequestration,1;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+207,Scapholeberis kingi,Bioindicators,1;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+208,Macrothrix spinosa,Carbon sequestration,1;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+208,Macrothrix spinosa,Bioindicators,1;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+209,Macrothrix goeldi,Carbon sequestration,1;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+209,Macrothrix goeldi,Bioindicators,1;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+210,Alona pulchella,Carbon sequestration,1;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+210,Alona pulchella,Bioindicators,1;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+211,Coronatella rectangula,Carbon sequestration,1;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+211,Coronatella rectangula,Bioindicators,1;4;5;6;7;8,1,1,1,Zooplankton,Litoral/Profoundal,1,2
+212,Odonata sp.,Biocontrol,1;2;4;5;6;7;8,1,1,1,Aquatic_Insects,Benthic,3,3
+212,Odonata sp.,Bioindicators,1;2;4;5;6;7;8,1,1,1,Aquatic_Insects,Benthic,3,3
+214,Green Algae,Carbon sequestration,1;2;3;4;5;6;7;8,1,1,1,Autotrophs,Limnetic,1,3
+214,Green Algae,Nutrient recycling,1;2;3;4;5;6;7;8,1,1,1,Autotrophs,Limnetic,1,3
+214,Green Algae,Food provisioning,1;2;3;4;5;6;7;8,1,1,1,Autotrophs,Limnetic,1,3
+214,Green Algae,Bioindicators,1;2;3;4;5;6;7;8,1,1,1,Autotrophs,Limnetic,1,3
+215,Detritus,Carbon sequestration,1;3;4;5;6;7;8,1,1,1,Detritus,Detritus,1,3
+215,Detritus,Nutrient recycling,1;3;4;5;6;7;8,1,1,1,Detritus,Detritus,1,3
+216,Herbaceous aquatic plants,Carbon sequestration,1;2;3;4;5;6;7;8,1,1,1,Autotrophs,Litoral,4,3
+216,Herbaceous aquatic plants,Nutrient recycling,1;2;3;4;5;6;7;8,1,1,1,Autotrophs,Litoral,4,3
+216,Herbaceous aquatic plants,Food provisioning,1;2;3;4;5;6;7;8,1,1,1,Autotrophs,Litoral,4,3
+217,Carp sp.,Nutrient recycling,2;4,1,1,1,Fish,Profoundal,5,2
+217,Carp sp.,Food provisioning,2;4,1,1,1,Fish,Profoundal,5,2
+217,Carp sp.,Biocontrol,2;4,1,1,1,Fish,Profoundal,5,2
+218,Big fish juveniles,Nutrient recycling,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,3
+218,Big fish juveniles,Food provisioning,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,3
+218,Big fish juveniles,Biocontrol,1;2;3;4;5;6;7;8,1,1,1,Fish,Profoundal,3,3
+219,Tadploes,Biocontrol,2;3;4;7;8,0,1,1,Amphibians,Limnetic,2,3
+219,Tadploes,Bioindicators,2;3;4;7;8,0,1,1,Amphibians,Limnetic,2,3

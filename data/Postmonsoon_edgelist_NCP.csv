@@ -1,0 +1,2361 @@
+,from,to,link_type
+1,Channa punctata,Felis chaus,0
+2,Channa striata,Felis chaus,0
+3,Mystus tengara,Felis chaus,0
+4,Mystus vittatus,Felis chaus,0
+5,Glossogobius giuris,Felis chaus,0
+6,Oreochromis niloticus,Felis chaus,0
+7,Duttaphrynus melanostictus,Felis chaus,0
+8,Minervarya agricola,Felis chaus,0
+9,Hoplobatrachus tigerinus,Felis chaus,0
+10,Netuma thalassina,Prionailurus viverrinus,0
+11,Macrognathus pancalus,Prionailurus viverrinus,0
+12,Mystus tengara,Prionailurus viverrinus,0
+13,Mystus vittatus,Prionailurus viverrinus,0
+14,Xenentodon cancila,Prionailurus viverrinus,0
+15,Channa punctata,Prionailurus viverrinus,0
+16,Channa striata,Prionailurus viverrinus,0
+17,Channa gachua,Prionailurus viverrinus,0
+18,Oreochromis niloticus,Prionailurus viverrinus,0
+19,Glossogobius giuris,Prionailurus viverrinus,0
+20,Heteropneustes fossilis,Prionailurus viverrinus,0
+21,Mastacembelus armatus,Prionailurus viverrinus,0
+22,Notopterus notopterus,Prionailurus viverrinus,0
+23,Trichogaster lalius,Prionailurus viverrinus,0
+24,Trichogaster fasciata,Prionailurus viverrinus,0
+25,Diplonychus annulatus,Prionailurus viverrinus,0
+26,Diplonychus rusticus,Prionailurus viverrinus,0
+27,Aquarius adelaides,Prionailurus viverrinus,0
+28,Limnogonus fossarum,Prionailurus viverrinus,0
+29,Laccotrephes griseus,Prionailurus viverrinus,0
+30,Laccotrephes ruber,Prionailurus viverrinus,0
+31,Ranatra elongata,Prionailurus viverrinus,0
+32,Ranatra filiformis,Prionailurus viverrinus,0
+33,Ranatra varipes,Prionailurus viverrinus,0
+34,Anisops campbelli,Prionailurus viverrinus,0
+35,Duttaphrynus melanostictus,Prionailurus viverrinus,0
+36,Euphlyctis cyanophlyctis,Prionailurus viverrinus,0
+37,Hoplobatrachus tigerinus,Prionailurus viverrinus,0
+38,Lissemys punctata,Prionailurus viverrinus,0
+39,Big fish juveniles,Prionailurus viverrinus,0
+40,Parambassis baculis,Dendrocygna javanica,0
+41,Aplocheilus panchax,Dendrocygna javanica,0
+42,Netuma thalassina,Dendrocygna javanica,0
+43,Badis badis,Dendrocygna javanica,0
+44,Mystus tengara,Dendrocygna javanica,0
+45,Mystus vittatus,Dendrocygna javanica,0
+46,Xenentodon cancila,Dendrocygna javanica,0
+47,Channa punctata,Dendrocygna javanica,0
+48,Channa striata,Dendrocygna javanica,0
+49,Channa gachua,Dendrocygna javanica,0
+50,Oreochromis niloticus,Dendrocygna javanica,0
+51,Puntius vittatus,Dendrocygna javanica,0
+52,Rasbora daniconius,Dendrocygna javanica,0
+53,Pethia phutunio,Dendrocygna javanica,0
+54,Glossogobius giuris,Dendrocygna javanica,0
+55,Heteropneustes fossilis,Dendrocygna javanica,0
+56,Macrognathus pancalus,Dendrocygna javanica,0
+57,Mastacembelus armatus,Dendrocygna javanica,0
+58,Notopterus notopterus,Dendrocygna javanica,0
+59,Trichogaster lalius,Dendrocygna javanica,0
+60,Trichogaster fasciata,Dendrocygna javanica,0
+61,Herbaceous aquatic plants,Dendrocygna javanica,0
+62,Big fish juveniles,Dendrocygna javanica,0
+63,Herbaceous aquatic plants,Tadorna ferruginea,0
+64,Green Algae,Tadorna ferruginea,0
+65,Macrobrachium malcolmsonii,Tadorna ferruginea,0
+66,Macrobrachium rosenbergii,Tadorna ferruginea,0
+67,Macrobrachium rude,Tadorna ferruginea,0
+68,Macrobrachium equidens,Tadorna ferruginea,0
+69,Diplonychus annulatus,Tadorna ferruginea,0
+70,Diplonychus rusticus,Tadorna ferruginea,0
+71,Aquarius adelaides,Tadorna ferruginea,0
+72,Limnogonus fossarum,Tadorna ferruginea,0
+73,Laccotrephes griseus,Tadorna ferruginea,0
+74,Laccotrephes ruber,Tadorna ferruginea,0
+75,Ranatra elongata,Tadorna ferruginea,0
+76,Ranatra filiformis,Tadorna ferruginea,0
+77,Ranatra varipes,Tadorna ferruginea,0
+78,Anisops campbelli,Tadorna ferruginea,0
+79,Hydrovatus confertus,Tadorna ferruginea,0
+80,Herbaceous aquatic plants,Nettapus coromandelianus,0
+81,Macrobrachium malcolmsonii,Nettapus coromandelianus,0
+82,Macrobrachium rosenbergii,Nettapus coromandelianus,0
+83,Macrobrachium rude,Nettapus coromandelianus,0
+84,Macrobrachium equidens,Nettapus coromandelianus,0
+85,Diplonychus annulatus,Nettapus coromandelianus,0
+86,Diplonychus rusticus,Nettapus coromandelianus,0
+87,Aquarius adelaides,Nettapus coromandelianus,0
+88,Limnogonus fossarum,Nettapus coromandelianus,0
+89,Laccotrephes griseus,Nettapus coromandelianus,0
+90,Laccotrephes ruber,Nettapus coromandelianus,0
+91,Ranatra elongata,Nettapus coromandelianus,0
+92,Ranatra filiformis,Nettapus coromandelianus,0
+93,Ranatra varipes,Nettapus coromandelianus,0
+94,Anisops campbelli,Nettapus coromandelianus,0
+95,Hydrovatus confertus,Nettapus coromandelianus,0
+96,Herbaceous aquatic plants,Spatula querquedula,0
+97,Diplonychus annulatus,Spatula querquedula,0
+98,Diplonychus rusticus,Spatula querquedula,0
+99,Aquarius adelaides,Spatula querquedula,0
+100,Limnogonus fossarum,Spatula querquedula,0
+101,Laccotrephes griseus,Spatula querquedula,0
+102,Laccotrephes ruber,Spatula querquedula,0
+103,Ranatra elongata,Spatula querquedula,0
+104,Ranatra filiformis,Spatula querquedula,0
+105,Ranatra varipes,Spatula querquedula,0
+106,Anisops campbelli,Spatula querquedula,0
+107,Hydrovatus confertus,Spatula querquedula,0
+108,Herbaceous aquatic plants,Anas poecilorhyncha,0
+109,Diplonychus annulatus,Anas poecilorhyncha,0
+110,Diplonychus rusticus,Anas poecilorhyncha,0
+111,Aquarius adelaides,Anas poecilorhyncha,0
+112,Limnogonus fossarum,Anas poecilorhyncha,0
+113,Laccotrephes griseus,Anas poecilorhyncha,0
+114,Laccotrephes ruber,Anas poecilorhyncha,0
+115,Ranatra elongata,Anas poecilorhyncha,0
+116,Ranatra filiformis,Anas poecilorhyncha,0
+117,Ranatra varipes,Anas poecilorhyncha,0
+118,Anisops campbelli,Anas poecilorhyncha,0
+119,Hydrovatus confertus,Anas poecilorhyncha,0
+120,Herbaceous aquatic plants,Anas acuta,0
+121,Diplonychus annulatus,Anas acuta,0
+122,Diplonychus rusticus,Anas acuta,0
+123,Aquarius adelaides,Anas acuta,0
+124,Limnogonus fossarum,Anas acuta,0
+125,Laccotrephes griseus,Anas acuta,0
+126,Laccotrephes ruber,Anas acuta,0
+127,Ranatra elongata,Anas acuta,0
+128,Ranatra filiformis,Anas acuta,0
+129,Ranatra varipes,Anas acuta,0
+130,Anisops campbelli,Anas acuta,0
+131,Hydrovatus confertus,Anas acuta,0
+132,Herbaceous aquatic plants,Netta rufina,0
+133,Diplonychus annulatus,Netta rufina,0
+134,Diplonychus rusticus,Netta rufina,0
+135,Aquarius adelaides,Netta rufina,0
+136,Limnogonus fossarum,Netta rufina,0
+137,Laccotrephes griseus,Netta rufina,0
+138,Laccotrephes ruber,Netta rufina,0
+139,Ranatra elongata,Netta rufina,0
+140,Ranatra filiformis,Netta rufina,0
+141,Ranatra varipes,Netta rufina,0
+142,Anisops campbelli,Netta rufina,0
+143,Hydrovatus confertus,Netta rufina,0
+144,Green Algae,Netta rufina,0
+145,Parambassis baculis,Tachybaptus ruficollis,0
+146,Aplocheilus panchax,Tachybaptus ruficollis,0
+147,Badis badis,Tachybaptus ruficollis,0
+148,Puntius vittatus,Tachybaptus ruficollis,0
+149,Rasbora daniconius,Tachybaptus ruficollis,0
+150,Pethia phutunio,Tachybaptus ruficollis,0
+151,Trichogaster lalius,Tachybaptus ruficollis,0
+152,Trichogaster fasciata,Tachybaptus ruficollis,0
+153,Big fish juveniles,Tachybaptus ruficollis,0
+154,Tadploes,Tachybaptus ruficollis,0
+155,Macrobrachium malcolmsonii,Tachybaptus ruficollis,0
+156,Macrobrachium rosenbergii,Tachybaptus ruficollis,0
+157,Macrobrachium rude,Tachybaptus ruficollis,0
+158,Macrobrachium equidens,Tachybaptus ruficollis,0
+159,Diplonychus annulatus,Tachybaptus ruficollis,0
+160,Diplonychus rusticus,Tachybaptus ruficollis,0
+161,Aquarius adelaides,Tachybaptus ruficollis,0
+162,Limnogonus fossarum,Tachybaptus ruficollis,0
+163,Laccotrephes griseus,Tachybaptus ruficollis,0
+164,Laccotrephes ruber,Tachybaptus ruficollis,0
+165,Ranatra elongata,Tachybaptus ruficollis,0
+166,Ranatra filiformis,Tachybaptus ruficollis,0
+167,Ranatra varipes,Tachybaptus ruficollis,0
+168,Anisops campbelli,Tachybaptus ruficollis,0
+169,Hydrovatus confertus,Tachybaptus ruficollis,0
+171,Diplonychus annulatus,Centropus bengalensis,0
+172,Diplonychus rusticus,Centropus bengalensis,0
+173,Aquarius adelaides,Centropus bengalensis,0
+174,Limnogonus fossarum,Centropus bengalensis,0
+175,Laccotrephes griseus,Centropus bengalensis,0
+176,Laccotrephes ruber,Centropus bengalensis,0
+177,Ranatra elongata,Centropus bengalensis,0
+178,Ranatra filiformis,Centropus bengalensis,0
+179,Ranatra varipes,Centropus bengalensis,0
+180,Anisops campbelli,Centropus bengalensis,0
+181,Hydrovatus confertus,Centropus bengalensis,0
+182,Duttaphrynus melanostictus,Centropus bengalensis,0
+183,Minervarya agricola,Centropus bengalensis,0
+184,Euphlyctis cyanophlyctis,Centropus bengalensis,0
+185,Hoplobatrachus tigerinus,Centropus bengalensis,0
+186,Microhyla mymensinghensis,Centropus bengalensis,0
+187,Polypedates maculatus,Centropus bengalensis,0
+188,Herbaceous aquatic plants,Gallinula chloropus,0
+189,Diplonychus annulatus,Gallinula chloropus,0
+190,Diplonychus rusticus,Gallinula chloropus,0
+191,Aquarius adelaides,Gallinula chloropus,0
+192,Limnogonus fossarum,Gallinula chloropus,0
+193,Laccotrephes griseus,Gallinula chloropus,0
+194,Laccotrephes ruber,Gallinula chloropus,0
+195,Ranatra elongata,Gallinula chloropus,0
+196,Ranatra filiformis,Gallinula chloropus,0
+197,Ranatra varipes,Gallinula chloropus,0
+198,Anisops campbelli,Gallinula chloropus,0
+199,Hydrovatus confertus,Gallinula chloropus,0
+200,Duttaphrynus melanostictus,Gallinula chloropus,0
+201,Minervarya agricola,Gallinula chloropus,0
+202,Euphlyctis cyanophlyctis,Gallinula chloropus,0
+203,Hoplobatrachus tigerinus,Gallinula chloropus,0
+204,Microhyla mymensinghensis,Gallinula chloropus,0
+205,Polypedates maculatus,Gallinula chloropus,0
+206,Herbaceous aquatic plants,Fulica atra,0
+207,Diplonychus annulatus,Fulica atra,0
+208,Diplonychus rusticus,Fulica atra,0
+209,Aquarius adelaides,Fulica atra,0
+210,Limnogonus fossarum,Fulica atra,0
+211,Laccotrephes griseus,Fulica atra,0
+212,Laccotrephes ruber,Fulica atra,0
+213,Ranatra elongata,Fulica atra,0
+214,Ranatra filiformis,Fulica atra,0
+215,Ranatra varipes,Fulica atra,0
+216,Anisops campbelli,Fulica atra,0
+217,Hydrovatus confertus,Fulica atra,0
+218,Herbaceous aquatic plants,Porphyrio poliocephalus,0
+219,Diplonychus annulatus,Porphyrio poliocephalus,0
+220,Diplonychus rusticus,Porphyrio poliocephalus,0
+221,Aquarius adelaides,Porphyrio poliocephalus,0
+222,Limnogonus fossarum,Porphyrio poliocephalus,0
+223,Laccotrephes griseus,Porphyrio poliocephalus,0
+224,Laccotrephes ruber,Porphyrio poliocephalus,0
+225,Ranatra elongata,Porphyrio poliocephalus,0
+226,Ranatra filiformis,Porphyrio poliocephalus,0
+227,Ranatra varipes,Porphyrio poliocephalus,0
+228,Anisops campbelli,Porphyrio poliocephalus,0
+229,Hydrovatus confertus,Porphyrio poliocephalus,0
+230,Herbaceous aquatic plants,Amaurornis phoenicurus,0
+231,Diplonychus annulatus,Amaurornis phoenicurus,0
+232,Diplonychus rusticus,Amaurornis phoenicurus,0
+233,Aquarius adelaides,Amaurornis phoenicurus,0
+234,Limnogonus fossarum,Amaurornis phoenicurus,0
+235,Laccotrephes griseus,Amaurornis phoenicurus,0
+236,Laccotrephes ruber,Amaurornis phoenicurus,0
+237,Ranatra elongata,Amaurornis phoenicurus,0
+238,Ranatra filiformis,Amaurornis phoenicurus,0
+239,Ranatra varipes,Amaurornis phoenicurus,0
+240,Anisops campbelli,Amaurornis phoenicurus,0
+241,Hydrovatus confertus,Amaurornis phoenicurus,0
+242,Parambassis baculis,Amaurornis phoenicurus,0
+243,Aplocheilus panchax,Amaurornis phoenicurus,0
+244,Badis badis,Amaurornis phoenicurus,0
+245,Puntius vittatus,Amaurornis phoenicurus,0
+246,Rasbora daniconius,Amaurornis phoenicurus,0
+247,Pethia phutunio,Amaurornis phoenicurus,0
+248,Trichogaster lalius,Amaurornis phoenicurus,0
+249,Trichogaster fasciata,Amaurornis phoenicurus,0
+250,Big fish juveniles,Amaurornis phoenicurus,0
+251,Diplonychus annulatus,Himantopus himantopus,0
+252,Diplonychus rusticus,Himantopus himantopus,0
+253,Aquarius adelaides,Himantopus himantopus,0
+254,Limnogonus fossarum,Himantopus himantopus,0
+255,Laccotrephes griseus,Himantopus himantopus,0
+256,Laccotrephes ruber,Himantopus himantopus,0
+257,Ranatra elongata,Himantopus himantopus,0
+258,Ranatra filiformis,Himantopus himantopus,0
+259,Ranatra varipes,Himantopus himantopus,0
+260,Anisops campbelli,Himantopus himantopus,0
+261,Hydrovatus confertus,Himantopus himantopus,0
+262,Diplonychus annulatus,Pluvialis fulva,0
+263,Diplonychus rusticus,Pluvialis fulva,0
+264,Aquarius adelaides,Pluvialis fulva,0
+265,Limnogonus fossarum,Pluvialis fulva,0
+266,Laccotrephes griseus,Pluvialis fulva,0
+267,Laccotrephes ruber,Pluvialis fulva,0
+268,Ranatra elongata,Pluvialis fulva,0
+269,Ranatra filiformis,Pluvialis fulva,0
+270,Ranatra varipes,Pluvialis fulva,0
+271,Anisops campbelli,Pluvialis fulva,0
+272,Hydrovatus confertus,Pluvialis fulva,0
+273,Diplonychus annulatus,Charadrius dubius,0
+274,Diplonychus rusticus,Charadrius dubius,0
+275,Aquarius adelaides,Charadrius dubius,0
+276,Limnogonus fossarum,Charadrius dubius,0
+277,Laccotrephes griseus,Charadrius dubius,0
+278,Laccotrephes ruber,Charadrius dubius,0
+279,Ranatra elongata,Charadrius dubius,0
+280,Ranatra filiformis,Charadrius dubius,0
+281,Ranatra varipes,Charadrius dubius,0
+282,Anisops campbelli,Charadrius dubius,0
+283,Hydrovatus confertus,Charadrius dubius,0
+284,Diplonychus annulatus,Vanellus malabaricus,0
+285,Diplonychus rusticus,Vanellus malabaricus,0
+286,Aquarius adelaides,Vanellus malabaricus,0
+287,Limnogonus fossarum,Vanellus malabaricus,0
+288,Laccotrephes griseus,Vanellus malabaricus,0
+289,Laccotrephes ruber,Vanellus malabaricus,0
+290,Ranatra elongata,Vanellus malabaricus,0
+291,Ranatra filiformis,Vanellus malabaricus,0
+292,Ranatra varipes,Vanellus malabaricus,0
+293,Anisops campbelli,Vanellus malabaricus,0
+294,Hydrovatus confertus,Vanellus malabaricus,0
+295,Diplonychus annulatus,Vanellus indicus,0
+296,Diplonychus rusticus,Vanellus indicus,0
+297,Aquarius adelaides,Vanellus indicus,0
+298,Limnogonus fossarum,Vanellus indicus,0
+299,Laccotrephes griseus,Vanellus indicus,0
+300,Laccotrephes ruber,Vanellus indicus,0
+301,Ranatra elongata,Vanellus indicus,0
+302,Ranatra filiformis,Vanellus indicus,0
+303,Ranatra varipes,Vanellus indicus,0
+304,Anisops campbelli,Vanellus indicus,0
+305,Hydrovatus confertus,Vanellus indicus,0
+306,Herbaceous aquatic plants,Metopidius indicus,0
+307,Diplonychus annulatus,Metopidius indicus,0
+308,Diplonychus rusticus,Metopidius indicus,0
+309,Aquarius adelaides,Metopidius indicus,0
+310,Limnogonus fossarum,Metopidius indicus,0
+311,Laccotrephes griseus,Metopidius indicus,0
+312,Laccotrephes ruber,Metopidius indicus,0
+313,Ranatra elongata,Metopidius indicus,0
+314,Ranatra filiformis,Metopidius indicus,0
+315,Ranatra varipes,Metopidius indicus,0
+316,Anisops campbelli,Metopidius indicus,0
+317,Hydrovatus confertus,Metopidius indicus,0
+318,Herbaceous aquatic plants,Hydrophasianus chirurgus,0
+319,Diplonychus annulatus,Hydrophasianus chirurgus,0
+320,Diplonychus rusticus,Hydrophasianus chirurgus,0
+321,Aquarius adelaides,Hydrophasianus chirurgus,0
+322,Limnogonus fossarum,Hydrophasianus chirurgus,0
+323,Laccotrephes griseus,Hydrophasianus chirurgus,0
+324,Laccotrephes ruber,Hydrophasianus chirurgus,0
+325,Ranatra elongata,Hydrophasianus chirurgus,0
+326,Ranatra filiformis,Hydrophasianus chirurgus,0
+327,Ranatra varipes,Hydrophasianus chirurgus,0
+328,Anisops campbelli,Hydrophasianus chirurgus,0
+329,Hydrovatus confertus,Hydrophasianus chirurgus,0
+330,Diplonychus annulatus,Numenius arquata,0
+331,Diplonychus rusticus,Numenius arquata,0
+332,Aquarius adelaides,Numenius arquata,0
+333,Limnogonus fossarum,Numenius arquata,0
+334,Laccotrephes griseus,Numenius arquata,0
+335,Laccotrephes ruber,Numenius arquata,0
+336,Ranatra elongata,Numenius arquata,0
+337,Ranatra filiformis,Numenius arquata,0
+338,Ranatra varipes,Numenius arquata,0
+339,Anisops campbelli,Numenius arquata,0
+340,Hydrovatus confertus,Numenius arquata,0
+341,Macrobrachium malcolmsonii,Calidris minuta,0
+342,Macrobrachium rosenbergii,Calidris minuta,0
+343,Macrobrachium rude,Calidris minuta,0
+344,Macrobrachium equidens,Calidris minuta,0
+345,Diplonychus annulatus,Calidris minuta,0
+346,Diplonychus rusticus,Calidris minuta,0
+347,Aquarius adelaides,Calidris minuta,0
+348,Limnogonus fossarum,Calidris minuta,0
+349,Laccotrephes griseus,Calidris minuta,0
+350,Laccotrephes ruber,Calidris minuta,0
+351,Ranatra elongata,Calidris minuta,0
+352,Ranatra filiformis,Calidris minuta,0
+353,Ranatra varipes,Calidris minuta,0
+354,Anisops campbelli,Calidris minuta,0
+355,Hydrovatus confertus,Calidris minuta,0
+356,Diplonychus annulatus,Xenus cinereus,0
+357,Diplonychus rusticus,Xenus cinereus,0
+358,Aquarius adelaides,Xenus cinereus,0
+359,Limnogonus fossarum,Xenus cinereus,0
+360,Laccotrephes griseus,Xenus cinereus,0
+361,Laccotrephes ruber,Xenus cinereus,0
+362,Ranatra elongata,Xenus cinereus,0
+363,Ranatra filiformis,Xenus cinereus,0
+364,Ranatra varipes,Xenus cinereus,0
+365,Anisops campbelli,Xenus cinereus,0
+366,Hydrovatus confertus,Xenus cinereus,0
+367,Macrobrachium malcolmsonii,Xenus cinereus,0
+368,Macrobrachium rosenbergii,Xenus cinereus,0
+369,Macrobrachium rude,Xenus cinereus,0
+370,Macrobrachium equidens,Xenus cinereus,0
+371,Macrobrachium malcolmsonii,Tringa ochropus,0
+372,Macrobrachium rosenbergii,Tringa ochropus,0
+373,Macrobrachium rude,Tringa ochropus,0
+374,Macrobrachium equidens,Tringa ochropus,0
+375,Diplonychus annulatus,Tringa ochropus,0
+376,Diplonychus rusticus,Tringa ochropus,0
+377,Aquarius adelaides,Tringa ochropus,0
+378,Limnogonus fossarum,Tringa ochropus,0
+379,Laccotrephes griseus,Tringa ochropus,0
+380,Laccotrephes ruber,Tringa ochropus,0
+381,Ranatra elongata,Tringa ochropus,0
+382,Ranatra filiformis,Tringa ochropus,0
+383,Ranatra varipes,Tringa ochropus,0
+384,Anisops campbelli,Tringa ochropus,0
+385,Hydrovatus confertus,Tringa ochropus,0
+386,Tadploes,Tringa nebularia,0
+387,Macrobrachium malcolmsonii,Tringa nebularia,0
+388,Macrobrachium rosenbergii,Tringa nebularia,0
+389,Macrobrachium rude,Tringa nebularia,0
+390,Macrobrachium equidens,Tringa nebularia,0
+391,Diplonychus annulatus,Tringa nebularia,0
+392,Diplonychus rusticus,Tringa nebularia,0
+393,Aquarius adelaides,Tringa nebularia,0
+394,Limnogonus fossarum,Tringa nebularia,0
+395,Laccotrephes griseus,Tringa nebularia,0
+396,Laccotrephes ruber,Tringa nebularia,0
+397,Ranatra elongata,Tringa nebularia,0
+398,Ranatra filiformis,Tringa nebularia,0
+399,Ranatra varipes,Tringa nebularia,0
+400,Anisops campbelli,Tringa nebularia,0
+401,Hydrovatus confertus,Tringa nebularia,0
+402,Macrobrachium malcolmsonii,Tringa stagnatilis,0
+403,Macrobrachium rosenbergii,Tringa stagnatilis,0
+404,Macrobrachium rude,Tringa stagnatilis,0
+405,Macrobrachium equidens,Tringa stagnatilis,0
+406,Diplonychus annulatus,Tringa stagnatilis,0
+407,Diplonychus rusticus,Tringa stagnatilis,0
+408,Aquarius adelaides,Tringa stagnatilis,0
+409,Limnogonus fossarum,Tringa stagnatilis,0
+410,Laccotrephes griseus,Tringa stagnatilis,0
+411,Laccotrephes ruber,Tringa stagnatilis,0
+412,Ranatra elongata,Tringa stagnatilis,0
+413,Ranatra filiformis,Tringa stagnatilis,0
+414,Ranatra varipes,Tringa stagnatilis,0
+415,Anisops campbelli,Tringa stagnatilis,0
+416,Hydrovatus confertus,Tringa stagnatilis,0
+417,Parambassis baculis,Tringa glareola,0
+418,Aplocheilus panchax,Tringa glareola,0
+419,Badis badis,Tringa glareola,0
+420,Puntius vittatus,Tringa glareola,0
+421,Rasbora daniconius,Tringa glareola,0
+422,Pethia phutunio,Tringa glareola,0
+423,Trichogaster lalius,Tringa glareola,0
+424,Trichogaster fasciata,Tringa glareola,0
+425,Macrobrachium malcolmsonii,Tringa glareola,0
+426,Macrobrachium rosenbergii,Tringa glareola,0
+427,Macrobrachium rude,Tringa glareola,0
+428,Macrobrachium equidens,Tringa glareola,0
+429,Big fish juveniles,Tringa glareola,0
+430,Diplonychus annulatus,Tringa tetanus,0
+431,Diplonychus rusticus,Tringa tetanus,0
+432,Aquarius adelaides,Tringa tetanus,0
+433,Limnogonus fossarum,Tringa tetanus,0
+434,Laccotrephes griseus,Tringa tetanus,0
+435,Laccotrephes ruber,Tringa tetanus,0
+436,Ranatra elongata,Tringa tetanus,0
+437,Ranatra filiformis,Tringa tetanus,0
+438,Ranatra varipes,Tringa tetanus,0
+439,Anisops campbelli,Tringa tetanus,0
+440,Hydrovatus confertus,Tringa tetanus,0
+441,Parambassis baculis,Chroicocephalus brunnicephalus,0
+442,Aplocheilus panchax,Chroicocephalus brunnicephalus,0
+443,Badis badis,Chroicocephalus brunnicephalus,0
+444,Puntius vittatus,Chroicocephalus brunnicephalus,0
+445,Rasbora daniconius,Chroicocephalus brunnicephalus,0
+446,Pethia phutunio,Chroicocephalus brunnicephalus,0
+447,Trichogaster lalius,Chroicocephalus brunnicephalus,0
+448,Trichogaster fasciata,Chroicocephalus brunnicephalus,0
+449,Macrobrachium malcolmsonii,Chroicocephalus brunnicephalus,0
+450,Macrobrachium rosenbergii,Chroicocephalus brunnicephalus,0
+451,Macrobrachium rude,Chroicocephalus brunnicephalus,0
+452,Macrobrachium equidens,Chroicocephalus brunnicephalus,0
+453,Diplonychus annulatus,Chroicocephalus brunnicephalus,0
+454,Diplonychus rusticus,Chroicocephalus brunnicephalus,0
+455,Aquarius adelaides,Chroicocephalus brunnicephalus,0
+456,Limnogonus fossarum,Chroicocephalus brunnicephalus,0
+457,Laccotrephes griseus,Chroicocephalus brunnicephalus,0
+458,Laccotrephes ruber,Chroicocephalus brunnicephalus,0
+459,Ranatra elongata,Chroicocephalus brunnicephalus,0
+460,Ranatra filiformis,Chroicocephalus brunnicephalus,0
+461,Ranatra varipes,Chroicocephalus brunnicephalus,0
+462,Anisops campbelli,Chroicocephalus brunnicephalus,0
+463,Hydrovatus confertus,Chroicocephalus brunnicephalus,0
+464,Big fish juveniles,Chroicocephalus brunnicephalus,0
+465,Parambassis baculis,Sternula albifrons,0
+466,Aplocheilus panchax,Sternula albifrons,0
+467,Badis badis,Sternula albifrons,0
+468,Puntius vittatus,Sternula albifrons,0
+469,Rasbora daniconius,Sternula albifrons,0
+470,Pethia phutunio,Sternula albifrons,0
+471,Trichogaster lalius,Sternula albifrons,0
+472,Trichogaster fasciata,Sternula albifrons,0
+473,Macrobrachium malcolmsonii,Sternula albifrons,0
+474,Macrobrachium rosenbergii,Sternula albifrons,0
+475,Macrobrachium rude,Sternula albifrons,0
+476,Macrobrachium equidens,Sternula albifrons,0
+477,Big fish juveniles,Sternula albifrons,0
+478,Tadploes,Chlidonias hybrida,0
+479,Parambassis baculis,Chlidonias hybrida,0
+480,Aplocheilus panchax,Chlidonias hybrida,0
+481,Badis badis,Chlidonias hybrida,0
+482,Puntius vittatus,Chlidonias hybrida,0
+483,Rasbora daniconius,Chlidonias hybrida,0
+484,Pethia phutunio,Chlidonias hybrida,0
+485,Trichogaster lalius,Chlidonias hybrida,0
+486,Trichogaster fasciata,Chlidonias hybrida,0
+487,Macrobrachium malcolmsonii,Chlidonias hybrida,0
+488,Macrobrachium rosenbergii,Chlidonias hybrida,0
+489,Macrobrachium rude,Chlidonias hybrida,0
+490,Macrobrachium equidens,Chlidonias hybrida,0
+491,Diplonychus annulatus,Chlidonias hybrida,0
+492,Diplonychus rusticus,Chlidonias hybrida,0
+493,Aquarius adelaides,Chlidonias hybrida,0
+494,Limnogonus fossarum,Chlidonias hybrida,0
+495,Laccotrephes griseus,Chlidonias hybrida,0
+496,Laccotrephes ruber,Chlidonias hybrida,0
+497,Ranatra elongata,Chlidonias hybrida,0
+498,Ranatra filiformis,Chlidonias hybrida,0
+499,Ranatra varipes,Chlidonias hybrida,0
+500,Anisops campbelli,Chlidonias hybrida,0
+501,Hydrovatus confertus,Chlidonias hybrida,0
+502,Big fish juveniles,Chlidonias hybrida,0
+503,Tadploes,Sterna aurantia,0
+504,Parambassis baculis,Sterna aurantia,0
+505,Aplocheilus panchax,Sterna aurantia,0
+506,Badis badis,Sterna aurantia,0
+507,Puntius vittatus,Sterna aurantia,0
+508,Rasbora daniconius,Sterna aurantia,0
+509,Pethia phutunio,Sterna aurantia,0
+510,Trichogaster lalius,Sterna aurantia,0
+511,Trichogaster fasciata,Sterna aurantia,0
+512,Macrobrachium malcolmsonii,Sterna aurantia,0
+513,Macrobrachium rosenbergii,Sterna aurantia,0
+514,Macrobrachium rude,Sterna aurantia,0
+515,Macrobrachium equidens,Sterna aurantia,0
+516,Diplonychus annulatus,Sterna aurantia,0
+517,Diplonychus rusticus,Sterna aurantia,0
+518,Aquarius adelaides,Sterna aurantia,0
+519,Limnogonus fossarum,Sterna aurantia,0
+520,Laccotrephes griseus,Sterna aurantia,0
+521,Laccotrephes ruber,Sterna aurantia,0
+522,Ranatra elongata,Sterna aurantia,0
+523,Ranatra filiformis,Sterna aurantia,0
+524,Ranatra varipes,Sterna aurantia,0
+525,Anisops campbelli,Sterna aurantia,0
+526,Hydrovatus confertus,Sterna aurantia,0
+527,Big fish juveniles,Sterna aurantia,0
+528,Minervarya agricola,Anastomus oscitans,0
+529,Microhyla mymensinghensis,Anastomus oscitans,0
+530,Polypedates maculatus,Anastomus oscitans,0
+531,Parambassis baculis,Anastomus oscitans,0
+532,Aplocheilus panchax,Anastomus oscitans,0
+533,Badis badis,Anastomus oscitans,0
+534,Puntius vittatus,Anastomus oscitans,0
+535,Rasbora daniconius,Anastomus oscitans,0
+536,Pethia phutunio,Anastomus oscitans,0
+537,Trichogaster lalius,Anastomus oscitans,0
+538,Trichogaster fasciata,Anastomus oscitans,0
+539,Big fish juveniles,Anastomus oscitans,0
+540,Tadploes,Anastomus oscitans,0
+541,Parambassis baculis,Mycteria leucocephala,0
+542,Aplocheilus panchax,Mycteria leucocephala,0
+543,Netuma thalassina,Mycteria leucocephala,0
+544,Badis badis,Mycteria leucocephala,0
+545,Mystus tengara,Mycteria leucocephala,0
+546,Mystus vittatus,Mycteria leucocephala,0
+547,Xenentodon cancila,Mycteria leucocephala,0
+548,Channa punctata,Mycteria leucocephala,0
+549,Channa striata,Mycteria leucocephala,0
+550,Channa gachua,Mycteria leucocephala,0
+551,Oreochromis niloticus,Mycteria leucocephala,0
+552,Puntius vittatus,Mycteria leucocephala,0
+553,Rasbora daniconius,Mycteria leucocephala,0
+554,Pethia phutunio,Mycteria leucocephala,0
+555,Glossogobius giuris,Mycteria leucocephala,0
+556,Heteropneustes fossilis,Mycteria leucocephala,0
+557,Macrognathus pancalus,Mycteria leucocephala,0
+558,Mastacembelus armatus,Mycteria leucocephala,0
+559,Notopterus notopterus,Mycteria leucocephala,0
+560,Trichogaster lalius,Mycteria leucocephala,0
+561,Trichogaster fasciata,Mycteria leucocephala,0
+562,Duttaphrynus melanostictus,Mycteria leucocephala,0
+563,Minervarya agricola,Mycteria leucocephala,0
+564,Euphlyctis cyanophlyctis,Mycteria leucocephala,0
+565,Hoplobatrachus tigerinus,Mycteria leucocephala,0
+566,Microhyla mymensinghensis,Mycteria leucocephala,0
+567,Polypedates maculatus,Mycteria leucocephala,0
+568,Diplonychus annulatus,Mycteria leucocephala,0
+569,Diplonychus rusticus,Mycteria leucocephala,0
+570,Aquarius adelaides,Mycteria leucocephala,0
+571,Limnogonus fossarum,Mycteria leucocephala,0
+572,Laccotrephes griseus,Mycteria leucocephala,0
+573,Laccotrephes ruber,Mycteria leucocephala,0
+574,Ranatra elongata,Mycteria leucocephala,0
+575,Ranatra filiformis,Mycteria leucocephala,0
+576,Ranatra varipes,Mycteria leucocephala,0
+577,Anisops campbelli,Mycteria leucocephala,0
+578,Hydrovatus confertus,Mycteria leucocephala,0
+579,Big fish juveniles,Mycteria leucocephala,0
+580,Tadploes,Mycteria leucocephala,0
+581,Parambassis baculis,Anhinga melanogaster,0
+582,Aplocheilus panchax,Anhinga melanogaster,0
+583,Badis badis,Anhinga melanogaster,0
+584,Puntius vittatus,Anhinga melanogaster,0
+585,Rasbora daniconius,Anhinga melanogaster,0
+586,Pethia phutunio,Anhinga melanogaster,0
+587,Trichogaster lalius,Anhinga melanogaster,0
+588,Trichogaster fasciata,Anhinga melanogaster,0
+589,Big fish juveniles,Anhinga melanogaster,0
+590,Parambassis baculis,Microcarbo niger,0
+591,Aplocheilus panchax,Microcarbo niger,0
+592,Badis badis,Microcarbo niger,0
+593,Puntius vittatus,Microcarbo niger,0
+594,Rasbora daniconius,Microcarbo niger,0
+595,Pethia phutunio,Microcarbo niger,0
+596,Trichogaster lalius,Microcarbo niger,0
+597,Trichogaster fasciata,Microcarbo niger,0
+598,Tadploes,Microcarbo niger,0
+599,Duttaphrynus melanostictus,Microcarbo niger,0
+600,Minervarya agricola,Microcarbo niger,0
+601,Euphlyctis cyanophlyctis,Microcarbo niger,0
+602,Hoplobatrachus tigerinus,Microcarbo niger,0
+603,Microhyla mymensinghensis,Microcarbo niger,0
+604,Polypedates maculatus,Microcarbo niger,0
+605,Macrobrachium malcolmsonii,Microcarbo niger,0
+606,Macrobrachium rosenbergii,Microcarbo niger,0
+607,Macrobrachium rude,Microcarbo niger,0
+608,Macrobrachium equidens,Microcarbo niger,0
+609,Big fish juveniles,Microcarbo niger,0
+610,Parambassis baculis,Phalacrocorax fuscicollis,0
+611,Aplocheilus panchax,Phalacrocorax fuscicollis,0
+612,Badis badis,Phalacrocorax fuscicollis,0
+613,Puntius vittatus,Phalacrocorax fuscicollis,0
+614,Rasbora daniconius,Phalacrocorax fuscicollis,0
+615,Pethia phutunio,Phalacrocorax fuscicollis,0
+616,Trichogaster lalius,Phalacrocorax fuscicollis,0
+617,Trichogaster fasciata,Phalacrocorax fuscicollis,0
+618,Big fish juveniles,Phalacrocorax fuscicollis,0
+619,Parambassis baculis,Ardea cinerea,0
+620,Aplocheilus panchax,Ardea cinerea,0
+621,Netuma thalassina,Ardea cinerea,0
+622,Badis badis,Ardea cinerea,0
+623,Mystus tengara,Ardea cinerea,0
+624,Mystus vittatus,Ardea cinerea,0
+625,Xenentodon cancila,Ardea cinerea,0
+626,Channa punctata,Ardea cinerea,0
+627,Channa striata,Ardea cinerea,0
+628,Channa gachua,Ardea cinerea,0
+629,Oreochromis niloticus,Ardea cinerea,0
+630,Puntius vittatus,Ardea cinerea,0
+631,Rasbora daniconius,Ardea cinerea,0
+632,Pethia phutunio,Ardea cinerea,0
+633,Glossogobius giuris,Ardea cinerea,0
+634,Heteropneustes fossilis,Ardea cinerea,0
+635,Macrognathus pancalus,Ardea cinerea,0
+636,Mastacembelus armatus,Ardea cinerea,0
+637,Notopterus notopterus,Ardea cinerea,0
+638,Trichogaster lalius,Ardea cinerea,0
+639,Trichogaster fasciata,Ardea cinerea,0
+640,Duttaphrynus melanostictus,Ardea cinerea,0
+641,Minervarya agricola,Ardea cinerea,0
+642,Euphlyctis cyanophlyctis,Ardea cinerea,0
+643,Hoplobatrachus tigerinus,Ardea cinerea,0
+644,Microhyla mymensinghensis,Ardea cinerea,0
+645,Polypedates maculatus,Ardea cinerea,0
+646,Diplonychus annulatus,Ardea cinerea,0
+647,Diplonychus rusticus,Ardea cinerea,0
+648,Aquarius adelaides,Ardea cinerea,0
+649,Limnogonus fossarum,Ardea cinerea,0
+650,Laccotrephes griseus,Ardea cinerea,0
+651,Laccotrephes ruber,Ardea cinerea,0
+652,Ranatra elongata,Ardea cinerea,0
+653,Ranatra filiformis,Ardea cinerea,0
+654,Ranatra varipes,Ardea cinerea,0
+655,Anisops campbelli,Ardea cinerea,0
+656,Hydrovatus confertus,Ardea cinerea,0
+657,Macrobrachium malcolmsonii,Ardea cinerea,0
+658,Macrobrachium rosenbergii,Ardea cinerea,0
+659,Macrobrachium rude,Ardea cinerea,0
+660,Macrobrachium equidens,Ardea cinerea,0
+661,Big fish juveniles,Ardea cinerea,0
+662,Parambassis baculis,Ardea purpurea,0
+663,Aplocheilus panchax,Ardea purpurea,0
+664,Badis badis,Ardea purpurea,0
+665,Puntius vittatus,Ardea purpurea,0
+666,Rasbora daniconius,Ardea purpurea,0
+667,Pethia phutunio,Ardea purpurea,0
+668,Trichogaster lalius,Ardea purpurea,0
+669,Trichogaster fasciata,Ardea purpurea,0
+670,Enhydris enhydris,Ardea purpurea,0
+671,Fowlea piscator,Ardea purpurea,0
+672,Duttaphrynus melanostictus,Ardea purpurea,0
+673,Minervarya agricola,Ardea purpurea,0
+674,Euphlyctis cyanophlyctis,Ardea purpurea,0
+675,Hoplobatrachus tigerinus,Ardea purpurea,0
+676,Microhyla mymensinghensis,Ardea purpurea,0
+677,Polypedates maculatus,Ardea purpurea,0
+678,Diplonychus annulatus,Ardea purpurea,0
+679,Diplonychus rusticus,Ardea purpurea,0
+680,Aquarius adelaides,Ardea purpurea,0
+681,Limnogonus fossarum,Ardea purpurea,0
+682,Laccotrephes griseus,Ardea purpurea,0
+683,Laccotrephes ruber,Ardea purpurea,0
+684,Ranatra elongata,Ardea purpurea,0
+685,Ranatra filiformis,Ardea purpurea,0
+686,Ranatra varipes,Ardea purpurea,0
+687,Anisops campbelli,Ardea purpurea,0
+688,Hydrovatus confertus,Ardea purpurea,0
+689,Big fish juveniles,Ardea purpurea,0
+690,Parambassis baculis,Ardea alba,0
+691,Aplocheilus panchax,Ardea alba,0
+692,Badis badis,Ardea alba,0
+693,Puntius vittatus,Ardea alba,0
+694,Rasbora daniconius,Ardea alba,0
+695,Pethia phutunio,Ardea alba,0
+696,Trichogaster lalius,Ardea alba,0
+697,Trichogaster fasciata,Ardea alba,0
+698,Duttaphrynus melanostictus,Ardea alba,0
+699,Minervarya agricola,Ardea alba,0
+700,Euphlyctis cyanophlyctis,Ardea alba,0
+701,Hoplobatrachus tigerinus,Ardea alba,0
+702,Microhyla mymensinghensis,Ardea alba,0
+703,Polypedates maculatus,Ardea alba,0
+704,Diplonychus annulatus,Ardea alba,0
+705,Diplonychus rusticus,Ardea alba,0
+706,Aquarius adelaides,Ardea alba,0
+707,Limnogonus fossarum,Ardea alba,0
+708,Laccotrephes griseus,Ardea alba,0
+709,Laccotrephes ruber,Ardea alba,0
+710,Ranatra elongata,Ardea alba,0
+711,Ranatra filiformis,Ardea alba,0
+712,Ranatra varipes,Ardea alba,0
+713,Anisops campbelli,Ardea alba,0
+714,Hydrovatus confertus,Ardea alba,0
+715,Big fish juveniles,Ardea alba,0
+716,Parambassis baculis,Ardea intermedia,0
+717,Aplocheilus panchax,Ardea intermedia,0
+718,Badis badis,Ardea intermedia,0
+719,Puntius vittatus,Ardea intermedia,0
+720,Rasbora daniconius,Ardea intermedia,0
+721,Pethia phutunio,Ardea intermedia,0
+722,Trichogaster lalius,Ardea intermedia,0
+723,Trichogaster fasciata,Ardea intermedia,0
+724,Duttaphrynus melanostictus,Ardea intermedia,0
+725,Minervarya agricola,Ardea intermedia,0
+726,Euphlyctis cyanophlyctis,Ardea intermedia,0
+727,Hoplobatrachus tigerinus,Ardea intermedia,0
+728,Microhyla mymensinghensis,Ardea intermedia,0
+729,Polypedates maculatus,Ardea intermedia,0
+730,Diplonychus annulatus,Ardea intermedia,0
+731,Diplonychus rusticus,Ardea intermedia,0
+732,Aquarius adelaides,Ardea intermedia,0
+733,Limnogonus fossarum,Ardea intermedia,0
+734,Laccotrephes griseus,Ardea intermedia,0
+735,Laccotrephes ruber,Ardea intermedia,0
+736,Ranatra elongata,Ardea intermedia,0
+737,Ranatra filiformis,Ardea intermedia,0
+738,Ranatra varipes,Ardea intermedia,0
+739,Anisops campbelli,Ardea intermedia,0
+740,Hydrovatus confertus,Ardea intermedia,0
+741,Big fish juveniles,Ardea intermedia,0
+742,Parambassis baculis,Egretta garzetta,0
+743,Aplocheilus panchax,Egretta garzetta,0
+744,Badis badis,Egretta garzetta,0
+745,Puntius vittatus,Egretta garzetta,0
+746,Rasbora daniconius,Egretta garzetta,0
+747,Pethia phutunio,Egretta garzetta,0
+748,Trichogaster lalius,Egretta garzetta,0
+749,Trichogaster fasciata,Egretta garzetta,0
+750,Duttaphrynus melanostictus,Egretta garzetta,0
+751,Minervarya agricola,Egretta garzetta,0
+752,Euphlyctis cyanophlyctis,Egretta garzetta,0
+753,Hoplobatrachus tigerinus,Egretta garzetta,0
+754,Microhyla mymensinghensis,Egretta garzetta,0
+755,Polypedates maculatus,Egretta garzetta,0
+756,Diplonychus annulatus,Egretta garzetta,0
+757,Diplonychus rusticus,Egretta garzetta,0
+758,Aquarius adelaides,Egretta garzetta,0
+759,Limnogonus fossarum,Egretta garzetta,0
+760,Laccotrephes griseus,Egretta garzetta,0
+761,Laccotrephes ruber,Egretta garzetta,0
+762,Ranatra elongata,Egretta garzetta,0
+763,Ranatra filiformis,Egretta garzetta,0
+764,Ranatra varipes,Egretta garzetta,0
+765,Anisops campbelli,Egretta garzetta,0
+766,Hydrovatus confertus,Egretta garzetta,0
+767,Macrobrachium malcolmsonii,Egretta garzetta,0
+768,Macrobrachium rosenbergii,Egretta garzetta,0
+769,Macrobrachium rude,Egretta garzetta,0
+770,Macrobrachium equidens,Egretta garzetta,0
+771,Big fish juveniles,Egretta garzetta,0
+772,Parambassis baculis,Bubulcus ibis,0
+773,Aplocheilus panchax,Bubulcus ibis,0
+774,Badis badis,Bubulcus ibis,0
+775,Puntius vittatus,Bubulcus ibis,0
+776,Rasbora daniconius,Bubulcus ibis,0
+777,Pethia phutunio,Bubulcus ibis,0
+778,Trichogaster lalius,Bubulcus ibis,0
+779,Trichogaster fasciata,Bubulcus ibis,0
+780,Diplonychus annulatus,Bubulcus ibis,0
+781,Diplonychus rusticus,Bubulcus ibis,0
+782,Aquarius adelaides,Bubulcus ibis,0
+783,Limnogonus fossarum,Bubulcus ibis,0
+784,Laccotrephes griseus,Bubulcus ibis,0
+785,Laccotrephes ruber,Bubulcus ibis,0
+786,Ranatra elongata,Bubulcus ibis,0
+787,Ranatra filiformis,Bubulcus ibis,0
+788,Ranatra varipes,Bubulcus ibis,0
+789,Anisops campbelli,Bubulcus ibis,0
+790,Hydrovatus confertus,Bubulcus ibis,0
+791,Big fish juveniles,Bubulcus ibis,0
+792,Parambassis baculis,Ardeola grayii,0
+793,Aplocheilus panchax,Ardeola grayii,0
+794,Badis badis,Ardeola grayii,0
+795,Puntius vittatus,Ardeola grayii,0
+796,Rasbora daniconius,Ardeola grayii,0
+797,Pethia phutunio,Ardeola grayii,0
+798,Trichogaster lalius,Ardeola grayii,0
+799,Trichogaster fasciata,Ardeola grayii,0
+800,Duttaphrynus melanostictus,Ardeola grayii,0
+801,Minervarya agricola,Ardeola grayii,0
+802,Euphlyctis cyanophlyctis,Ardeola grayii,0
+803,Hoplobatrachus tigerinus,Ardeola grayii,0
+804,Microhyla mymensinghensis,Ardeola grayii,0
+805,Polypedates maculatus,Ardeola grayii,0
+806,Diplonychus annulatus,Ardeola grayii,0
+807,Diplonychus rusticus,Ardeola grayii,0
+808,Aquarius adelaides,Ardeola grayii,0
+809,Limnogonus fossarum,Ardeola grayii,0
+810,Laccotrephes griseus,Ardeola grayii,0
+811,Laccotrephes ruber,Ardeola grayii,0
+812,Ranatra elongata,Ardeola grayii,0
+813,Ranatra filiformis,Ardeola grayii,0
+814,Ranatra varipes,Ardeola grayii,0
+815,Anisops campbelli,Ardeola grayii,0
+816,Hydrovatus confertus,Ardeola grayii,0
+817,Macrobrachium malcolmsonii,Ardeola grayii,0
+818,Macrobrachium rosenbergii,Ardeola grayii,0
+819,Macrobrachium rude,Ardeola grayii,0
+820,Macrobrachium equidens,Ardeola grayii,0
+821,Tadploes,Ardeola grayii,0
+822,Big fish juveniles,Ardeola grayii,0
+823,Parambassis baculis,Nycticorax nycticorax,0
+824,Aplocheilus panchax,Nycticorax nycticorax,0
+825,Badis badis,Nycticorax nycticorax,0
+826,Puntius vittatus,Nycticorax nycticorax,0
+827,Rasbora daniconius,Nycticorax nycticorax,0
+828,Pethia phutunio,Nycticorax nycticorax,0
+829,Trichogaster lalius,Nycticorax nycticorax,0
+830,Trichogaster fasciata,Nycticorax nycticorax,0
+831,Duttaphrynus melanostictus,Nycticorax nycticorax,0
+832,Minervarya agricola,Nycticorax nycticorax,0
+833,Euphlyctis cyanophlyctis,Nycticorax nycticorax,0
+834,Hoplobatrachus tigerinus,Nycticorax nycticorax,0
+835,Microhyla mymensinghensis,Nycticorax nycticorax,0
+836,Polypedates maculatus,Nycticorax nycticorax,0
+837,Diplonychus annulatus,Nycticorax nycticorax,0
+838,Diplonychus rusticus,Nycticorax nycticorax,0
+839,Aquarius adelaides,Nycticorax nycticorax,0
+840,Limnogonus fossarum,Nycticorax nycticorax,0
+841,Laccotrephes griseus,Nycticorax nycticorax,0
+842,Laccotrephes ruber,Nycticorax nycticorax,0
+843,Ranatra elongata,Nycticorax nycticorax,0
+844,Ranatra filiformis,Nycticorax nycticorax,0
+845,Ranatra varipes,Nycticorax nycticorax,0
+846,Anisops campbelli,Nycticorax nycticorax,0
+847,Hydrovatus confertus,Nycticorax nycticorax,0
+848,Big fish juveniles,Nycticorax nycticorax,0
+849,Parambassis baculis,Plegadis falcinellus,0
+850,Aplocheilus panchax,Plegadis falcinellus,0
+851,Badis badis,Plegadis falcinellus,0
+852,Puntius vittatus,Plegadis falcinellus,0
+853,Rasbora daniconius,Plegadis falcinellus,0
+854,Pethia phutunio,Plegadis falcinellus,0
+855,Trichogaster lalius,Plegadis falcinellus,0
+856,Trichogaster fasciata,Plegadis falcinellus,0
+857,Big fish juveniles,Plegadis falcinellus,0
+858,Duttaphrynus melanostictus,Plegadis falcinellus,0
+859,Minervarya agricola,Plegadis falcinellus,0
+860,Euphlyctis cyanophlyctis,Plegadis falcinellus,0
+861,Hoplobatrachus tigerinus,Plegadis falcinellus,0
+862,Microhyla mymensinghensis,Plegadis falcinellus,0
+863,Polypedates maculatus,Plegadis falcinellus,0
+865,Enhydris enhydris,Plegadis falcinellus,0
+866,Fowlea piscator,Plegadis falcinellus,0
+867,Parambassis baculis,Threskiornis melanocephalus,0
+868,Aplocheilus panchax,Threskiornis melanocephalus,0
+869,Badis badis,Threskiornis melanocephalus,0
+870,Puntius vittatus,Threskiornis melanocephalus,0
+871,Rasbora daniconius,Threskiornis melanocephalus,0
+872,Pethia phutunio,Threskiornis melanocephalus,0
+873,Trichogaster lalius,Threskiornis melanocephalus,0
+874,Minervarya agricola,Threskiornis melanocephalus,0
+875,Euphlyctis cyanophlyctis,Threskiornis melanocephalus,0
+876,Hoplobatrachus tigerinus,Threskiornis melanocephalus,0
+877,Microhyla mymensinghensis,Threskiornis melanocephalus,0
+878,Polypedates maculatus,Threskiornis melanocephalus,0
+879,Diplonychus annulatus,Threskiornis melanocephalus,0
+880,Diplonychus rusticus,Threskiornis melanocephalus,0
+881,Aquarius adelaides,Threskiornis melanocephalus,0
+882,Limnogonus fossarum,Threskiornis melanocephalus,0
+883,Laccotrephes griseus,Threskiornis melanocephalus,0
+884,Laccotrephes ruber,Threskiornis melanocephalus,0
+885,Ranatra elongata,Threskiornis melanocephalus,0
+886,Ranatra filiformis,Threskiornis melanocephalus,0
+887,Ranatra varipes,Threskiornis melanocephalus,0
+888,Anisops campbelli,Threskiornis melanocephalus,0
+889,Hydrovatus confertus,Threskiornis melanocephalus,0
+890,Big fish juveniles,Threskiornis melanocephalus,0
+891,Parambassis baculis,Haliaeetus leucogaster,0
+892,Aplocheilus panchax,Haliaeetus leucogaster,0
+893,Netuma thalassina,Haliaeetus leucogaster,0
+894,Badis badis,Haliaeetus leucogaster,0
+895,Mystus tengara,Haliaeetus leucogaster,0
+896,Mystus vittatus,Haliaeetus leucogaster,0
+897,Xenentodon cancila,Haliaeetus leucogaster,0
+898,Channa punctata,Haliaeetus leucogaster,0
+899,Channa striata,Haliaeetus leucogaster,0
+900,Channa gachua,Haliaeetus leucogaster,0
+901,Oreochromis niloticus,Haliaeetus leucogaster,0
+902,Puntius vittatus,Haliaeetus leucogaster,0
+903,Rasbora daniconius,Haliaeetus leucogaster,0
+904,Pethia phutunio,Haliaeetus leucogaster,0
+905,Glossogobius giuris,Haliaeetus leucogaster,0
+906,Heteropneustes fossilis,Haliaeetus leucogaster,0
+907,Macrognathus pancalus,Haliaeetus leucogaster,0
+908,Mastacembelus armatus,Haliaeetus leucogaster,0
+909,Notopterus notopterus,Haliaeetus leucogaster,0
+910,Trichogaster lalius,Haliaeetus leucogaster,0
+911,Trichogaster fasciata,Haliaeetus leucogaster,0
+912,Enhydris enhydris,Haliaeetus leucogaster,0
+913,Fowlea piscator,Haliaeetus leucogaster,0
+914,Naja naja,Haliaeetus leucogaster,0
+915,Big fish juveniles,Haliaeetus leucogaster,0
+916,Enhydris enhydris,Spilornis cheela,0
+917,Fowlea piscator,Spilornis cheela,0
+918,Naja naja,Spilornis cheela,0
+919,Duttaphrynus melanostictus,Circus aeruginosus,0
+920,Minervarya agricola,Circus aeruginosus,0
+921,Euphlyctis cyanophlyctis,Circus aeruginosus,0
+922,Hoplobatrachus tigerinus,Circus aeruginosus,0
+923,Microhyla mymensinghensis,Circus aeruginosus,0
+924,Polypedates maculatus,Circus aeruginosus,0
+925,Mastacembelus armatus,Circus aeruginosus,0
+926,Notopterus notopterus,Circus aeruginosus,0
+927,Carp sp.,Circus aeruginosus,0
+928,Parambassis baculis,Alcedo atthis,0
+929,Aplocheilus panchax,Alcedo atthis,0
+930,Badis badis,Alcedo atthis,0
+931,Puntius vittatus,Alcedo atthis,0
+932,Rasbora daniconius,Alcedo atthis,0
+933,Pethia phutunio,Alcedo atthis,0
+934,Trichogaster lalius,Alcedo atthis,0
+935,Trichogaster fasciata,Alcedo atthis,0
+936,Tadploes,Alcedo atthis,0
+937,Minervarya agricola,Alcedo atthis,0
+938,Microhyla mymensinghensis,Alcedo atthis,0
+939,Polypedates maculatus,Alcedo atthis,0
+940,Diplonychus annulatus,Alcedo atthis,0
+941,Diplonychus rusticus,Alcedo atthis,0
+942,Aquarius adelaides,Alcedo atthis,0
+943,Limnogonus fossarum,Alcedo atthis,0
+944,Laccotrephes griseus,Alcedo atthis,0
+945,Laccotrephes ruber,Alcedo atthis,0
+946,Ranatra elongata,Alcedo atthis,0
+947,Ranatra filiformis,Alcedo atthis,0
+948,Ranatra varipes,Alcedo atthis,0
+949,Anisops campbelli,Alcedo atthis,0
+950,Hydrovatus confertus,Alcedo atthis,0
+951,Big fish juveniles,Alcedo atthis,0
+952,Parambassis baculis,Halcyon smyrnensis,0
+953,Aplocheilus panchax,Halcyon smyrnensis,0
+954,Badis badis,Halcyon smyrnensis,0
+955,Puntius vittatus,Halcyon smyrnensis,0
+956,Rasbora daniconius,Halcyon smyrnensis,0
+957,Pethia phutunio,Halcyon smyrnensis,0
+958,Trichogaster lalius,Halcyon smyrnensis,0
+959,Trichogaster fasciata,Halcyon smyrnensis,0
+960,Tadploes,Halcyon smyrnensis,0
+961,Minervarya agricola,Halcyon smyrnensis,0
+962,Microhyla mymensinghensis,Halcyon smyrnensis,0
+963,Polypedates maculatus,Halcyon smyrnensis,0
+964,Diplonychus annulatus,Halcyon smyrnensis,0
+965,Diplonychus rusticus,Halcyon smyrnensis,0
+966,Aquarius adelaides,Halcyon smyrnensis,0
+967,Limnogonus fossarum,Halcyon smyrnensis,0
+968,Laccotrephes griseus,Halcyon smyrnensis,0
+969,Laccotrephes ruber,Halcyon smyrnensis,0
+970,Ranatra elongata,Halcyon smyrnensis,0
+971,Ranatra filiformis,Halcyon smyrnensis,0
+972,Ranatra varipes,Halcyon smyrnensis,0
+973,Anisops campbelli,Halcyon smyrnensis,0
+974,Hydrovatus confertus,Halcyon smyrnensis,0
+975,Big fish juveniles,Halcyon smyrnensis,0
+976,Parambassis baculis,Ceryle rudis,0
+977,Aplocheilus panchax,Ceryle rudis,0
+978,Badis badis,Ceryle rudis,0
+979,Puntius vittatus,Ceryle rudis,0
+980,Rasbora daniconius,Ceryle rudis,0
+981,Pethia phutunio,Ceryle rudis,0
+982,Trichogaster lalius,Ceryle rudis,0
+983,Trichogaster fasciata,Ceryle rudis,0
+984,Tadploes,Ceryle rudis,0
+985,Minervarya agricola,Ceryle rudis,0
+986,Microhyla mymensinghensis,Ceryle rudis,0
+987,Polypedates maculatus,Ceryle rudis,0
+988,Diplonychus annulatus,Ceryle rudis,0
+989,Diplonychus rusticus,Ceryle rudis,0
+990,Aquarius adelaides,Ceryle rudis,0
+991,Limnogonus fossarum,Ceryle rudis,0
+992,Laccotrephes griseus,Ceryle rudis,0
+993,Laccotrephes ruber,Ceryle rudis,0
+994,Ranatra elongata,Ceryle rudis,0
+995,Ranatra filiformis,Ceryle rudis,0
+996,Ranatra varipes,Ceryle rudis,0
+997,Anisops campbelli,Ceryle rudis,0
+998,Hydrovatus confertus,Ceryle rudis,0
+999,Big fish juveniles,Ceryle rudis,0
+1000,Odonata sp.,Merops orientalis,0
+1001,Odonata sp.,Merops philippinus,0
+1002,Odonata sp.,Coracias benghalensis,0
+1003,Duttaphrynus melanostictus,Coracias benghalensis,0
+1004,Minervarya agricola,Coracias benghalensis,0
+1005,Euphlyctis cyanophlyctis,Coracias benghalensis,0
+1006,Hoplobatrachus tigerinus,Coracias benghalensis,0
+1007,Microhyla mymensinghensis,Coracias benghalensis,0
+1008,Polypedates maculatus,Coracias benghalensis,0
+1009,Enhydris enhydris,Coracias benghalensis,0
+1010,Fowlea piscator,Coracias benghalensis,0
+1011,Odonata sp.,Oriolus kundoo,0
+1012,Odonata sp.,Oriolus xanthornus,0
+1013,Odonata sp.,Dicrurus caerulescens,0
+1014,Diplonychus annulatus,Hirundo rustica,0
+1015,Diplonychus rusticus,Hirundo rustica,0
+1016,Aquarius adelaides,Hirundo rustica,0
+1017,Limnogonus fossarum,Hirundo rustica,0
+1018,Laccotrephes griseus,Hirundo rustica,0
+1019,Laccotrephes ruber,Hirundo rustica,0
+1020,Ranatra elongata,Hirundo rustica,0
+1021,Ranatra filiformis,Hirundo rustica,0
+1022,Ranatra varipes,Hirundo rustica,0
+1023,Anisops campbelli,Hirundo rustica,0
+1024,Hydrovatus confertus,Hirundo rustica,0
+1025,Duttaphrynus melanostictus,Acridotheres ginginianus,0
+1026,Minervarya agricola,Acridotheres ginginianus,0
+1027,Euphlyctis cyanophlyctis,Acridotheres ginginianus,0
+1028,Hoplobatrachus tigerinus,Acridotheres ginginianus,0
+1029,Microhyla mymensinghensis,Acridotheres ginginianus,0
+1030,Polypedates maculatus,Acridotheres ginginianus,0
+1031,Diplonychus annulatus,Motacilla citreola,0
+1032,Diplonychus rusticus,Motacilla citreola,0
+1033,Aquarius adelaides,Motacilla citreola,0
+1034,Limnogonus fossarum,Motacilla citreola,0
+1035,Laccotrephes griseus,Motacilla citreola,0
+1036,Laccotrephes ruber,Motacilla citreola,0
+1037,Ranatra elongata,Motacilla citreola,0
+1038,Ranatra filiformis,Motacilla citreola,0
+1039,Ranatra varipes,Motacilla citreola,0
+1040,Anisops campbelli,Motacilla citreola,0
+1041,Hydrovatus confertus,Motacilla citreola,0
+1053,Diplonychus annulatus,Motacilla tschutschensis,0
+1054,Diplonychus rusticus,Motacilla tschutschensis,0
+1055,Aquarius adelaides,Motacilla tschutschensis,0
+1056,Limnogonus fossarum,Motacilla tschutschensis,0
+1057,Laccotrephes griseus,Motacilla tschutschensis,0
+1058,Laccotrephes ruber,Motacilla tschutschensis,0
+1059,Ranatra elongata,Motacilla tschutschensis,0
+1060,Ranatra filiformis,Motacilla tschutschensis,0
+1061,Ranatra varipes,Motacilla tschutschensis,0
+1062,Anisops campbelli,Motacilla tschutschensis,0
+1063,Hydrovatus confertus,Motacilla tschutschensis,0
+1064,Diplonychus annulatus,Motacilla alba,0
+1065,Diplonychus rusticus,Motacilla alba,0
+1066,Aquarius adelaides,Motacilla alba,0
+1067,Limnogonus fossarum,Motacilla alba,0
+1068,Laccotrephes griseus,Motacilla alba,0
+1069,Laccotrephes ruber,Motacilla alba,0
+1070,Ranatra elongata,Motacilla alba,0
+1071,Ranatra filiformis,Motacilla alba,0
+1072,Ranatra varipes,Motacilla alba,0
+1073,Anisops campbelli,Motacilla alba,0
+1074,Hydrovatus confertus,Motacilla alba,0
+1075,Odonata sp.,Motacilla alba,0
+1076,Diplonychus annulatus,Duttaphrynus melanostictus,0
+1077,Diplonychus rusticus,Duttaphrynus melanostictus,0
+1078,Aquarius adelaides,Duttaphrynus melanostictus,0
+1079,Limnogonus fossarum,Duttaphrynus melanostictus,0
+1080,Laccotrephes griseus,Duttaphrynus melanostictus,0
+1081,Laccotrephes ruber,Duttaphrynus melanostictus,0
+1082,Ranatra elongata,Duttaphrynus melanostictus,0
+1083,Ranatra filiformis,Duttaphrynus melanostictus,0
+1084,Ranatra varipes,Duttaphrynus melanostictus,0
+1085,Anisops campbelli,Duttaphrynus melanostictus,0
+1086,Hydrovatus confertus,Duttaphrynus melanostictus,0
+1087,Diplonychus annulatus,Minervarya agricola,0
+1088,Diplonychus rusticus,Minervarya agricola,0
+1089,Aquarius adelaides,Minervarya agricola,0
+1090,Limnogonus fossarum,Minervarya agricola,0
+1091,Laccotrephes griseus,Minervarya agricola,0
+1092,Laccotrephes ruber,Minervarya agricola,0
+1093,Ranatra elongata,Minervarya agricola,0
+1094,Ranatra filiformis,Minervarya agricola,0
+1095,Ranatra varipes,Minervarya agricola,0
+1096,Anisops campbelli,Minervarya agricola,0
+1097,Hydrovatus confertus,Minervarya agricola,0
+1098,Diplonychus annulatus,Euphlyctis cyanophlyctis,0
+1099,Diplonychus rusticus,Euphlyctis cyanophlyctis,0
+1100,Aquarius adelaides,Euphlyctis cyanophlyctis,0
+1101,Limnogonus fossarum,Euphlyctis cyanophlyctis,0
+1102,Laccotrephes griseus,Euphlyctis cyanophlyctis,0
+1103,Laccotrephes ruber,Euphlyctis cyanophlyctis,0
+1104,Ranatra elongata,Euphlyctis cyanophlyctis,0
+1105,Ranatra filiformis,Euphlyctis cyanophlyctis,0
+1106,Ranatra varipes,Euphlyctis cyanophlyctis,0
+1107,Anisops campbelli,Euphlyctis cyanophlyctis,0
+1108,Hydrovatus confertus,Euphlyctis cyanophlyctis,0
+1109,Diplonychus annulatus,Hoplobatrachus tigerinus,0
+1110,Diplonychus rusticus,Hoplobatrachus tigerinus,0
+1111,Aquarius adelaides,Hoplobatrachus tigerinus,0
+1112,Limnogonus fossarum,Hoplobatrachus tigerinus,0
+1113,Laccotrephes griseus,Hoplobatrachus tigerinus,0
+1114,Laccotrephes ruber,Hoplobatrachus tigerinus,0
+1115,Ranatra elongata,Hoplobatrachus tigerinus,0
+1116,Ranatra filiformis,Hoplobatrachus tigerinus,0
+1117,Ranatra varipes,Hoplobatrachus tigerinus,0
+1118,Anisops campbelli,Hoplobatrachus tigerinus,0
+1119,Hydrovatus confertus,Hoplobatrachus tigerinus,0
+1120,Duttaphrynus melanostictus,Hoplobatrachus tigerinus,0
+1121,Minervarya agricola,Hoplobatrachus tigerinus,0
+1122,Euphlyctis cyanophlyctis,Hoplobatrachus tigerinus,0
+1123,Hoplobatrachus tigerinus,Hoplobatrachus tigerinus,0
+1124,Microhyla mymensinghensis,Hoplobatrachus tigerinus,0
+1125,Polypedates maculatus,Hoplobatrachus tigerinus,0
+1126,Enhydris enhydris,Hoplobatrachus tigerinus,0
+1127,Fowlea piscator,Hoplobatrachus tigerinus,0
+1128,Diplonychus annulatus,Microhyla mymensinghensis,0
+1129,Diplonychus rusticus,Microhyla mymensinghensis,0
+1130,Aquarius adelaides,Microhyla mymensinghensis,0
+1131,Limnogonus fossarum,Microhyla mymensinghensis,0
+1132,Laccotrephes griseus,Microhyla mymensinghensis,0
+1133,Laccotrephes ruber,Microhyla mymensinghensis,0
+1134,Ranatra elongata,Microhyla mymensinghensis,0
+1135,Ranatra filiformis,Microhyla mymensinghensis,0
+1136,Ranatra varipes,Microhyla mymensinghensis,0
+1137,Anisops campbelli,Microhyla mymensinghensis,0
+1138,Hydrovatus confertus,Microhyla mymensinghensis,0
+1139,Diplonychus annulatus,Polypedates maculatus,0
+1140,Diplonychus rusticus,Polypedates maculatus,0
+1141,Aquarius adelaides,Polypedates maculatus,0
+1142,Limnogonus fossarum,Polypedates maculatus,0
+1143,Laccotrephes griseus,Polypedates maculatus,0
+1144,Laccotrephes ruber,Polypedates maculatus,0
+1145,Ranatra elongata,Polypedates maculatus,0
+1146,Ranatra filiformis,Polypedates maculatus,0
+1147,Ranatra varipes,Polypedates maculatus,0
+1148,Anisops campbelli,Polypedates maculatus,0
+1149,Hydrovatus confertus,Polypedates maculatus,0
+1150,Duttaphrynus melanostictus,Varanus bengalensis,0
+1151,Minervarya agricola,Varanus bengalensis,0
+1152,Euphlyctis cyanophlyctis,Varanus bengalensis,0
+1153,Hoplobatrachus tigerinus,Varanus bengalensis,0
+1154,Microhyla mymensinghensis,Varanus bengalensis,0
+1155,Polypedates maculatus,Varanus bengalensis,0
+1156,Fowlea piscator,Varanus bengalensis,0
+1157,Parambassis baculis,Enhydris enhydris,0
+1158,Aplocheilus panchax,Enhydris enhydris,0
+1159,Badis badis,Enhydris enhydris,0
+1160,Puntius vittatus,Enhydris enhydris,0
+1161,Rasbora daniconius,Enhydris enhydris,0
+1162,Pethia phutunio,Enhydris enhydris,0
+1163,Trichogaster lalius,Enhydris enhydris,0
+1164,Trichogaster fasciata,Enhydris enhydris,0
+1165,Minervarya agricola,Enhydris enhydris,0
+1166,Microhyla mymensinghensis,Enhydris enhydris,0
+1167,Polypedates maculatus,Enhydris enhydris,0
+1168,Big fish juveniles,Enhydris enhydris,0
+1169,Parambassis baculis,Fowlea piscator,0
+1170,Aplocheilus panchax,Fowlea piscator,0
+1171,Badis badis,Fowlea piscator,0
+1172,Puntius vittatus,Fowlea piscator,0
+1173,Rasbora daniconius,Fowlea piscator,0
+1174,Pethia phutunio,Fowlea piscator,0
+1175,Trichogaster lalius,Fowlea piscator,0
+1176,Trichogaster fasciata,Fowlea piscator,0
+1177,Minervarya agricola,Fowlea piscator,0
+1178,Euphlyctis cyanophlyctis,Fowlea piscator,0
+1179,Hoplobatrachus tigerinus,Fowlea piscator,0
+1180,Big fish juveniles,Fowlea piscator,0
+1181,Duttaphrynus melanostictus,Naja naja,0
+1182,Minervarya agricola,Naja naja,0
+1183,Euphlyctis cyanophlyctis,Naja naja,0
+1184,Hoplobatrachus tigerinus,Naja naja,0
+1185,Microhyla mymensinghensis,Naja naja,0
+1186,Duttaphrynus melanostictus,Lissemys punctata,0
+1187,Minervarya agricola,Lissemys punctata,0
+1188,Euphlyctis cyanophlyctis,Lissemys punctata,0
+1189,Hoplobatrachus tigerinus,Lissemys punctata,0
+1190,Microhyla mymensinghensis,Lissemys punctata,0
+1191,Polypedates maculatus,Lissemys punctata,0
+1192,Parambassis baculis,Lissemys punctata,0
+1193,Aplocheilus panchax,Lissemys punctata,0
+1194,Badis badis,Lissemys punctata,0
+1195,Puntius vittatus,Lissemys punctata,0
+1196,Rasbora daniconius,Lissemys punctata,0
+1197,Pethia phutunio,Lissemys punctata,0
+1198,Trichogaster lalius,Lissemys punctata,0
+1199,Trichogaster fasciata,Lissemys punctata,0
+1200,Macrobrachium malcolmsonii,Lissemys punctata,0
+1201,Macrobrachium rosenbergii,Lissemys punctata,0
+1202,Macrobrachium rude,Lissemys punctata,0
+1203,Macrobrachium equidens,Lissemys punctata,0
+1204,Coracias benghalensis,Lissemys punctata,0
+1205,Diplonychus rusticus,Lissemys punctata,0
+1206,Aquarius adelaides,Lissemys punctata,0
+1207,Limnogonus fossarum,Lissemys punctata,0
+1208,Laccotrephes griseus,Lissemys punctata,0
+1209,Laccotrephes ruber,Lissemys punctata,0
+1210,Ranatra elongata,Lissemys punctata,0
+1211,Ranatra filiformis,Lissemys punctata,0
+1212,Ranatra varipes,Lissemys punctata,0
+1213,Anisops campbelli,Lissemys punctata,0
+1214,Hydrovatus confertus,Lissemys punctata,0
+1215,Detritus,Lissemys punctata,0
+1216,Herbaceous aquatic plants,Lissemys punctata,0
+1217,Big fish juveniles,Lissemys punctata,0
+1218,Mosquito larvae,Parambassis baculis,0
+1219,Diplonychus annulatus,Parambassis baculis,0
+1220,Diplonychus rusticus,Parambassis baculis,0
+1221,Aquarius adelaides,Parambassis baculis,0
+1222,Limnogonus fossarum,Parambassis baculis,0
+1223,Laccotrephes griseus,Parambassis baculis,0
+1224,Laccotrephes ruber,Parambassis baculis,0
+1225,Ranatra elongata,Parambassis baculis,0
+1226,Ranatra filiformis,Parambassis baculis,0
+1227,Ranatra varipes,Parambassis baculis,0
+1228,Anisops campbelli,Parambassis baculis,0
+1229,Hydrovatus confertus,Parambassis baculis,0
+1230,Diplonychus annulatus,Aplocheilus panchax,0
+1231,Diplonychus rusticus,Aplocheilus panchax,0
+1232,Aquarius adelaides,Aplocheilus panchax,0
+1233,Limnogonus fossarum,Aplocheilus panchax,0
+1234,Laccotrephes griseus,Aplocheilus panchax,0
+1235,Laccotrephes ruber,Aplocheilus panchax,0
+1236,Ranatra elongata,Aplocheilus panchax,0
+1237,Ranatra filiformis,Aplocheilus panchax,0
+1238,Ranatra varipes,Aplocheilus panchax,0
+1239,Anisops campbelli,Aplocheilus panchax,0
+1240,Hydrovatus confertus,Aplocheilus panchax,0
+1241,Macrobrachium malcolmsonii,Netuma thalassina,0
+1242,Macrobrachium rosenbergii,Netuma thalassina,0
+1243,Macrobrachium rude,Netuma thalassina,0
+1244,Macrobrachium equidens,Netuma thalassina,0
+1245,Parambassis baculis,Netuma thalassina,0
+1246,Aplocheilus panchax,Netuma thalassina,0
+1247,Netuma thalassina,Netuma thalassina,0
+1248,Badis badis,Netuma thalassina,0
+1249,Mystus tengara,Netuma thalassina,0
+1250,Mystus vittatus,Netuma thalassina,0
+1251,Xenentodon cancila,Netuma thalassina,0
+1252,Channa punctata,Netuma thalassina,0
+1253,Channa striata,Netuma thalassina,0
+1254,Channa gachua,Netuma thalassina,0
+1255,Oreochromis niloticus,Netuma thalassina,0
+1256,Puntius vittatus,Netuma thalassina,0
+1257,Rasbora daniconius,Netuma thalassina,0
+1258,Pethia phutunio,Netuma thalassina,0
+1259,Glossogobius giuris,Netuma thalassina,0
+1260,Heteropneustes fossilis,Netuma thalassina,0
+1261,Macrognathus pancalus,Netuma thalassina,0
+1262,Mastacembelus armatus,Netuma thalassina,0
+1263,Notopterus notopterus,Netuma thalassina,0
+1264,Trichogaster lalius,Netuma thalassina,0
+1265,Trichogaster fasciata,Netuma thalassina,0
+1266,Big fish juveniles,Netuma thalassina,0
+1267,Macrobrachium malcolmsonii,Badis badis,0
+1268,Macrobrachium rosenbergii,Badis badis,0
+1269,Macrobrachium rude,Badis badis,0
+1270,Macrobrachium equidens,Badis badis,0
+1271,Diplonychus annulatus,Badis badis,0
+1272,Diplonychus rusticus,Badis badis,0
+1273,Aquarius adelaides,Badis badis,0
+1274,Limnogonus fossarum,Badis badis,0
+1275,Laccotrephes griseus,Badis badis,0
+1276,Laccotrephes ruber,Badis badis,0
+1277,Ranatra elongata,Badis badis,0
+1278,Ranatra filiformis,Badis badis,0
+1279,Ranatra varipes,Badis badis,0
+1280,Anisops campbelli,Badis badis,0
+1281,Hydrovatus confertus,Badis badis,0
+1282,Arcella discoides,Badis badis,0
+1283,Centropyxis aculeata,Badis badis,0
+1284,Brachionus calyciflorus,Badis badis,0
+1285,Brachionus forficula,Badis badis,0
+1286,Keratella lenzi,Badis badis,0
+1287,Lecane aculeata,Badis badis,0
+1288,Lecane bulla,Badis badis,0
+1289,Asplanchna brightwelli,Badis badis,0
+1290,Mesocyclops leukarti,Badis badis,0
+1291,Scapholeberis kingi,Badis badis,0
+1292,Macrothrix spinosa,Badis badis,0
+1293,Macrothrix goeldi,Badis badis,0
+1294,Alona pulchella,Badis badis,0
+1295,Coronatella rectangula,Badis badis,0
+1296,Arcella discoides,Mystus tengara,0
+1297,Centropyxis aculeata,Mystus tengara,0
+1298,Brachionus calyciflorus,Mystus tengara,0
+1299,Brachionus forficula,Mystus tengara,0
+1300,Keratella lenzi,Mystus tengara,0
+1301,Lecane aculeata,Mystus tengara,0
+1302,Lecane bulla,Mystus tengara,0
+1303,Asplanchna brightwelli,Mystus tengara,0
+1304,Mesocyclops leukarti,Mystus tengara,0
+1305,Scapholeberis kingi,Mystus tengara,0
+1306,Macrothrix spinosa,Mystus tengara,0
+1307,Macrothrix goeldi,Mystus tengara,0
+1308,Alona pulchella,Mystus tengara,0
+1309,Coronatella rectangula,Mystus tengara,0
+1310,Arcella discoides,Mystus vittatus,0
+1311,Centropyxis aculeata,Mystus vittatus,0
+1312,Brachionus calyciflorus,Mystus vittatus,0
+1313,Brachionus forficula,Mystus vittatus,0
+1314,Keratella lenzi,Mystus vittatus,0
+1315,Lecane aculeata,Mystus vittatus,0
+1316,Lecane bulla,Mystus vittatus,0
+1317,Asplanchna brightwelli,Mystus vittatus,0
+1318,Mesocyclops leukarti,Mystus vittatus,0
+1319,Scapholeberis kingi,Mystus vittatus,0
+1320,Macrothrix spinosa,Mystus vittatus,0
+1321,Macrothrix goeldi,Mystus vittatus,0
+1322,Alona pulchella,Mystus vittatus,0
+1323,Coronatella rectangula,Mystus vittatus,0
+1324,Green Algae,Mystus vittatus,0
+1325,Macrobrachium malcolmsonii,Xenentodon cancila,0
+1326,Macrobrachium rosenbergii,Xenentodon cancila,0
+1327,Macrobrachium rude,Xenentodon cancila,0
+1328,Macrobrachium equidens,Xenentodon cancila,0
+1329,Diplonychus annulatus,Xenentodon cancila,0
+1330,Diplonychus rusticus,Xenentodon cancila,0
+1331,Aquarius adelaides,Xenentodon cancila,0
+1332,Limnogonus fossarum,Xenentodon cancila,0
+1333,Laccotrephes griseus,Xenentodon cancila,0
+1334,Laccotrephes ruber,Xenentodon cancila,0
+1335,Ranatra elongata,Xenentodon cancila,0
+1336,Ranatra filiformis,Xenentodon cancila,0
+1337,Ranatra varipes,Xenentodon cancila,0
+1338,Anisops campbelli,Xenentodon cancila,0
+1339,Hydrovatus confertus,Xenentodon cancila,0
+1340,Macrobrachium malcolmsonii,Channa punctata,0
+1341,Macrobrachium rosenbergii,Channa punctata,0
+1342,Macrobrachium rude,Channa punctata,0
+1343,Macrobrachium equidens,Channa punctata,0
+1344,Diplonychus annulatus,Channa punctata,0
+1345,Diplonychus rusticus,Channa punctata,0
+1346,Aquarius adelaides,Channa punctata,0
+1347,Limnogonus fossarum,Channa punctata,0
+1348,Laccotrephes griseus,Channa punctata,0
+1349,Laccotrephes ruber,Channa punctata,0
+1350,Ranatra elongata,Channa punctata,0
+1351,Ranatra filiformis,Channa punctata,0
+1352,Ranatra varipes,Channa punctata,0
+1353,Anisops campbelli,Channa punctata,0
+1354,Hydrovatus confertus,Channa punctata,0
+1355,Green Algae,Channa punctata,0
+1356,Detritus,Channa punctata,0
+1357,Herbaceous aquatic plants,Channa punctata,0
+1358,Parambassis baculis,Channa punctata,0
+1359,Aplocheilus panchax,Channa punctata,0
+1360,Netuma thalassina,Channa punctata,0
+1361,Badis badis,Channa punctata,0
+1362,Mystus tengara,Channa punctata,0
+1363,Mystus vittatus,Channa punctata,0
+1364,Xenentodon cancila,Channa punctata,0
+1365,Channa punctata,Channa punctata,0
+1366,Channa striata,Channa punctata,0
+1367,Channa gachua,Channa punctata,0
+1368,Oreochromis niloticus,Channa punctata,0
+1369,Puntius vittatus,Channa punctata,0
+1370,Rasbora daniconius,Channa punctata,0
+1371,Pethia phutunio,Channa punctata,0
+1372,Glossogobius giuris,Channa punctata,0
+1373,Heteropneustes fossilis,Channa punctata,0
+1374,Macrognathus pancalus,Channa punctata,0
+1375,Mastacembelus armatus,Channa punctata,0
+1376,Notopterus notopterus,Channa punctata,0
+1377,Trichogaster lalius,Channa punctata,0
+1378,Trichogaster fasciata,Channa punctata,0
+1379,Big fish juveniles,Channa punctata,0
+1380,Parambassis baculis,Channa striata,0
+1381,Aplocheilus panchax,Channa striata,0
+1382,Netuma thalassina,Channa striata,0
+1383,Badis badis,Channa striata,0
+1384,Mystus tengara,Channa striata,0
+1385,Mystus vittatus,Channa striata,0
+1386,Xenentodon cancila,Channa striata,0
+1387,Channa punctata,Channa striata,0
+1388,Channa striata,Channa striata,0
+1389,Channa gachua,Channa striata,0
+1390,Oreochromis niloticus,Channa striata,0
+1391,Puntius vittatus,Channa striata,0
+1392,Rasbora daniconius,Channa striata,0
+1393,Pethia phutunio,Channa striata,0
+1394,Glossogobius giuris,Channa striata,0
+1395,Heteropneustes fossilis,Channa striata,0
+1396,Macrognathus pancalus,Channa striata,0
+1397,Mastacembelus armatus,Channa striata,0
+1398,Notopterus notopterus,Channa striata,0
+1399,Trichogaster lalius,Channa striata,0
+1400,Trichogaster fasciata,Channa striata,0
+1401,Macrobrachium malcolmsonii,Channa striata,0
+1402,Macrobrachium rosenbergii,Channa striata,0
+1403,Macrobrachium rude,Channa striata,0
+1404,Macrobrachium equidens,Channa striata,0
+1405,Diplonychus annulatus,Channa striata,0
+1406,Diplonychus rusticus,Channa striata,0
+1407,Aquarius adelaides,Channa striata,0
+1408,Limnogonus fossarum,Channa striata,0
+1409,Laccotrephes griseus,Channa striata,0
+1410,Laccotrephes ruber,Channa striata,0
+1411,Ranatra elongata,Channa striata,0
+1412,Ranatra filiformis,Channa striata,0
+1413,Ranatra varipes,Channa striata,0
+1414,Anisops campbelli,Channa striata,0
+1415,Hydrovatus confertus,Channa striata,0
+1416,Green Algae,Channa striata,0
+1417,Detritus,Channa striata,0
+1418,Herbaceous aquatic plants,Channa striata,0
+1419,Big fish juveniles,Channa striata,0
+1420,Duttaphrynus melanostictus,Channa gachua,0
+1421,Minervarya agricola,Channa gachua,0
+1422,Euphlyctis cyanophlyctis,Channa gachua,0
+1423,Hoplobatrachus tigerinus,Channa gachua,0
+1424,Microhyla mymensinghensis,Channa gachua,0
+1425,Polypedates maculatus,Channa gachua,0
+1426,Parambassis baculis,Channa gachua,0
+1427,Aplocheilus panchax,Channa gachua,0
+1428,Badis badis,Channa gachua,0
+1429,Puntius vittatus,Channa gachua,0
+1430,Rasbora daniconius,Channa gachua,0
+1431,Pethia phutunio,Channa gachua,0
+1432,Trichogaster lalius,Channa gachua,0
+1433,Trichogaster fasciata,Channa gachua,0
+1434,Macrobrachium malcolmsonii,Channa gachua,0
+1435,Macrobrachium rosenbergii,Channa gachua,0
+1436,Macrobrachium rude,Channa gachua,0
+1437,Macrobrachium equidens,Channa gachua,0
+1438,Diplonychus annulatus,Channa gachua,0
+1439,Diplonychus rusticus,Channa gachua,0
+1440,Aquarius adelaides,Channa gachua,0
+1441,Limnogonus fossarum,Channa gachua,0
+1442,Laccotrephes griseus,Channa gachua,0
+1443,Laccotrephes ruber,Channa gachua,0
+1444,Ranatra elongata,Channa gachua,0
+1445,Ranatra filiformis,Channa gachua,0
+1446,Ranatra varipes,Channa gachua,0
+1447,Anisops campbelli,Channa gachua,0
+1448,Hydrovatus confertus,Channa gachua,0
+1449,Green Algae,Channa gachua,0
+1450,Detritus,Channa gachua,0
+1451,Herbaceous aquatic plants,Channa gachua,0
+1452,Big fish juveniles,Channa gachua,0
+1453,Arcella discoides,Oreochromis niloticus,0
+1454,Centropyxis aculeata,Oreochromis niloticus,0
+1455,Brachionus calyciflorus,Oreochromis niloticus,0
+1456,Brachionus forficula,Oreochromis niloticus,0
+1457,Keratella lenzi,Oreochromis niloticus,0
+1458,Lecane aculeata,Oreochromis niloticus,0
+1459,Lecane bulla,Oreochromis niloticus,0
+1460,Asplanchna brightwelli,Oreochromis niloticus,0
+1461,Mesocyclops leukarti,Oreochromis niloticus,0
+1462,Scapholeberis kingi,Oreochromis niloticus,0
+1463,Macrothrix spinosa,Oreochromis niloticus,0
+1464,Macrothrix goeldi,Oreochromis niloticus,0
+1465,Alona pulchella,Oreochromis niloticus,0
+1466,Coronatella rectangula,Oreochromis niloticus,0
+1467,Diplonychus annulatus,Oreochromis niloticus,0
+1468,Diplonychus rusticus,Oreochromis niloticus,0
+1469,Aquarius adelaides,Oreochromis niloticus,0
+1470,Limnogonus fossarum,Oreochromis niloticus,0
+1471,Laccotrephes griseus,Oreochromis niloticus,0
+1472,Laccotrephes ruber,Oreochromis niloticus,0
+1473,Ranatra elongata,Oreochromis niloticus,0
+1474,Ranatra filiformis,Oreochromis niloticus,0
+1475,Ranatra varipes,Oreochromis niloticus,0
+1476,Anisops campbelli,Oreochromis niloticus,0
+1477,Hydrovatus confertus,Oreochromis niloticus,0
+1478,Green Algae,Oreochromis niloticus,0
+1479,Detritus,Oreochromis niloticus,0
+1480,Herbaceous aquatic plants,Oreochromis niloticus,0
+1481,Diplonychus annulatus,Puntius vittatus,0
+1482,Diplonychus rusticus,Puntius vittatus,0
+1483,Aquarius adelaides,Puntius vittatus,0
+1484,Limnogonus fossarum,Puntius vittatus,0
+1485,Laccotrephes griseus,Puntius vittatus,0
+1486,Laccotrephes ruber,Puntius vittatus,0
+1487,Ranatra elongata,Puntius vittatus,0
+1488,Ranatra filiformis,Puntius vittatus,0
+1489,Ranatra varipes,Puntius vittatus,0
+1490,Anisops campbelli,Puntius vittatus,0
+1491,Hydrovatus confertus,Puntius vittatus,0
+1492,Macrobrachium malcolmsonii,Puntius vittatus,0
+1493,Macrobrachium rosenbergii,Puntius vittatus,0
+1494,Macrobrachium rude,Puntius vittatus,0
+1495,Macrobrachium equidens,Puntius vittatus,0
+1496,Diplonychus annulatus,Rasbora daniconius,0
+1497,Diplonychus rusticus,Rasbora daniconius,0
+1498,Aquarius adelaides,Rasbora daniconius,0
+1499,Limnogonus fossarum,Rasbora daniconius,0
+1500,Laccotrephes griseus,Rasbora daniconius,0
+1501,Laccotrephes ruber,Rasbora daniconius,0
+1502,Ranatra elongata,Rasbora daniconius,0
+1503,Ranatra filiformis,Rasbora daniconius,0
+1504,Ranatra varipes,Rasbora daniconius,0
+1505,Anisops campbelli,Rasbora daniconius,0
+1506,Hydrovatus confertus,Rasbora daniconius,0
+1507,Mosquito larvae,Rasbora daniconius,0
+1508,Green Algae,Rasbora daniconius,0
+1509,Mesocyclops leukarti,Rasbora daniconius,0
+1510,Scapholeberis kingi,Rasbora daniconius,0
+1511,Odonata sp.,Rasbora daniconius,0
+1512,Detritus,Rasbora daniconius,0
+1513,Herbaceous aquatic plants,Rasbora daniconius,0
+1514,Diplonychus annulatus,Pethia phutunio,0
+1515,Diplonychus rusticus,Pethia phutunio,0
+1516,Aquarius adelaides,Pethia phutunio,0
+1517,Limnogonus fossarum,Pethia phutunio,0
+1518,Laccotrephes griseus,Pethia phutunio,0
+1519,Laccotrephes ruber,Pethia phutunio,0
+1520,Ranatra elongata,Pethia phutunio,0
+1521,Ranatra filiformis,Pethia phutunio,0
+1522,Ranatra varipes,Pethia phutunio,0
+1523,Anisops campbelli,Pethia phutunio,0
+1524,Hydrovatus confertus,Pethia phutunio,0
+1525,Macrobrachium malcolmsonii,Pethia phutunio,0
+1526,Macrobrachium rosenbergii,Pethia phutunio,0
+1527,Macrobrachium rude,Pethia phutunio,0
+1528,Macrobrachium equidens,Pethia phutunio,0
+1529,Arcella discoides,Pethia phutunio,0
+1530,Centropyxis aculeata,Pethia phutunio,0
+1531,Brachionus calyciflorus,Pethia phutunio,0
+1532,Brachionus forficula,Pethia phutunio,0
+1533,Keratella lenzi,Pethia phutunio,0
+1534,Lecane aculeata,Pethia phutunio,0
+1535,Lecane bulla,Pethia phutunio,0
+1536,Asplanchna brightwelli,Pethia phutunio,0
+1537,Mesocyclops leukarti,Pethia phutunio,0
+1538,Scapholeberis kingi,Pethia phutunio,0
+1539,Macrothrix spinosa,Pethia phutunio,0
+1540,Macrothrix goeldi,Pethia phutunio,0
+1541,Alona pulchella,Pethia phutunio,0
+1542,Coronatella rectangula,Pethia phutunio,0
+1543,Parambassis baculis,Glossogobius giuris,0
+1544,Aplocheilus panchax,Glossogobius giuris,0
+1545,Badis badis,Glossogobius giuris,0
+1546,Puntius vittatus,Glossogobius giuris,0
+1547,Rasbora daniconius,Glossogobius giuris,0
+1548,Pethia phutunio,Glossogobius giuris,0
+1549,Trichogaster lalius,Glossogobius giuris,0
+1550,Trichogaster fasciata,Glossogobius giuris,0
+1551,Diplonychus annulatus,Glossogobius giuris,0
+1552,Diplonychus rusticus,Glossogobius giuris,0
+1553,Aquarius adelaides,Glossogobius giuris,0
+1554,Limnogonus fossarum,Glossogobius giuris,0
+1555,Laccotrephes griseus,Glossogobius giuris,0
+1556,Laccotrephes ruber,Glossogobius giuris,0
+1557,Ranatra elongata,Glossogobius giuris,0
+1558,Ranatra filiformis,Glossogobius giuris,0
+1559,Ranatra varipes,Glossogobius giuris,0
+1560,Anisops campbelli,Glossogobius giuris,0
+1561,Hydrovatus confertus,Glossogobius giuris,0
+1562,Macrobrachium malcolmsonii,Glossogobius giuris,0
+1563,Macrobrachium rosenbergii,Glossogobius giuris,0
+1564,Macrobrachium rude,Glossogobius giuris,0
+1565,Macrobrachium equidens,Glossogobius giuris,0
+1566,Herbaceous aquatic plants,Glossogobius giuris,0
+1568,Green Algae,Glossogobius giuris,0
+1569,Big fish juveniles,Glossogobius giuris,0
+1570,Arcella discoides,Heteropneustes fossilis,0
+1571,Centropyxis aculeata,Heteropneustes fossilis,0
+1572,Brachionus calyciflorus,Heteropneustes fossilis,0
+1573,Brachionus forficula,Heteropneustes fossilis,0
+1574,Keratella lenzi,Heteropneustes fossilis,0
+1575,Lecane aculeata,Heteropneustes fossilis,0
+1576,Lecane bulla,Heteropneustes fossilis,0
+1577,Asplanchna brightwelli,Heteropneustes fossilis,0
+1578,Mesocyclops leukarti,Heteropneustes fossilis,0
+1579,Scapholeberis kingi,Heteropneustes fossilis,0
+1580,Macrothrix spinosa,Heteropneustes fossilis,0
+1581,Macrothrix goeldi,Heteropneustes fossilis,0
+1582,Alona pulchella,Heteropneustes fossilis,0
+1583,Coronatella rectangula,Heteropneustes fossilis,0
+1584,Macrobrachium malcolmsonii,Heteropneustes fossilis,0
+1585,Macrobrachium rosenbergii,Heteropneustes fossilis,0
+1586,Macrobrachium rude,Heteropneustes fossilis,0
+1587,Macrobrachium equidens,Heteropneustes fossilis,0
+1588,Detritus,Heteropneustes fossilis,0
+1589,Herbaceous aquatic plants,Heteropneustes fossilis,0
+1590,Arcella discoides,Macrognathus pancalus,0
+1591,Centropyxis aculeata,Macrognathus pancalus,0
+1592,Brachionus calyciflorus,Macrognathus pancalus,0
+1593,Brachionus forficula,Macrognathus pancalus,0
+1594,Keratella lenzi,Macrognathus pancalus,0
+1595,Lecane aculeata,Macrognathus pancalus,0
+1596,Lecane bulla,Macrognathus pancalus,0
+1597,Asplanchna brightwelli,Macrognathus pancalus,0
+1598,Mesocyclops leukarti,Macrognathus pancalus,0
+1599,Scapholeberis kingi,Macrognathus pancalus,0
+1600,Macrothrix spinosa,Macrognathus pancalus,0
+1601,Macrothrix goeldi,Macrognathus pancalus,0
+1602,Alona pulchella,Macrognathus pancalus,0
+1603,Coronatella rectangula,Macrognathus pancalus,0
+1604,Diplonychus annulatus,Macrognathus pancalus,0
+1605,Diplonychus rusticus,Macrognathus pancalus,0
+1606,Aquarius adelaides,Macrognathus pancalus,0
+1607,Limnogonus fossarum,Macrognathus pancalus,0
+1608,Laccotrephes griseus,Macrognathus pancalus,0
+1609,Laccotrephes ruber,Macrognathus pancalus,0
+1610,Ranatra elongata,Macrognathus pancalus,0
+1611,Ranatra filiformis,Macrognathus pancalus,0
+1612,Ranatra varipes,Macrognathus pancalus,0
+1613,Anisops campbelli,Macrognathus pancalus,0
+1614,Hydrovatus confertus,Macrognathus pancalus,0
+1615,Herbaceous aquatic plants,Macrognathus pancalus,0
+1616,Parambassis baculis,Macrognathus pancalus,0
+1617,Aplocheilus panchax,Macrognathus pancalus,0
+1618,Badis badis,Macrognathus pancalus,0
+1619,Puntius vittatus,Macrognathus pancalus,0
+1620,Rasbora daniconius,Macrognathus pancalus,0
+1621,Pethia phutunio,Macrognathus pancalus,0
+1622,Trichogaster lalius,Macrognathus pancalus,0
+1623,Trichogaster fasciata,Macrognathus pancalus,0
+1624,Big fish juveniles,Macrognathus pancalus,0
+1625,Macrobrachium malcolmsonii,Mastacembelus armatus,0
+1626,Macrobrachium rosenbergii,Mastacembelus armatus,0
+1627,Macrobrachium rude,Mastacembelus armatus,0
+1628,Macrobrachium equidens,Mastacembelus armatus,0
+1629,Parambassis baculis,Mastacembelus armatus,0
+1630,Aplocheilus panchax,Mastacembelus armatus,0
+1631,Badis badis,Mastacembelus armatus,0
+1632,Puntius vittatus,Mastacembelus armatus,0
+1633,Rasbora daniconius,Mastacembelus armatus,0
+1634,Pethia phutunio,Mastacembelus armatus,0
+1635,Trichogaster lalius,Mastacembelus armatus,0
+1636,Trichogaster fasciata,Mastacembelus armatus,0
+1637,Diplonychus annulatus,Mastacembelus armatus,0
+1638,Diplonychus rusticus,Mastacembelus armatus,0
+1639,Aquarius adelaides,Mastacembelus armatus,0
+1640,Limnogonus fossarum,Mastacembelus armatus,0
+1641,Laccotrephes griseus,Mastacembelus armatus,0
+1642,Laccotrephes ruber,Mastacembelus armatus,0
+1643,Ranatra elongata,Mastacembelus armatus,0
+1644,Ranatra filiformis,Mastacembelus armatus,0
+1645,Ranatra varipes,Mastacembelus armatus,0
+1646,Anisops campbelli,Mastacembelus armatus,0
+1647,Hydrovatus confertus,Mastacembelus armatus,0
+1648,Big fish juveniles,Mastacembelus armatus,0
+1649,Arcella discoides,Notopterus notopterus,0
+1650,Centropyxis aculeata,Notopterus notopterus,0
+1651,Brachionus calyciflorus,Notopterus notopterus,0
+1652,Brachionus forficula,Notopterus notopterus,0
+1653,Keratella lenzi,Notopterus notopterus,0
+1654,Lecane aculeata,Notopterus notopterus,0
+1655,Lecane bulla,Notopterus notopterus,0
+1656,Asplanchna brightwelli,Notopterus notopterus,0
+1657,Mesocyclops leukarti,Notopterus notopterus,0
+1658,Scapholeberis kingi,Notopterus notopterus,0
+1659,Macrothrix spinosa,Notopterus notopterus,0
+1660,Macrothrix goeldi,Notopterus notopterus,0
+1661,Alona pulchella,Notopterus notopterus,0
+1662,Coronatella rectangula,Notopterus notopterus,0
+1663,Macrobrachium malcolmsonii,Notopterus notopterus,0
+1664,Macrobrachium rosenbergii,Notopterus notopterus,0
+1665,Macrobrachium rude,Notopterus notopterus,0
+1666,Macrobrachium equidens,Notopterus notopterus,0
+1667,Aplocheilus panchax,Notopterus notopterus,0
+1668,Badis badis,Notopterus notopterus,0
+1669,Puntius vittatus,Notopterus notopterus,0
+1670,Rasbora daniconius,Notopterus notopterus,0
+1671,Pethia phutunio,Notopterus notopterus,0
+1672,Trichogaster lalius,Notopterus notopterus,0
+1673,Trichogaster fasciata,Notopterus notopterus,0
+1674,Big fish juveniles,Notopterus notopterus,0
+1675,Diplonychus annulatus,Notopterus notopterus,0
+1676,Diplonychus rusticus,Notopterus notopterus,0
+1677,Aquarius adelaides,Notopterus notopterus,0
+1678,Limnogonus fossarum,Notopterus notopterus,0
+1679,Laccotrephes griseus,Notopterus notopterus,0
+1680,Laccotrephes ruber,Notopterus notopterus,0
+1681,Ranatra elongata,Notopterus notopterus,0
+1682,Ranatra filiformis,Notopterus notopterus,0
+1683,Ranatra varipes,Notopterus notopterus,0
+1684,Anisops campbelli,Notopterus notopterus,0
+1685,Hydrovatus confertus,Notopterus notopterus,0
+1686,Detritus,Notopterus notopterus,0
+1687,Green Algae,Trichogaster lalius,0
+1688,Arcella discoides,Trichogaster lalius,0
+1689,Centropyxis aculeata,Trichogaster lalius,0
+1690,Brachionus calyciflorus,Trichogaster lalius,0
+1691,Brachionus forficula,Trichogaster lalius,0
+1692,Keratella lenzi,Trichogaster lalius,0
+1693,Lecane aculeata,Trichogaster lalius,0
+1694,Lecane bulla,Trichogaster lalius,0
+1695,Asplanchna brightwelli,Trichogaster lalius,0
+1696,Mesocyclops leukarti,Trichogaster lalius,0
+1697,Scapholeberis kingi,Trichogaster lalius,0
+1698,Macrothrix spinosa,Trichogaster lalius,0
+1699,Macrothrix goeldi,Trichogaster lalius,0
+1700,Alona pulchella,Trichogaster lalius,0
+1701,Coronatella rectangula,Trichogaster lalius,0
+1702,Green Algae,Trichogaster fasciata,0
+1703,Arcella discoides,Trichogaster fasciata,0
+1704,Centropyxis aculeata,Trichogaster fasciata,0
+1705,Brachionus calyciflorus,Trichogaster fasciata,0
+1706,Brachionus forficula,Trichogaster fasciata,0
+1707,Keratella lenzi,Trichogaster fasciata,0
+1708,Lecane aculeata,Trichogaster fasciata,0
+1709,Lecane bulla,Trichogaster fasciata,0
+1710,Asplanchna brightwelli,Trichogaster fasciata,0
+1711,Mesocyclops leukarti,Trichogaster fasciata,0
+1712,Scapholeberis kingi,Trichogaster fasciata,0
+1713,Macrothrix spinosa,Trichogaster fasciata,0
+1714,Macrothrix goeldi,Trichogaster fasciata,0
+1715,Alona pulchella,Trichogaster fasciata,0
+1716,Coronatella rectangula,Trichogaster fasciata,0
+1717,Diplonychus annulatus,Trichogaster fasciata,0
+1718,Diplonychus rusticus,Trichogaster fasciata,0
+1719,Aquarius adelaides,Trichogaster fasciata,0
+1720,Limnogonus fossarum,Trichogaster fasciata,0
+1721,Laccotrephes griseus,Trichogaster fasciata,0
+1722,Laccotrephes ruber,Trichogaster fasciata,0
+1723,Ranatra elongata,Trichogaster fasciata,0
+1724,Ranatra filiformis,Trichogaster fasciata,0
+1725,Ranatra varipes,Trichogaster fasciata,0
+1726,Anisops campbelli,Trichogaster fasciata,0
+1727,Hydrovatus confertus,Trichogaster fasciata,0
+1728,Mosquito larvae,Trichogaster fasciata,0
+1729,Detritus,Trichogaster fasciata,0
+1730,Diplonychus annulatus,Macrobrachium malcolmsonii,0
+1731,Diplonychus rusticus,Macrobrachium malcolmsonii,0
+1732,Aquarius adelaides,Macrobrachium malcolmsonii,0
+1733,Limnogonus fossarum,Macrobrachium malcolmsonii,0
+1734,Laccotrephes griseus,Macrobrachium malcolmsonii,0
+1735,Laccotrephes ruber,Macrobrachium malcolmsonii,0
+1736,Ranatra elongata,Macrobrachium malcolmsonii,0
+1737,Ranatra filiformis,Macrobrachium malcolmsonii,0
+1738,Ranatra varipes,Macrobrachium malcolmsonii,0
+1739,Anisops campbelli,Macrobrachium malcolmsonii,0
+1740,Hydrovatus confertus,Macrobrachium malcolmsonii,0
+1741,Detritus,Macrobrachium malcolmsonii,0
+1742,Diplonychus annulatus,Macrobrachium rosenbergii,0
+1743,Diplonychus rusticus,Macrobrachium rosenbergii,0
+1744,Aquarius adelaides,Macrobrachium rosenbergii,0
+1745,Limnogonus fossarum,Macrobrachium rosenbergii,0
+1746,Laccotrephes griseus,Macrobrachium rosenbergii,0
+1747,Laccotrephes ruber,Macrobrachium rosenbergii,0
+1748,Ranatra elongata,Macrobrachium rosenbergii,0
+1749,Ranatra filiformis,Macrobrachium rosenbergii,0
+1750,Ranatra varipes,Macrobrachium rosenbergii,0
+1751,Anisops campbelli,Macrobrachium rosenbergii,0
+1752,Hydrovatus confertus,Macrobrachium rosenbergii,0
+1753,Detritus,Macrobrachium rosenbergii,0
+1754,Arcella discoides,Macrobrachium rude,0
+1755,Centropyxis aculeata,Macrobrachium rude,0
+1756,Brachionus calyciflorus,Macrobrachium rude,0
+1757,Brachionus forficula,Macrobrachium rude,0
+1758,Keratella lenzi,Macrobrachium rude,0
+1759,Lecane aculeata,Macrobrachium rude,0
+1760,Lecane bulla,Macrobrachium rude,0
+1761,Asplanchna brightwelli,Macrobrachium rude,0
+1762,Mesocyclops leukarti,Macrobrachium rude,0
+1763,Scapholeberis kingi,Macrobrachium rude,0
+1764,Macrothrix spinosa,Macrobrachium rude,0
+1765,Macrothrix goeldi,Macrobrachium rude,0
+1766,Alona pulchella,Macrobrachium rude,0
+1767,Coronatella rectangula,Macrobrachium rude,0
+1768,Green Algae,Macrobrachium equidens,0
+1769,Brachionus calyciflorus,Macrobrachium equidens,0
+1770,Brachionus forficula,Macrobrachium equidens,0
+1771,Keratella lenzi,Macrobrachium equidens,0
+1772,Lecane aculeata,Macrobrachium equidens,0
+1773,Lecane bulla,Macrobrachium equidens,0
+1774,Mosquito larvae,Diplonychus annulatus,0
+1775,Diplonychus annulatus,Diplonychus annulatus,0
+1776,Diplonychus rusticus,Diplonychus annulatus,0
+1777,Aquarius adelaides,Diplonychus annulatus,0
+1778,Limnogonus fossarum,Diplonychus annulatus,0
+1779,Laccotrephes griseus,Diplonychus annulatus,0
+1780,Laccotrephes ruber,Diplonychus annulatus,0
+1781,Ranatra elongata,Diplonychus annulatus,0
+1782,Ranatra filiformis,Diplonychus annulatus,0
+1783,Ranatra varipes,Diplonychus annulatus,0
+1784,Anisops campbelli,Diplonychus annulatus,0
+1785,Hydrovatus confertus,Diplonychus annulatus,0
+1786,Diplonychus annulatus,Diplonychus rusticus,0
+1787,Diplonychus rusticus,Diplonychus rusticus,0
+1788,Aquarius adelaides,Diplonychus rusticus,0
+1789,Limnogonus fossarum,Diplonychus rusticus,0
+1790,Laccotrephes griseus,Diplonychus rusticus,0
+1791,Laccotrephes ruber,Diplonychus rusticus,0
+1792,Ranatra elongata,Diplonychus rusticus,0
+1793,Ranatra filiformis,Diplonychus rusticus,0
+1794,Ranatra varipes,Diplonychus rusticus,0
+1795,Anisops campbelli,Diplonychus rusticus,0
+1796,Hydrovatus confertus,Diplonychus rusticus,0
+1797,Mosquito larvae,Diplonychus rusticus,0
+1798,Mosquito larvae,Aquarius adelaides,0
+1799,Mosquito larvae,Limnogonus fossarum,0
+1800,Mosquito larvae,Laccotrephes griseus,0
+1801,Mosquito larvae,Laccotrephes ruber,0
+1802,Tadploes,Ranatra elongata,0
+1803,Parambassis baculis,Ranatra elongata,0
+1804,Aplocheilus panchax,Ranatra elongata,0
+1805,Badis badis,Ranatra elongata,0
+1806,Puntius vittatus,Ranatra elongata,0
+1807,Rasbora daniconius,Ranatra elongata,0
+1808,Pethia phutunio,Ranatra elongata,0
+1809,Trichogaster lalius,Ranatra elongata,0
+1810,Trichogaster fasciata,Ranatra elongata,0
+1811,Diplonychus annulatus,Ranatra elongata,0
+1812,Diplonychus rusticus,Ranatra elongata,0
+1813,Aquarius adelaides,Ranatra elongata,0
+1814,Limnogonus fossarum,Ranatra elongata,0
+1815,Laccotrephes griseus,Ranatra elongata,0
+1816,Laccotrephes ruber,Ranatra elongata,0
+1817,Ranatra elongata,Ranatra elongata,0
+1818,Ranatra filiformis,Ranatra elongata,0
+1819,Ranatra varipes,Ranatra elongata,0
+1820,Anisops campbelli,Ranatra elongata,0
+1821,Hydrovatus confertus,Ranatra elongata,0
+1822,Big fish juveniles,Ranatra elongata,0
+1823,Mosquito larvae,Ranatra filiformis,0
+1824,Diplonychus annulatus,Ranatra filiformis,0
+1825,Diplonychus rusticus,Ranatra filiformis,0
+1826,Aquarius adelaides,Ranatra filiformis,0
+1827,Limnogonus fossarum,Ranatra filiformis,0
+1828,Laccotrephes griseus,Ranatra filiformis,0
+1829,Laccotrephes ruber,Ranatra filiformis,0
+1830,Ranatra elongata,Ranatra filiformis,0
+1831,Ranatra filiformis,Ranatra filiformis,0
+1832,Ranatra varipes,Ranatra filiformis,0
+1833,Anisops campbelli,Ranatra filiformis,0
+1834,Hydrovatus confertus,Ranatra filiformis,0
+1835,Tadploes,Ranatra filiformis,0
+1836,Parambassis baculis,Ranatra filiformis,0
+1837,Aplocheilus panchax,Ranatra filiformis,0
+1838,Badis badis,Ranatra filiformis,0
+1839,Puntius vittatus,Ranatra filiformis,0
+1840,Rasbora daniconius,Ranatra filiformis,0
+1841,Pethia phutunio,Ranatra filiformis,0
+1842,Trichogaster lalius,Ranatra filiformis,0
+1843,Trichogaster fasciata,Ranatra filiformis,0
+1844,Big fish juveniles,Ranatra filiformis,0
+1845,Mosquito larvae,Ranatra varipes,0
+1846,Parambassis baculis,Ranatra varipes,0
+1847,Aplocheilus panchax,Ranatra varipes,0
+1848,Badis badis,Ranatra varipes,0
+1849,Puntius vittatus,Ranatra varipes,0
+1850,Rasbora daniconius,Ranatra varipes,0
+1851,Pethia phutunio,Ranatra varipes,0
+1852,Trichogaster lalius,Ranatra varipes,0
+1853,Diplonychus rusticus,Ranatra varipes,0
+1854,Aquarius adelaides,Ranatra varipes,0
+1855,Limnogonus fossarum,Ranatra varipes,0
+1856,Laccotrephes griseus,Ranatra varipes,0
+1857,Laccotrephes ruber,Ranatra varipes,0
+1858,Ranatra elongata,Ranatra varipes,0
+1859,Ranatra filiformis,Ranatra varipes,0
+1860,Ranatra varipes,Ranatra varipes,0
+1861,Anisops campbelli,Ranatra varipes,0
+1862,Hydrovatus confertus,Ranatra varipes,0
+1863,Tadploes,Ranatra varipes,0
+1864,Big fish juveniles,Ranatra varipes,0
+1865,Brachionus calyciflorus,Anisops campbelli,0
+1866,Brachionus forficula,Anisops campbelli,0
+1867,Keratella lenzi,Anisops campbelli,0
+1868,Lecane aculeata,Anisops campbelli,0
+1869,Lecane bulla,Anisops campbelli,0
+1870,Detritus,Hydrovatus confertus,0
+1871,Green Algae,Arcella discoides,0
+1872,Green Algae,Centropyxis aculeata,0
+1873,Green Algae,Brachionus calyciflorus,0
+1874,Green Algae,Brachionus forficula,0
+1875,Green Algae,Keratella lenzi,0
+1876,Green Algae,Lecane aculeata,0
+1877,Green Algae,Lecane bulla,0
+1878,Green Algae,Asplanchna brightwelli,0
+1879,Green Algae,Mesocyclops leukarti,0
+1880,Green Algae,Scapholeberis kingi,0
+1881,Green Algae,Macrothrix spinosa,0
+1882,Green Algae,Macrothrix goeldi,0
+1883,Green Algae,Alona pulchella,0
+1884,Green Algae,Coronatella rectangula,0
+1885,Arcella discoides,Odonata sp.,0
+1886,Centropyxis aculeata,Odonata sp.,0
+1887,Brachionus calyciflorus,Odonata sp.,0
+1888,Brachionus forficula,Odonata sp.,0
+1889,Keratella lenzi,Odonata sp.,0
+1890,Lecane aculeata,Odonata sp.,0
+1891,Lecane bulla,Odonata sp.,0
+1892,Asplanchna brightwelli,Odonata sp.,0
+1893,Mesocyclops leukarti,Odonata sp.,0
+1894,Scapholeberis kingi,Odonata sp.,0
+1895,Macrothrix spinosa,Odonata sp.,0
+1896,Macrothrix goeldi,Odonata sp.,0
+1897,Alona pulchella,Odonata sp.,0
+1898,Coronatella rectangula,Odonata sp.,0
+1899,Tadploes,Odonata sp.,0
+1900,Green Algae,Mosquito larvae,0
+1901,Detritus,Mosquito larvae,0
+1902,Arcella discoides,Carp sp.,0
+1903,Centropyxis aculeata,Carp sp.,0
+1904,Brachionus calyciflorus,Carp sp.,0
+1905,Brachionus forficula,Carp sp.,0
+1906,Keratella lenzi,Carp sp.,0
+1907,Lecane aculeata,Carp sp.,0
+1908,Lecane bulla,Carp sp.,0
+1909,Asplanchna brightwelli,Carp sp.,0
+1910,Mesocyclops leukarti,Carp sp.,0
+1911,Scapholeberis kingi,Carp sp.,0
+1912,Macrothrix spinosa,Carp sp.,0
+1913,Macrothrix goeldi,Carp sp.,0
+1914,Alona pulchella,Carp sp.,0
+1915,Coronatella rectangula,Carp sp.,0
+1916,Green Algae,Carp sp.,0
+1917,Detritus,Carp sp.,0
+1918,Herbaceous aquatic plants,Carp sp.,0
+1919,Arcella discoides,Big fish juveniles,0
+1920,Centropyxis aculeata,Big fish juveniles,0
+1921,Brachionus calyciflorus,Big fish juveniles,0
+1922,Brachionus forficula,Big fish juveniles,0
+1923,Keratella lenzi,Big fish juveniles,0
+1924,Lecane aculeata,Big fish juveniles,0
+1925,Lecane bulla,Big fish juveniles,0
+1926,Asplanchna brightwelli,Big fish juveniles,0
+1927,Mesocyclops leukarti,Big fish juveniles,0
+1928,Scapholeberis kingi,Big fish juveniles,0
+1929,Macrothrix spinosa,Big fish juveniles,0
+1930,Macrothrix goeldi,Big fish juveniles,0
+1931,Alona pulchella,Big fish juveniles,0
+1932,Coronatella rectangula,Big fish juveniles,0
+1933,Green Algae,Big fish juveniles,0
+1934,Detritus,Big fish juveniles,0
+1935,Herbaceous aquatic plants,Big fish juveniles,0
+1936,Green Algae,Tadploes,0
+1937,Detritus,Tadploes,0
+1938,Herbaceous aquatic plants,Tadploes,0
+1567,Felis chaus,Biocontrol,1
+2100,Prionailurus viverrinus,Biocontrol,1
+3100,Prionailurus viverrinus,Bioindicators,1
+4100,Dendrocygna javanica,Bird_watching,1
+5100,Dendrocygna javanica,Nutrient recycling,1
+6100,Dendrocygna javanica,Biocontrol,1
+7100,Tadorna ferruginea,Bird_watching,1
+864,Tadorna ferruginea,Nutrient recycling,1
+9100,Nettapus coromandelianus,Bird_watching,1
+1042,Nettapus coromandelianus,Nutrient recycling,1
+11100,Nettapus coromandelianus,Biocontrol,1
+12100,Spatula querquedula,Bird_watching,1
+13100,Spatula querquedula,Nutrient recycling,1
+14100,Spatula querquedula,Biocontrol,1
+15100,Anas poecilorhyncha,Bird_watching,1
+16100,Anas poecilorhyncha,Nutrient recycling,1
+17100,Anas poecilorhyncha,Biocontrol,1
+18100,Anas acuta,Bird_watching,1
+1939,Anas acuta,Nutrient recycling,1
+2010,Anas acuta,Biocontrol,1
+2110,Netta rufina,Bird_watching,1
+2210,Netta rufina,Nutrient recycling,1
+2310,Netta rufina,Biocontrol,1
+2410,Tachybaptus ruficollis,Bird_watching,1
+2510,Tachybaptus ruficollis,Nutrient recycling,1
+2610,Tachybaptus ruficollis,Biocontrol,1
+2710,Centropus bengalensis,Bird_watching,1
+2810,Centropus bengalensis,Nutrient recycling,1
+2910,Gallinula chloropus,Bird_watching,1
+3010,Gallinula chloropus,Nutrient recycling,1
+3110,Gallinula chloropus,Biocontrol,1
+3210,Fulica atra,Bird_watching,1
+3310,Fulica atra,Nutrient recycling,1
+3410,Fulica atra,Biocontrol,1
+3510,Porphyrio poliocephalus,Bird_watching,1
+3610,Porphyrio poliocephalus,Nutrient recycling,1
+3710,Porphyrio poliocephalus,Biocontrol,1
+3810,Amaurornis phoenicurus,Bird_watching,1
+3910,Amaurornis phoenicurus,Nutrient recycling,1
+4010,Amaurornis phoenicurus,Biocontrol,1
+4110,Himantopus himantopus,Bird_watching,1
+4210,Himantopus himantopus,Nutrient recycling,1
+4310,Himantopus himantopus,Biocontrol,1
+4410,Pluvialis fulva,Bird_watching,1
+4510,Pluvialis fulva,Nutrient recycling,1
+4610,Pluvialis fulva,Biocontrol,1
+4710,Charadrius dubius,Bird_watching,1
+4810,Charadrius dubius,Nutrient recycling,1
+4910,Charadrius dubius,Biocontrol,1
+5010,Vanellus malabaricus,Bird_watching,1
+5110,Vanellus malabaricus,Nutrient recycling,1
+5210,Vanellus malabaricus,Biocontrol,1
+5310,Vanellus indicus,Bird_watching,1
+5410,Vanellus indicus,Nutrient recycling,1
+5510,Vanellus indicus,Biocontrol,1
+5610,Metopidius indicus,Bird_watching,1
+5710,Metopidius indicus,Nutrient recycling,1
+5810,Metopidius indicus,Biocontrol,1
+5910,Hydrophasianus chirurgus,Bird_watching,1
+6010,Hydrophasianus chirurgus,Nutrient recycling,1
+6110,Hydrophasianus chirurgus,Biocontrol,1
+6210,Numenius arquata,Bird_watching,1
+6310,Numenius arquata,Nutrient recycling,1
+6410,Numenius arquata,Biocontrol,1
+6510,Calidris minuta,Bird_watching,1
+6610,Calidris minuta,Nutrient recycling,1
+6710,Calidris minuta,Biocontrol,1
+6810,Xenus cinereus,Bird_watching,1
+6910,Xenus cinereus,Nutrient recycling,1
+7010,Xenus cinereus,Biocontrol,1
+7110,Tringa ochropus,Bird_watching,1
+7210,Tringa ochropus,Nutrient recycling,1
+7310,Tringa ochropus,Biocontrol,1
+7410,Tringa nebularia,Bird_watching,1
+7510,Tringa nebularia,Nutrient recycling,1
+7610,Tringa nebularia,Biocontrol,1
+7710,Tringa stagnatilis,Bird_watching,1
+7810,Tringa stagnatilis,Nutrient recycling,1
+7910,Tringa stagnatilis,Biocontrol,1
+8010,Tringa glareola,Bird_watching,1
+8110,Tringa glareola,Nutrient recycling,1
+8210,Tringa tetanus,Bird_watching,1
+8310,Tringa tetanus,Nutrient recycling,1
+8410,Tringa tetanus,Biocontrol,1
+8510,Chroicocephalus brunnicephalus,Bird_watching,1
+8610,Chroicocephalus brunnicephalus,Nutrient recycling,1
+8710,Chroicocephalus brunnicephalus,Biocontrol,1
+8810,Sternula albifrons,Bird_watching,1
+8910,Sternula albifrons,Nutrient recycling,1
+9010,Sternula albifrons,Biocontrol,1
+9110,Chlidonias hybrida,Bird_watching,1
+9210,Chlidonias hybrida,Nutrient recycling,1
+9310,Chlidonias hybrida,Biocontrol,1
+9410,Sterna aurantia,Bird_watching,1
+9510,Sterna aurantia,Nutrient recycling,1
+9610,Sterna aurantia,Biocontrol,1
+9710,Anastomus oscitans,Bird_watching,1
+9810,Anastomus oscitans,Nutrient recycling,1
+9910,Mycteria leucocephala,Bird_watching,1
+10010,Mycteria leucocephala,Nutrient recycling,1
+10110,Mycteria leucocephala,Biocontrol,1
+10210,Anhinga melanogaster,Bird_watching,1
+10310,Anhinga melanogaster,Nutrient recycling,1
+1043,Microcarbo niger,Bird_watching,1
+1051,Microcarbo niger,Nutrient recycling,1
+10610,Phalacrocorax fuscicollis,Bird_watching,1
+10710,Phalacrocorax fuscicollis,Nutrient recycling,1
+10810,Ardea cinerea,Bird_watching,1
+10910,Ardea cinerea,Nutrient recycling,1
+11010,Ardea cinerea,Biocontrol,1
+11110,Ardea purpurea,Bird_watching,1
+11210,Ardea purpurea,Nutrient recycling,1
+11310,Ardea purpurea,Biocontrol,1
+11410,Ardea alba,Bird_watching,1
+11510,Ardea alba,Nutrient recycling,1
+11610,Ardea alba,Biocontrol,1
+11710,Ardea intermedia,Bird_watching,1
+11810,Ardea intermedia,Nutrient recycling,1
+11910,Ardea intermedia,Biocontrol,1
+12010,Egretta garzetta,Bird_watching,1
+12110,Egretta garzetta,Nutrient recycling,1
+12210,Egretta garzetta,Biocontrol,1
+12310,Bubulcus ibis,Bird_watching,1
+12410,Bubulcus ibis,Nutrient recycling,1
+12510,Bubulcus ibis,Biocontrol,1
+12610,Ardeola grayii,Bird_watching,1
+12710,Ardeola grayii,Nutrient recycling,1
+12810,Ardeola grayii,Biocontrol,1
+12910,Nycticorax nycticorax,Bird_watching,1
+13010,Nycticorax nycticorax,Nutrient recycling,1
+13110,Nycticorax nycticorax,Biocontrol,1
+13210,Plegadis falcinellus,Bird_watching,1
+13310,Plegadis falcinellus,Nutrient recycling,1
+13410,Threskiornis melanocephalus,Bird_watching,1
+13510,Threskiornis melanocephalus,Nutrient recycling,1
+13610,Threskiornis melanocephalus,Biocontrol,1
+13710,Haliaeetus leucogaster,Bird_watching,1
+13810,Haliaeetus leucogaster,Nutrient recycling,1
+13910,Spilornis cheela,Bird_watching,1
+14010,Spilornis cheela,Nutrient recycling,1
+14110,Circus aeruginosus,Bird_watching,1
+14210,Circus aeruginosus,Nutrient recycling,1
+14310,Alcedo atthis,Bird_watching,1
+14410,Alcedo atthis,Nutrient recycling,1
+14510,Alcedo atthis,Biocontrol,1
+14610,Halcyon smyrnensis,Bird_watching,1
+14710,Halcyon smyrnensis,Nutrient recycling,1
+14810,Halcyon smyrnensis,Biocontrol,1
+14910,Ceryle rudis,Bird_watching,1
+15010,Ceryle rudis,Nutrient recycling,1
+15110,Ceryle rudis,Biocontrol,1
+15210,Merops orientalis,Bird_watching,1
+15310,Merops orientalis,Nutrient recycling,1
+15410,Merops philippinus,Bird_watching,1
+15510,Merops philippinus,Nutrient recycling,1
+15610,Coracias benghalensis,Bird_watching,1
+15710,Coracias benghalensis,Nutrient recycling,1
+15810,Oriolus kundoo,Bird_watching,1
+15910,Oriolus kundoo,Nutrient recycling,1
+16010,Oriolus xanthornus,Bird_watching,1
+16110,Oriolus xanthornus,Nutrient recycling,1
+16210,Dicrurus caerulescens,Bird_watching,1
+16310,Dicrurus caerulescens,Nutrient recycling,1
+16410,Hirundo rustica,Bird_watching,1
+16510,Hirundo rustica,Nutrient recycling,1
+16610,Hirundo rustica,Biocontrol,1
+16710,Acridotheres ginginianus,Bird_watching,1
+16810,Acridotheres ginginianus,Nutrient recycling,1
+16910,Motacilla citreola,Bird_watching,1
+170,Motacilla citreola,Nutrient recycling,1
+17110,Motacilla citreola,Biocontrol,1
+17210,Motacilla tschutschensis,Bird_watching,1
+17310,Motacilla tschutschensis,Nutrient recycling,1
+17410,Motacilla tschutschensis,Biocontrol,1
+17510,Motacilla alba,Bird_watching,1
+17610,Motacilla alba,Nutrient recycling,1
+17710,Motacilla alba,Biocontrol,1
+17810,Duttaphrynus melanostictus,Nutrient recycling,1
+17910,Duttaphrynus melanostictus,Biocontrol,1
+18010,Duttaphrynus melanostictus,Bioindicators,1
+18710,Minervarya agricola,Nutrient recycling,1
+18810,Minervarya agricola,Biocontrol,1
+18910,Minervarya agricola,Bioindicators,1
+19310,Euphlyctis cyanophlyctis,Nutrient recycling,1
+1941,Euphlyctis cyanophlyctis,Biocontrol,1
+1951,Euphlyctis cyanophlyctis,Bioindicators,1
+1961,Hoplobatrachus tigerinus,Nutrient recycling,1
+1971,Hoplobatrachus tigerinus,Biocontrol,1
+1981,Hoplobatrachus tigerinus,Bioindicators,1
+2081,Microhyla mymensinghensis,Nutrient recycling,1
+2091,Microhyla mymensinghensis,Biocontrol,1
+2101,Microhyla mymensinghensis,Bioindicators,1
+2171,Polypedates maculatus,Nutrient recycling,1
+2181,Polypedates maculatus,Biocontrol,1
+2191,Polypedates maculatus,Bioindicators,1
+2201,Varanus bengalensis,Nutrient recycling,1
+2211,Varanus bengalensis,Biocontrol,1
+2221,Varanus bengalensis,Bioindicators,1
+2231,Enhydris enhydris,Nutrient recycling,1
+2241,Enhydris enhydris,Biocontrol,1
+2251,Enhydris enhydris,Bioindicators,1
+2261,Fowlea piscator,Nutrient recycling,1
+2271,Fowlea piscator,Biocontrol,1
+2281,Fowlea piscator,Bioindicators,1
+2321,Naja naja,Nutrient recycling,1
+2331,Naja naja,Biocontrol,1
+2341,Naja naja,Bioindicators,1
+2351,Lissemys punctata,Nutrient recycling,1
+2361,Lissemys punctata,Biocontrol,1
+2371,Lissemys punctata,Bioindicators,1
+2381,Parambassis baculis,Fishery,1
+2391,Parambassis baculis,Aquatic recreation,1
+2401,Parambassis baculis,Food provisioning,1
+2411,Parambassis baculis,Biocontrol,1
+2421,Parambassis baculis,Bioindicators,1
+2431,Aplocheilus panchax,Fishery,1
+2441,Aplocheilus panchax,Aquatic recreation,1
+2451,Aplocheilus panchax,Food provisioning,1
+2461,Aplocheilus panchax,Biocontrol,1
+2471,Aplocheilus panchax,Bioindicators,1
+2481,Netuma thalassina,Fishery,1
+2491,Netuma thalassina,Aquatic recreation,1
+2501,Netuma thalassina,Food provisioning,1
+2511,Netuma thalassina,Biocontrol,1
+2521,Netuma thalassina,Bioindicators,1
+2531,Badis badis,Fishery,1
+2541,Badis badis,Aquatic recreation,1
+2551,Badis badis,Food provisioning,1
+2561,Badis badis,Biocontrol,1
+2571,Badis badis,Bioindicators,1
+2581,Mystus tengara,Fishery,1
+2591,Mystus tengara,Aquatic recreation,1
+2601,Mystus tengara,Food provisioning,1
+2611,Mystus tengara,Biocontrol,1
+2621,Mystus tengara,Bioindicators,1
+2631,Mystus vittatus,Fishery,1
+2641,Mystus vittatus,Aquatic recreation,1
+2651,Mystus vittatus,Food provisioning,1
+2661,Mystus vittatus,Biocontrol,1
+2671,Mystus vittatus,Bioindicators,1
+2681,Xenentodon cancila,Fishery,1
+2691,Xenentodon cancila,Aquatic recreation,1
+2701,Xenentodon cancila,Food provisioning,1
+2711,Xenentodon cancila,Biocontrol,1
+2721,Xenentodon cancila,Bioindicators,1
+2731,Channa punctata,Fishery,1
+2741,Channa punctata,Aquatic recreation,1
+2751,Channa punctata,Food provisioning,1
+2761,Channa punctata,Biocontrol,1
+2771,Channa punctata,Bioindicators,1
+2781,Channa striata,Fishery,1
+2791,Channa striata,Aquatic recreation,1
+2801,Channa striata,Food provisioning,1
+2811,Channa striata,Biocontrol,1
+2821,Channa striata,Bioindicators,1
+2831,Channa gachua,Fishery,1
+2841,Channa gachua,Aquatic recreation,1
+2851,Channa gachua,Food provisioning,1
+2861,Channa gachua,Biocontrol,1
+2871,Channa gachua,Bioindicators,1
+2881,Oreochromis niloticus,Fishery,1
+2891,Oreochromis niloticus,Aquatic recreation,1
+2901,Oreochromis niloticus,Food provisioning,1
+2911,Oreochromis niloticus,Biocontrol,1
+2921,Oreochromis niloticus,Bioindicators,1
+2931,Puntius vittatus,Fishery,1
+2941,Puntius vittatus,Aquatic recreation,1
+2951,Puntius vittatus,Food provisioning,1
+2961,Puntius vittatus,Biocontrol,1
+2971,Puntius vittatus,Bioindicators,1
+2981,Rasbora daniconius,Fishery,1
+2991,Rasbora daniconius,Aquatic recreation,1
+3001,Rasbora daniconius,Food provisioning,1
+3011,Rasbora daniconius,Biocontrol,1
+3021,Rasbora daniconius,Bioindicators,1
+3031,Pethia phutunio,Fishery,1
+3041,Pethia phutunio,Aquatic recreation,1
+3051,Pethia phutunio,Food provisioning,1
+3061,Pethia phutunio,Biocontrol,1
+3071,Pethia phutunio,Bioindicators,1
+3081,Glossogobius giuris,Fishery,1
+3091,Glossogobius giuris,Aquatic recreation,1
+3101,Glossogobius giuris,Food provisioning,1
+3111,Glossogobius giuris,Biocontrol,1
+3121,Glossogobius giuris,Bioindicators,1
+3131,Heteropneustes fossilis,Fishery,1
+3141,Heteropneustes fossilis,Aquatic recreation,1
+3151,Heteropneustes fossilis,Food provisioning,1
+3161,Heteropneustes fossilis,Biocontrol,1
+3171,Heteropneustes fossilis,Bioindicators,1
+3181,Macrognathus pancalus,Fishery,1
+3191,Macrognathus pancalus,Aquatic recreation,1
+3201,Macrognathus pancalus,Food provisioning,1
+3211,Macrognathus pancalus,Biocontrol,1
+3221,Macrognathus pancalus,Bioindicators,1
+3231,Mastacembelus armatus,Fishery,1
+3241,Mastacembelus armatus,Aquatic recreation,1
+3251,Mastacembelus armatus,Food provisioning,1
+3261,Mastacembelus armatus,Biocontrol,1
+3271,Mastacembelus armatus,Bioindicators,1
+3281,Notopterus notopterus,Fishery,1
+3291,Notopterus notopterus,Aquatic recreation,1
+3301,Notopterus notopterus,Food provisioning,1
+3311,Notopterus notopterus,Biocontrol,1
+3321,Notopterus notopterus,Bioindicators,1
+3331,Trichogaster lalius,Fishery,1
+3341,Trichogaster lalius,Aquatic recreation,1
+3351,Trichogaster lalius,Food provisioning,1
+3361,Trichogaster lalius,Biocontrol,1
+3371,Trichogaster lalius,Bioindicators,1
+3381,Trichogaster fasciata,Fishery,1
+3391,Trichogaster fasciata,Aquatic recreation,1
+3401,Trichogaster fasciata,Food provisioning,1
+3411,Trichogaster fasciata,Biocontrol,1
+3421,Trichogaster fasciata,Bioindicators,1
+3431,Pila globosa,Carbon sequestration,1
+3441,Pila globosa,Aquatic recreation,1
+3451,Pila globosa,Food provisioning,1
+3461,Pila globosa,Biocontrol,1
+3471,Filopaludina bengalensis,Carbon sequestration,1
+3481,Filopaludina bengalensis,Aquatic recreation,1
+3491,Filopaludina bengalensis,Biocontrol,1
+3501,Idiopoma dissimilis,Carbon sequestration,1
+3511,Idiopoma dissimilis,Aquatic recreation,1
+3521,Idiopoma dissimilis,Biocontrol,1
+3531,Melanoides tuberculata,Carbon sequestration,1
+3541,Melanoides tuberculata,Aquatic recreation,1
+3551,Melanoides tuberculata,Biocontrol,1
+3561,Tarebia lineata,Carbon sequestration,1
+3571,Tarebia lineata,Aquatic recreation,1
+3581,Tarebia lineata,Biocontrol,1
+3591,Bithynia pulchella,Carbon sequestration,1
+3601,Bithynia pulchella,Aquatic recreation,1
+3611,Bithynia pulchella,Biocontrol,1
+3621,Gabbia orcula,Carbon sequestration,1
+3631,Gabbia orcula,Aquatic recreation,1
+3641,Gabbia orcula,Biocontrol,1
+3651,Radix rufescens,Carbon sequestration,1
+3661,Radix rufescens,Aquatic recreation,1
+3671,Radix rufescens,Biocontrol,1
+3681,Racesina luteola,Carbon sequestration,1
+3691,Racesina luteola,Aquatic recreation,1
+3701,Racesina luteola,Biocontrol,1
+3711,Gyraulus barrackporensis,Carbon sequestration,1
+3721,Gyraulus barrackporensis,Aquatic recreation,1
+3731,Gyraulus barrackporensis,Biocontrol,1
+3741,Gyraulus convexiusculus,Carbon sequestration,1
+3751,Gyraulus convexiusculus,Aquatic recreation,1
+3761,Gyraulus convexiusculus,Biocontrol,1
+3771,Gyraulus euphraticus,Carbon sequestration,1
+3781,Gyraulus euphraticus,Aquatic recreation,1
+3791,Gyraulus euphraticus,Biocontrol,1
+3801,Indoplanorbis exustus,Carbon sequestration,1
+3811,Indoplanorbis exustus,Aquatic recreation,1
+3821,Indoplanorbis exustus,Biocontrol,1
+3831,Macrobrachium malcolmsonii,Fishery,1
+3841,Macrobrachium malcolmsonii,Food provisioning,1
+3851,Macrobrachium malcolmsonii,Biocontrol,1
+3861,Macrobrachium rosenbergii,Fishery,1
+3871,Macrobrachium rosenbergii,Food provisioning,1
+3881,Macrobrachium rosenbergii,Biocontrol,1
+3891,Macrobrachium rude,Fishery,1
+3901,Macrobrachium rude,Food provisioning,1
+3911,Macrobrachium rude,Biocontrol,1
+3921,Macrobrachium equidens,Fishery,1
+3931,Macrobrachium equidens,Food provisioning,1
+3941,Macrobrachium equidens,Biocontrol,1
+3951,Diplonychus annulatus,Carbon sequestration,1
+3961,Diplonychus annulatus,Bioindicators,1
+3971,Diplonychus rusticus,Carbon sequestration,1
+3981,Diplonychus rusticus,Bioindicators,1
+3991,Aquarius adelaides,Carbon sequestration,1
+4001,Aquarius adelaides,Bioindicators,1
+4011,Limnogonus fossarum,Carbon sequestration,1
+4021,Limnogonus fossarum,Bioindicators,1
+4031,Laccotrephes griseus,Carbon sequestration,1
+4041,Laccotrephes griseus,Bioindicators,1
+4051,Laccotrephes ruber,Carbon sequestration,1
+4061,Laccotrephes ruber,Bioindicators,1
+4071,Ranatra elongata,Carbon sequestration,1
+4081,Ranatra elongata,Bioindicators,1
+4091,Ranatra filiformis,Carbon sequestration,1
+4101,Ranatra filiformis,Bioindicators,1
+4111,Ranatra varipes,Carbon sequestration,1
+4121,Ranatra varipes,Bioindicators,1
+4131,Anisops campbelli,Carbon sequestration,1
+4141,Anisops campbelli,Bioindicators,1
+4151,Hydrovatus confertus,Carbon sequestration,1
+4161,Hydrovatus confertus,Bioindicators,1
+4171,Arcella discoides,Carbon sequestration,1
+4181,Arcella discoides,Bioindicators,1
+4191,Centropyxis aculeata,Carbon sequestration,1
+4201,Centropyxis aculeata,Bioindicators,1
+4211,Brachionus calyciflorus,Carbon sequestration,1
+4221,Brachionus calyciflorus,Bioindicators,1
+4231,Brachionus forficula,Carbon sequestration,1
+4241,Brachionus forficula,Bioindicators,1
+4251,Keratella lenzi,Carbon sequestration,1
+4261,Keratella lenzi,Bioindicators,1
+4271,Lecane aculeata,Carbon sequestration,1
+4281,Lecane aculeata,Bioindicators,1
+4291,Lecane bulla,Carbon sequestration,1
+4301,Lecane bulla,Bioindicators,1
+4311,Asplanchna brightwelli,Carbon sequestration,1
+4321,Asplanchna brightwelli,Bioindicators,1
+4331,Mesocyclops leukarti,Carbon sequestration,1
+4341,Mesocyclops leukarti,Bioindicators,1
+4351,Scapholeberis kingi,Carbon sequestration,1
+4361,Scapholeberis kingi,Bioindicators,1
+4371,Macrothrix spinosa,Carbon sequestration,1
+4381,Macrothrix spinosa,Bioindicators,1
+4391,Macrothrix goeldi,Carbon sequestration,1
+4401,Macrothrix goeldi,Bioindicators,1
+4411,Alona pulchella,Carbon sequestration,1
+4421,Alona pulchella,Bioindicators,1
+4431,Coronatella rectangula,Carbon sequestration,1
+4441,Coronatella rectangula,Bioindicators,1
+4451,Odonata sp.,Biocontrol,1
+4461,Odonata sp.,Bioindicators,1
+4471,Green Algae,Carbon sequestration,1
+4481,Green Algae,Nutrient recycling,1
+4491,Green Algae,Food provisioning,1
+4501,Green Algae,Bioindicators,1
+4511,Detritus,Carbon sequestration,1
+4521,Detritus,Nutrient recycling,1
+4531,Herbaceous aquatic plants,Carbon sequestration,1
+4541,Herbaceous aquatic plants,Nutrient recycling,1
+4551,Herbaceous aquatic plants,Food provisioning,1
+4561,Carp sp.,Nutrient recycling,1
+4571,Carp sp.,Food provisioning,1
+4581,Carp sp.,Biocontrol,1
+4591,Big fish juveniles,Nutrient recycling,1
+4601,Big fish juveniles,Food provisioning,1
+4611,Big fish juveniles,Biocontrol,1
+4621,Tadploes,Biocontrol,1
+4631,Tadploes,Bioindicators,1
