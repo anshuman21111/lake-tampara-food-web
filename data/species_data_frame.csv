@@ -1,0 +1,312 @@
+guild,SPECIES,GENUS,FAMILY,ORDER,CLASS,PHYLUM,NOTES,WETLAND DEP,CLADE,HABIT,AQ
+Zooplankton,Arcella discoides,Arcella,Arcellidae,Arcellinida,Lobosa,Amoebozoa,Arcella discoides Ehrenberg, 1843,NA,NA,NA,NA
+Zooplankton,Centropyxis aculeata,Centropyxis,Centropyxidae,Arcellinida,Tubulinea,Amoebozoa,Centropyxis aculeata (Ehrenberg, 1832) Stein, 1857,NA,NA,NA,NA
+Zooplankton,Brachionus calyciflorus,Brachionus,Brachionidae,Ploima,Eurotatoria,Rotifera,Brachionus calyciflorus Pallas, 1766,NA,NA,NA,NA
+Zooplankton,Brachionus forficula,Brachionus,Brachionidae,Ploima,Eurotatoria,Rotifera,Brachionus forficula Wierzejski, 1891,NA,NA,NA,NA
+Zooplankton,Keratella lenzi,Keratella,Brachionidae,Ploima,Eurotatoria,Rotifera,Keratella lenzi Hauer, 1937,NA,NA,NA,NA
+Zooplankton,Lecane aculeata,Lecane,Lecanidae,Ploima,Eurotatoria,Rotifera,Lecane aculeata (Jakubski, 1912),NA,NA,NA,NA
+Zooplankton,Lecane bulla,Lecane,Lecanidae,Ploima,Eurotatoria,Rotifera,Lecane bulla (Gosse, 1851),NA,NA,NA,NA
+Zooplankton,Asplanchna brightwelli,Asplanchna,Asplanchnidae,Ploima,Eurotatoria,Rotifera,Asplanchna brightwelli Gosse, 1850,NA,NA,NA,NA
+Zooplankton,Mesocyclops leukarti,Mesocyclops,Cyclopidae,Cyclopoida,Copepoda,Arthropoda,Mesocyclops leukarti (Claus, 1857),NA,NA,NA,NA
+Zooplankton,Scapholeberis kingi,Scapholeberis,Daphnidae,Anomopoda,Branchiopoda,Arthropoda,Scapholeberis kingi Sars, 1901,NA,NA,NA,NA
+Zooplankton,Macrothrix spinosa,Macrothrix,Macrothricidae,Anomopoda,Branchiopoda,Arthropoda,Macrothrix spinosa King, 1853,NA,NA,NA,NA
+Zooplankton,Macrothrix goeldi,Macrothrix,Macrothricidae,Anomopoda,Branchiopoda,Arthropoda,Macrothrix goeldi Richard, 1897,NA,NA,NA,NA
+Zooplankton,Alona pulchella,Alona,Chydoridae,Anomopoda,Branchiopoda,Arthropoda,Alona pulchella King, 1853,NA,NA,NA,NA
+Zooplankton,Coronatella rectangula,Coronatella,Chydoridae,Anomopoda,Branchiopoda,Arthropoda,Coronatella rectangula Sars, 1862,NA,NA,NA,NA
+Aquatic_Insects,Diplonychus annulatus,Diplonychus,Belostomatidae,Hemiptera,Insecta,Arthropoda,Diplonychus annulatus (Fabricius, 1781),NA,NA,NA,NA
+Aquatic_Insects,Diplonychus rusticus,Diplonychus,Belostomatidae,Hemiptera,Insecta,Arthropoda,Diplonychus rusticus (Fabricius, 1781),NA,NA,NA,NA
+Aquatic_Insects,Aquarius adelaides,Aquarius,Gerridae,Hemiptera,Insecta,Arthropoda,Aquarius adelaides (Dohrn,1860),NA,NA,NA,NA
+Aquatic_Insects,Limnogonus fossarum,Limnogonus,Gerridae,Hemiptera,Insecta,Arthropoda,Limnogonus fossarum (Linnaeus, 1775),NA,NA,NA,NA
+Aquatic_Insects,Laccotrephes griseus,Laccotrephes,Nepidae,Hemiptera,Insecta,Arthropoda,Laccotrephes griseus (Guerin-Meneville, 1844),NA,NA,NA,NA
+Aquatic_Insects,Laccotrephes ruber,Laccotrephes,Nepidae,Hemiptera,Insecta,Arthropoda,Laccotrephes ruber (Linnaeus, 1764),NA,NA,NA,NA
+Aquatic_Insects,Ranatra elongata,Ranatra,Nepidae,Hemiptera,Insecta,Arthropoda,Ranatra elongata Fabricius 1790,NA,NA,NA,NA
+Aquatic_Insects,Ranatra filiformis,Ranatra,Nepidae,Hemiptera,Insecta,Arthropoda,Ranatra filiformis Fabricius, 1790,NA,NA,NA,NA
+Aquatic_Insects,Ranatra varipes,Ranatra,Nepidae,Hemiptera,Insecta,Arthropoda,Ranatra varipes Stal, 1861,NA,NA,NA,NA
+Aquatic_Insects,Anisops campbelli,Anisops,Notonectidae,Hemiptera,Insecta,Arthropoda,Anisops campbelli Brooks, 1951,NA,NA,NA,NA
+Aquatic_Insects,Hydrovatus confertus,Hydrovatus,Dytiscidae,Coleoptera,Insecta,Arthropoda,Hydrovatus confertus Sharp, 1882,NA,NA,NA,NA
+Prawns,Macrobrachium malcolmsonii,Macrobrachium,Palaemonidae,Decapoda,Malacostraca,Arthropoda,Macrobrachium malcolmsonii (H. Milne Edwards, 1844),NA,NA,NA,NA
+Prawns,Macrobrachium rosenbergii,Macrobrachium,Palaemonidae,Decapoda,Malacostraca,Arthropoda,Macrobrachium rosenbergii (De Man, 1879),NA,NA,NA,NA
+Prawns,Macrobrachium rude,Macrobrachium,Palaemonidae,Decapoda,Malacostraca,Arthropoda,Macrobrachium rude (Heller, 1862),NA,NA,NA,NA
+Prawns,Macrobrachium equidens,Macrobrachium,Palaemonidae,Decapoda,Malacostraca,Arthropoda,Macrobrachium equidens (Dana, 1852),NA,NA,NA,NA
+Mollusca,Pila globosa,Pila,Ampullariidae,NA,Gastropoda,Mollusca,Pila globosa (Swainson, 1822),NA,NA,NA,NA
+Mollusca,Filopaludina bengalensis,Filopaludina,Viviparidae,NA,Gastropoda,Mollusca,Filopaludina bengalensis (Lamarck, 1822),NA,NA,NA,NA
+Mollusca,Idiopoma dissimilis,Idiopoma,Viviparidae,NA,Gastropoda,Mollusca,Idiopoma dissimilis (O. F. Müller, 1774),NA,NA,NA,NA
+Mollusca,Melanoides tuberculata,Melanoides,Thiaridae,NA,Gastropoda,Mollusca,Melanoides tuberculata (O. F. Müller, 1774),NA,NA,NA,NA
+Mollusca,Tarebia lineata,Tarebia,Thiaridae,NA,Gastropoda,Mollusca,Tarebia lineata (Gray, 1828),NA,NA,NA,NA
+Mollusca,Bithynia pulchella,Bithynia,Bithyniidae,NA,Gastropoda,Mollusca,Bithynia pulchella (Benson, 1836),NA,NA,NA,NA
+Mollusca,Gabbia orcula,Gabbia,Bithyniidae,NA,Gastropoda,Mollusca,Gabbia orcula (Frauenfeld, 1862),NA,NA,NA,NA
+Mollusca,Radix rufescens,Radix,Lymnaeidae,NA,Gastropoda,Mollusca,Radix rufescens (J.E. Gray in G.B. Sowerby I, 1822),NA,NA,NA,NA
+Mollusca,Racesina luteola,Racesina,Lymnaeidae,NA,Gastropoda,Mollusca,Racesina luteola (Lamarck, 1822),NA,NA,NA,NA
+Mollusca,Gyraulus barrackporensis,Gyraulus,Planorbidae,NA,Gastropoda,Mollusca,Gyraulus barrackporensis (Clessin, 1886),NA,NA,NA,NA
+Mollusca,Gyraulus convexiusculus,Gyraulus,Planorbidae,NA,Gastropoda,Mollusca,Gyraulus convexiusculus (T. Hutton, 1849),NA,NA,NA,NA
+Mollusca,Gyraulus euphraticus,Gyraulus,Planorbidae,NA,Gastropoda,Mollusca,Gyraulus euphraticus (Mousson, 1874),NA,NA,NA,NA
+Mollusca,Indoplanorbis exustus,Indoplanorbis,Bulinidae,NA,Gastropoda,Mollusca,Indoplanorbis exustus (Deshayes, 1833),NA,NA,NA,NA
+Fishes,Parambassis baculis,Parambassis,Ambassidae,Ovalentariaincertaesedis,Actinopteri,Chordata,Parambassis baculis (Hamilton, 1822),NA,NA,NA,NA
+Fishes,Aplocheilus panchax,Aplocheilus,Aplocheilidae,Cyprinodontiformes,Actinopteri,Chordata,Aplocheilus panchax (Hamilton, 1822),NA,NA,NA,NA
+Fishes,Netuma thalassina,Netuma,Ariidae,Siluriformes,Actinopteri,Chordata,Netuma thalassina(Rüppell, 1837),NA,NA,NA,NA
+Fishes,Badis badis,Badis,Badidae,Anabantiformes,Actinopteri,Chordata,Badis badis (Hamilton, 1822),NA,NA,NA,NA
+Fishes,Mystus tengara,Mystus,Bagridae,Siluriformes,Actinopteri,Chordata,Mystus tengara (Hamilton, 1822),NA,NA,NA,NA
+Fishes,Mystus vittatus,Mystus,Bagridae,Siluriformes,Actinopteri,Chordata,Mystus vittatus (Bloch, 1794),NA,NA,NA,NA
+Fishes,Xenentodon cancila,Xenentodon,Belonidae,Beloniformes,Actinopteri,Chordata,Xenentodon cancila(Hamilton, 1822),NA,NA,NA,NA
+Fishes,Channa punctate,Channa,Channidae,Anabantiformes,Actinopteri,Chordata,Channa punctate (Bloch, 1793),NA,NA,NA,NA
+Fishes,Channa striata,Channa,Channidae,Anabantiformes,Actinopteri,Chordata,Channa striata (Bloch, 1793),NA,NA,NA,NA
+Fishes,Channa gachua,Channa,Channidae,Anabantiformes,Actinopteri,Chordata,Channa gachua (Hamilton, 1822),NA,NA,NA,NA
+Fishes,Oreochromis niloticus,Oreochromis,Cichlidae,Cichliformes,Actinopteri,Chordata,Oreochromis niloticus (Linnaeus, 1758),NA,NA,NA,NA
+Fishes,Puntius vittatus,Puntius,Cyprinidae,Cypriniformes,Actinopteri,Chordata,Puntius vittatus Day, 1865,NA,NA,NA,NA
+Fishes,Rasbora daniconius,Rasbora,Danionidae,Cypriniformes,Actinopteri,Chordata,Rasbora daniconius (Hamilton, 1822),NA,NA,NA,NA
+Fishes,Pethia phutunio,Pethia,Cyprinidae,Cypriniformes,Actinopteri,Chordata,Pethia phutunio (Hamilton, 1822),NA,NA,NA,NA
+Fishes,Glossogobius giuris,Glossogobius,Gobiidae,Gobiiformes,Actinopteri,Chordata,Glossogobius giuris (Hamilton, 1822),NA,NA,NA,NA
+Fishes,Heteropneustes fossilis,Heteropneustes,Heteropneustidae,Siluriformes,Actinopteri,Chordata,Heteropneustes fossilis (Bloch, 1794),NA,NA,NA,NA
+Fishes,Macrognathus pancalus,Macrognathus,Mastacembelidae,Synbranchiformes,Actinopteri,Chordata,Macrognathus pancalus Hamilton, 1822,NA,NA,NA,NA
+Fishes,Mastacembelus armatus,Mastacembelus,Mastacembelidae,Synbranchiformes,Actinopteri,Chordata,Mastacembelus armatus (Lacepède, 1800),NA,NA,NA,NA
+Fishes,Notopterus notopterus,Notopterus,Notopteridae,Osteoglossiformes,Actinopteri,Chordata,Notopterus notopterus (Pallas, 1769),NA,NA,NA,NA
+Fishes,Trichogaster lalius,Trichogaster,Osphronemidae,Anabantiformes,Actinopteri,Chordata,Trichogaster lalius (Hamilton, 1822),NA,NA,NA,NA
+Fishes,Trichogaster fasciata,Trichogaster,Osphronemidae,Anabantiformes,Actinopteri,Chordata,Trichogaster fasciata Bloch & Schneider, 1801,NA,NA,NA,NA
+Herpetofauna,Duttaphrynus melanostictus,Duttaphrynus,Bufonidae,Anura,Amphibia,Chordata,Duttaphrynus melanostictus (Schneider, 1799),NA,NA,NA,NA
+Herpetofauna,Duttaphrynus scaber,Duttaphrynus,Bufonidae,Anura,Amphibia,Chordata,Duttaphrynus scaber (Schneider, 1799),NA,NA,NA,NA
+Herpetofauna,Fejervarya orissaensis,Fejervarya,Dicroglossidae,Anura,Amphibia,Chordata,Fejervarya orissaensis (Dutta, 1997),NA,NA,NA,NA
+Herpetofauna,Minervarya agricola,Minervarya,Dicroglossidae,Anura,Amphibia,Chordata,Minervarya agricola (Jerdon, 1853),NA,NA,NA,NA
+Herpetofauna,Minervarya pierrei,Minervarya,Dicroglossidae,Anura,Amphibia,Chordata,Minervarya pierrei (Dubois, 1975),NA,NA,NA,NA
+Herpetofauna,Euphlyctis cyanophlyctis,Euphlyctis,Dicroglossidae,Anura,Amphibia,Chordata,Euphlyctis cyanophlyctis (Schneider, 1799),NA,NA,NA,NA
+Herpetofauna,Hoplobatrachus tigerinus,Hoplobatrachus,Dicroglossidae,Anura,Amphibia,Chordata,Hoplobatrachus tigerinus (Daudin, 1803),NA,NA,NA,NA
+Herpetofauna,Hoplobatrachus crassus,Hoplobatrachus,Dicroglossidae,Anura,Amphibia,Chordata,Hoplobatrachus crassus (Jerdon, 1854),NA,NA,NA,NA
+Herpetofauna,Sphaerotheca breviceps,Sphaerotheca,Dicroglossidae,Anura,Amphibia,Chordata,Sphaerotheca breviceps (Schneider, 1799),NA,NA,NA,NA
+Herpetofauna,Sphaerotheca rolandae,Sphaerotheca,Dicroglossidae,Anura,Amphibia,Chordata,Sphaerotheca rolandae (Dubois, 1983),NA,NA,NA,NA
+Herpetofauna,Microhyla mymensinghensis,Microhyla,Microhylidae,Anura,Amphibia,Chordata,Microhyla mymensinghensis Hasan et al., 2014,NA,NA,NA,NA
+Herpetofauna,Uperodon systoma,Uperodon,Microhylidae,Anura,Amphibia,Chordata,Uperodon systoma (Schneider, 1799),NA,NA,NA,NA
+Herpetofauna,Hylarana tytleri,Hylarana,Ranidae,Anura,Amphibia,Chordata,Hylarana tytleri Theobald, 1868,NA,NA,NA,NA
+Herpetofauna,Polypedates maculatus,Polypedates,Rhacophoridae,Anura,Amphibia,Chordata,Polypedates maculatus (Gray, 1834),NA,NA,NA,NA
+Herpetofauna,Varanus bengalensis,Varanus,Varanidae,Squamata,Reptilia,Chordata,Varanus bengalensis (Daudin, 1802),NA,NA,NA,NA
+Herpetofauna,Calotes versicolor,Calotes,Agamidae,Squamata,Reptilia,Chordata,Calotes versicolor (Daudin, 1802),NA,NA,NA,NA
+Herpetofauna,Enhydris enhydris,Enhydris,Homalopsidae,Squamata,Reptilia,Chordata,Enhydris enhydris (Schneider, 1799),NA,NA,NA,NA
+Herpetofauna,Fowlea piscator,Fowlea,Colubridae,Squamata,Reptilia,Chordata,Fowlea piscator (Schneider, 1799),NA,NA,NA,NA
+Herpetofauna,Bungarus fasciatus,Bungarus,Elapidae,Squamata,Reptilia,Chordata,Bungarus fasciatus (Schneider, 1801),NA,NA,NA,NA
+Herpetofauna,Naja naja,Naja,Elapidae,Squamata,Reptilia,Chordata,Naja naja (Linnaeus, 1758),NA,NA,NA,NA
+Herpetofauna,Lissemys punctata,Lissemys,Trionychidae,Testudines,Reptilia,Chordata,Lissemys punctata (Bonnaterre, 1789),NA,NA,NA,NA
+Aves,Dendrocygna javanica,Dendrocygna,Anatidae,Anseriformes,Aves,Chordata,Dendrocygna javanica (Horsfield, 1821),1,NA,NA,NA
+Aves,Tadorna ferruginea,Tadorna,Anatidae,Anseriformes,Aves,Chordata,Tadorna ferruginea (Pallas, 1764),1,NA,NA,NA
+Aves,Nettapus coromandelianus,Nettapus,Anatidae,Anseriformes,Aves,Chordata,Nettapus coromandelianus (J.F. Gmelin, 1789),1,NA,NA,NA
+Aves,Spatula querquedula,Spatula,Anatidae,Anseriformes,Aves,Chordata,Spatula querquedula (Linnaeus, 1758),1,NA,NA,NA
+Aves,Anas poecilorhyncha,Anas,Anatidae,Anseriformes,Aves,Chordata,Anas poecilorhyncha J.R. Forster, 1781,1,NA,NA,NA
+Aves,Anas acuta,Anas,Anatidae,Anseriformes,Aves,Chordata,Anas acuta Linnaeus, 1758,1,NA,NA,NA
+Aves,Netta rufina,Netta,Anatidae,Anseriformes,Aves,Chordata,Netta rufina (Pallas, 1773),1,NA,NA,NA
+Aves,Francolinus pondicerianus,Francolinus,Phasianidae,Galliformes,Aves,Chordata,Francolinus pondicerianus (J.F. Gmelin, 1789),NA,NA,NA,NA
+Aves,Gallus gallus,Gallus,Phasianidae,Galliformes,Aves,Chordata,Gallus gallus (Linnaeus, 1758),NA,NA,NA,NA
+Aves,Tachybaptus ruficollis,Tachybaptus,Podicipedidae,Podicipediformes,Aves,Chordata,Tachybaptus ruficollis (Pallas, 1764),1,NA,NA,NA
+Aves,Columba livia,Columba,Columbidae,Columbiformes,Aves,Chordata,Columba livia J.F. Gmelin, 1789,NA,NA,NA,NA
+Aves,Streptopelia chinensis,Streptopelia,Columbidae,Columbiformes,Aves,Chordata,Streptopelia chinensis (Scopoli, 1786),NA,NA,NA,NA
+Aves,Streptopelia senegalensis,Streptopelia,Columbidae,Columbiformes,Aves,Chordata,Streptopelia senegalensis (Linnaeus, 1766),NA,NA,NA,NA
+Aves,Chalcophaps indica,Chalcophaps,Columbidae,Columbiformes,Aves,Chordata,Chalcophaps indica (Linnaeus, 1758),NA,NA,NA,NA
+Aves,Centropus bengalensis,Centropus,Cuculidae,Cuculiformes,Aves,Chordata,Centropus bengalensis (J.F. Gmelin, 1788),NA,NA,NA,NA
+Aves,Eudynamys scolopaceus,Eudynamys,Cuculidae,Cuculiformes,Aves,Chordata,Eudynamys scolopaceus (Linnaeus, 1758),NA,NA,NA,NA
+Aves,Hierococcyx varius,Hierococcyx,Cuculidae,Cuculiformes,Aves,Chordata,Hierococcyx varius (Vahl, 1797),NA,NA,NA,NA
+Aves,Caprimulgus asiaticus,Caprimulgus,Caprimulgidae,Caprimulgiformes,Aves,Chordata,Caprimulgus asiaticus Latham, 1790,NA,NA,NA,NA
+Aves,Gallinula chloropus,Gallinula,Rallidae,Gruiformes,Aves,Chordata,Gallinula chloropus (Linnaeus, 1758),1,NA,NA,NA
+Aves,Fulica atra,Fulica,Rallidae,Gruiformes,Aves,Chordata,Fulica atra Linnaeus, 1758,1,NA,NA,NA
+Aves,Porphyrio poliocephalus,Porphyrio,Rallidae,Gruiformes,Aves,Chordata,Porphyrio poliocephalus (Latham, 1801),1,NA,NA,NA
+Aves,Amaurornis phoenicurus,Amaurornis,Rallidae,Gruiformes,Aves,Chordata,Amaurornis phoenicurus (Pennant, 1769),1,NA,NA,NA
+Aves,Himantopus Himantopus,Himantopus,Recurvirostridae,Charadriiformes,Aves,Chordata,Himantopus Himantopus (Linnaeus, 1758),1,NA,NA,NA
+Aves,Pluvialis fulva,Pluvialis,Charadriidae,Charadriiformes,Aves,Chordata,Pluvialis fulva (J.F. Gmelin, 1789),1,NA,NA,NA
+Aves,Charadrius dubius,Charadrius,Charadriidae,Charadriiformes,Aves,Chordata,Charadrius dubius Scopoli, 1786,1,NA,NA,NA
+Aves,Vanellus malabaricus,Vanellus,Charadriidae,Charadriiformes,Aves,Chordata,Vanellus malabaricus (Boddaert, 1783),NA,NA,NA,NA
+Aves,Vanellus indicus,Vanellus,Charadriidae,Charadriiformes,Aves,Chordata,Vanellus indicus (Boddaert, 1783),NA,NA,NA,NA
+Aves,Metopidius indicus,Metopidius,Jacanidae,Charadriiformes,Aves,Chordata,Metopidius indicus (Latham, 1790),1,NA,NA,NA
+Aves,Hydrophasianus chirurgus,Hydrophasianus,Jacanidae,Charadriiformes,Aves,Chordata,Hydrophasianus chirurgus (Scopoli, 1786),1,NA,NA,NA
+Aves,Numenius arquata,Numenius,Scolopacidae,Charadriiformes,Aves,Chordata,Numenius arquata (Linnaeus, 1758),1,NA,NA,NA
+Aves,Calidris minuta,Calidris,Scolopacidae,Charadriiformes,Aves,Chordata,Calidris minuta (Leisler, 1812),1,NA,NA,NA
+Aves,Xenus cinereus,Xenus,Scolopacidae,Charadriiformes,Aves,Chordata,Xenus cinereus (Güldenstädt, 1775),1,NA,NA,NA
+Aves,Tringa ochropus,Tringa,Scolopacidae,Charadriiformes,Aves,Chordata,Tringa ochropus Linnaeus, 1758,1,NA,NA,NA
+Aves,Tringa nebularia,Tringa,Scolopacidae,Charadriiformes,Aves,Chordata,Tringa nebularia (Gunnerus, 1767),1,NA,NA,NA
+Aves,Tringa stagnatilis,Tringa,Scolopacidae,Charadriiformes,Aves,Chordata,Tringa stagnatilis (Bechstein, 1803),1,NA,NA,NA
+Aves,Tringa glareola,Tringa,Scolopacidae,Charadriiformes,Aves,Chordata,Tringa glareola Linnaeus, 1758,1,NA,NA,NA
+Aves,Tringa tetanus,Tringa,Scolopacidae,Charadriiformes,Aves,Chordata,Tringa tetanus (Linnaeus, 1758),1,NA,NA,NA
+Aves,Chroicocephalus brunnicephalus,Chroicocephalus,Laridae,Charadriiformes,Aves,Chordata,Chroicocephalus brunnicephalus (Jerdon, 1840),1,NA,NA,NA
+Aves,Sternula albifrons,Sternula,Laridae,Charadriiformes,Aves,Chordata,Sternula albifrons (Pallas, 1764),1,NA,NA,NA
+Aves,Chlidonias hybrida,Chlidonias,Laridae,Charadriiformes,Aves,Chordata,Chlidonias hybrida (Pallas, 1811),1,NA,NA,NA
+Aves,Sterna aurantia,Sterna,Laridae,Charadriiformes,Aves,Chordata,Sterna aurantia J.E. Gray, 1831,1,NA,NA,NA
+Aves,Anastomus oscitans,Anastomus,Ciconiidae,Ciconiiformes,Aves,Chordata,Anastomus oscitans (Boddaert, 1783),1,NA,NA,NA
+Aves,Mycteria leucocephala,Mycteria,Ciconiidae,Ciconiiformes,Aves,Chordata,Mycteria leucocephala (Pennant, 1769),1,NA,NA,NA
+Aves,Anhinga melanogaster,Anhinga,Anhingidae,Suliformes,Aves,Chordata,Anhinga melanogaster Pennant, 1769,1,NA,NA,NA
+Aves,Microcarbo niger,Microcarbo,Phalacrocoracidae,Suliformes,Aves,Chordata,Microcarbo niger (Vieillot, 1817),1,NA,NA,NA
+Aves,Phalacrocorax fuscicollis,Phalacrocorax,Phalacrocoracidae,Suliformes,Aves,Chordata,Phalacrocorax fuscicollis Stephens, 1826,1,NA,NA,NA
+Aves,Ardea cinerea,Ardea,Ardeidae,Pelecaniformes,Aves,Chordata,Ardea cinerea Linnaeus, 1758,1,NA,NA,NA
+Aves,Ardea purpurea,Ardea,Ardeidae,Pelecaniformes,Aves,Chordata,Ardea purpurea Linnaeus, 1766,1,NA,NA,NA
+Aves,Ardea alba,Ardea,Ardeidae,Pelecaniformes,Aves,Chordata,Ardea alba Linnaeus, 1758,1,NA,NA,NA
+Aves,Ardea intermedia,Ardea,Ardeidae,Pelecaniformes,Aves,Chordata,Ardea intermedia Wagler, 1829,1,NA,NA,NA
+Aves,Egretta garzetta,Egretta,Ardeidae,Pelecaniformes,Aves,Chordata,Egretta garzetta (Linnaeus, 1766),1,NA,NA,NA
+Aves,Bubulcus ibis,Bubulcus,Ardeidae,Pelecaniformes,Aves,Chordata,Bubulcus ibis (Linnaeus, 1758),1,NA,NA,NA
+Aves,Ardeola grayii,Ardeola,Ardeidae,Pelecaniformes,Aves,Chordata,Ardeola grayii (Sykes, 1832),1,NA,NA,NA
+Aves,Nycticorax nycticorax,Nycticorax,Ardeidae,Pelecaniformes,Aves,Chordata,Nycticorax nycticorax (Linnaeus, 1758),1,NA,NA,NA
+Aves,Plegadis falcinellus,Plegadis,Threskiornithidae,Pelecaniformes,Aves,Chordata,Plegadis falcinellus (Linnaeus, 1766),1,NA,NA,NA
+Aves,Threskiornis melanocephalus,Threskiornis,Threskiornithidae,Pelecaniformes,Aves,Chordata,Threskiornis melanocephalus (Latham, 1790),1,NA,NA,NA
+Aves,Pernis ptilorhynchus,Pernis,Accipitridae,Accipitriformes,Aves,Chordata,Pernis ptilorhynchus (Temminck, 1821),NA,NA,NA,NA
+Aves,Accipiter badius,Accipiter,Accipitridae,Accipitriformes,Aves,Chordata,Accipiter badius (J.F. Gmelin, 1788),NA,NA,NA,NA
+Aves,Milvus migrans,Milvus,Accipitridae,Accipitriformes,Aves,Chordata,Milvus migrans (Boddaert, 1783),NA,NA,NA,NA
+Aves,Haliastur indus,Haliastur,Accipitridae,Accipitriformes,Aves,Chordata,Haliastur indus (Boddaert, 1783),NA,NA,NA,NA
+Aves,Elanus caeruleus,Elanus,Accipitridae,Accipitriformes,Aves,Chordata,Elanus caeruleus (Desfontaines, 1789),NA,NA,NA,NA
+Aves,Haliaeetus leucogaster,Haliaeetus,Accipitridae,Accipitriformes,Aves,Chordata,Haliaeetus leucogaster (J.F. Gmelin, 1788),NA,NA,NA,NA
+Aves,Spilornis cheela,Spilornis,Accipitridae,Accipitriformes,Aves,Chordata,Spilornis cheela  (Latham, 1790),NA,NA,NA,NA
+Aves,Circus aeruginosus,Circus,Accipitridae,Accipitriformes,Aves,Chordata,Circus aeruginosus (Linnaeus, 1758),NA,NA,NA,NA
+Aves,Tyto alba,Tyto,Tytonidae,Strigiformes,Aves,Chordata,Tyto alba (Scopoli, 1769),NA,NA,NA,NA
+Aves,Athene brama,Athene,Tytonidae,Strigiformes,Aves,Chordata,Athene brama (Temminck, 1821),NA,NA,NA,NA
+Aves,Upupa epops,Upupa,Upupidae,Bucerotiformes,Aves,Chordata,Upupa epops Linnaeus, 1758,NA,NA,NA,NA
+Aves,Ocyceros birostris,Ocyceros,Bucerotidae,Bucerotiformes,Aves,Chordata,Ocyceros birostris (Scopoli, 1786),NA,NA,NA,NA
+Aves,Alcedo atthis,Alcedo,Alcedinidae,Coraciiformes,Aves,Chordata,Alcedo atthis (Linnaeus, 1758),1,NA,NA,NA
+Aves,Halcyon smyrnensis,Halcyon,Alcedinidae,Coraciiformes,Aves,Chordata,Halcyon smyrnensis (Linnaeus, 1758),1,NA,NA,NA
+Aves,Ceryle rudis,Ceryle,Alcedinidae,Coraciiformes,Aves,Chordata,Ceryle rudis (Linnaeus, 1758),1,NA,NA,NA
+Aves,Merops orientalis,Merops,Meropidae,Coraciiformes,Aves,Chordata,Merops orientalis Latham, 1801,NA,NA,NA,NA
+Aves,Merops philippinus,Merops,Meropidae,Coraciiformes,Aves,Chordata,Merops philippinus Linnaeus, 1767,NA,NA,NA,NA
+Aves,Coracias benghalensis,Coracias,Coraciidae,Coraciiformes,Aves,Chordata,Coracias benghalensis (Linnaeus, 1758),NA,NA,NA,NA
+Aves,Dinopium benghalense,Dinopium,Picidae,Piciformes,Aves,Chordata,Dinopium benghalense (Linnaeus, 1758),NA,NA,NA,NA
+Aves,Psilopogon haemacephalus,Psilopogon,Megalaimidae,Piciformes,Aves,Chordata,Psilopogon haemacephalus (Statius Muller, 1776),NA,NA,NA,NA
+Aves,Psilopogon zeylanicus,Psilopogon,Megalaimidae,Piciformes,Aves,Chordata,Psilopogon zeylanicus (J.F. Gmelin, 1788),NA,NA,NA,NA
+Aves,Psittacula eupatria,Psittacula,Psittaculidae,Psittaciformes,Aves,Chordata,Psittacula eupatria (Linnaeus, 1766),NA,NA,NA,NA
+Aves,Psittacula krameria,Psittacula,Psittaculidae,Psittaciformes,Aves,Chordata,Psittacula krameria (Scopoli, 1769),NA,NA,NA,NA
+Aves,Aegithina tiphia,Aegithina,Aegithinidae,Passeriformes,Aves,Chordata,Aegithina tiphia (Linnaeus, 1758),NA,NA,NA,NA
+Aves,Oriolus kundoo,Oriolus,Oriolidae,Passeriformes,Aves,Chordata,Oriolus kundoo Sykes, 1832,NA,NA,NA,NA
+Aves,Oriolus xanthornus,Oriolus,Oriolidae,Passeriformes,Aves,Chordata,Oriolus xanthornus (Linnaeus, 1758),NA,NA,NA,NA
+Aves,Lanius cristatus,Lanius,Laniidae,Passeriformes,Aves,Chordata,Lanius cristatus Linnaeus, 1758,NA,NA,NA,NA
+Aves,Dicrurus caerulescens,Dicrurus,Dicruridae,Passeriformes,Aves,Chordata,Dicrurus caerulescens (Linnaeus, 1758),NA,NA,NA,NA
+Aves,Dicrurus macrocercus,Dicrurus,Dicruridae,Passeriformes,Aves,Chordata,Dicrurus macrocercus Vieillot, 1817,NA,NA,NA,NA
+Aves,Dendrocitta vagabunda,Dendrocitta,Corvidae,Passeriformes,Aves,Chordata,Dendrocitta vagabunda (Latham, 1790),NA,NA,NA,NA
+Aves,Corvus splendens,Corvus,Corvidae,Passeriformes,Aves,Chordata,Corvus splendens Vieillot, 1817,NA,NA,NA,NA
+Aves,Corvus macrorhynchos,Corvus,Corvidae,Passeriformes,Aves,Chordata,Corvus macrorhynchos Wagler, 1827,NA,NA,NA,NA
+Aves,Prinia socialis,Prinia,Cisticolidae,Passeriformes,Aves,Chordata,Prinia socialis Sykes, 1832,NA,NA,NA,NA
+Aves,Prinia inornate,Prinia,Cisticolidae,Passeriformes,Aves,Chordata,Prinia inornate Sykes, 1832,NA,NA,NA,NA
+Aves,Cisticola juncidis,Cisticola,Cisticolidae,Passeriformes,Aves,Chordata,Cisticola juncidis (Rafinesque, 1810),NA,NA,NA,NA
+Aves,Acrocephalus stentoreus,Acrocephalus,Acrocephalidae,Passeriformes,Aves,Chordata,Acrocephalus stentoreus (Hemprich & Ehrenberg, 1833),NA,NA,NA,NA
+Aves,Hirundo rustica,Hirundo,Hirundinidae,Passeriformes,Aves,Chordata,Hirundo rustica Linnaeus, 1758,NA,NA,NA,NA
+Aves,Pycnonotus cafer,Pycnonotus,Pycnonotidae,Passeriformes,Aves,Chordata,Pycnonotus cafer (Linnaeus, 1766),NA,NA,NA,NA
+Aves,Pycnonotus luteolus,Pycnonotus,Pycnonotidae,Passeriformes,Aves,Chordata,Pycnonotus luteolus (Lesson, 1841),NA,NA,NA,NA
+Aves,Pycnonotus jocosus,Pycnonotus,Pycnonotidae,Passeriformes,Aves,Chordata,Pycnonotus jocosus (Linnaeus, 1758),NA,NA,NA,NA
+Aves,Argya striata,Argya,Leiothrichidae,Passeriformes,Aves,Chordata,Argya striata (Dumont, 1823),NA,NA,NA,NA
+Aves,Gracupica contra,Gracupica,Sturnidae,Passeriformes,Aves,Chordata,Gracupica contra (Linnaeus, 1758),NA,NA,NA,NA
+Aves,Sturnia malabarica,Sturnia,Sturnidae,Passeriformes,Aves,Chordata,Sturnia malabarica · (Gmelin, JF, 1789),NA,NA,NA,NA
+Aves,Acridotheres tristis,Acridotheres,Sturnidae,Passeriformes,Aves,Chordata,Acridotheres tristis (Linnaeus, 1766),NA,NA,NA,NA
+Aves,Acridotheres ginginianus,Acridotheres,Sturnidae,Passeriformes,Aves,Chordata,Acridotheres ginginianus (Latham, 1790),NA,NA,NA,NA
+Aves,Acridotheres fuscus,Acridotheres,Sturnidae,Passeriformes,Aves,Chordata,Acridotheres fuscus (Wagler, 1827),NA,NA,NA,NA
+Aves,Copsychus fulicatus,Copsychus,Muscicapidae,Passeriformes,Aves,Chordata,Copsychus fulicatus (Linnaeus, 1766),NA,NA,NA,NA
+Aves,Copsychus saularis,Copsychus,Muscicapidae,Passeriformes,Aves,Chordata,Copsychus saularis (Linnaeus, 1758),NA,NA,NA,NA
+Aves,Cinnyris asiaticus,Cinnyris,Nectariniidae,Passeriformes,Aves,Chordata,Cinnyris asiaticus (Latham, 1790),NA,NA,NA,NA
+Aves,Leptocoma zeylonica,Leptocoma,Nectariniidae,Passeriformes,Aves,Chordata,Leptocoma zeylonica (Linnaeus, 1766),NA,NA,NA,NA
+Aves,Lonchura punctulate,Lonchura,Estrildidae,Passeriformes,Aves,Chordata,Lonchura punctulate (Linnaeus, 1758),NA,NA,NA,NA
+Aves,Lonchura malacca,Lonchura,Estrildidae,Passeriformes,Aves,Chordata,Lonchura malacca (Linnaeus, 1766),NA,NA,NA,NA
+Aves,Euodice malabarica,Euodice,Estrildidae,Passeriformes,Aves,Chordata,Euodice malabarica (Linnaeus, 1758),NA,NA,NA,NA
+Aves,Passer domesticus,Passer,Passeridae,Passeriformes,Aves,Chordata,Passer domesticus (Linnaeus, 1758),NA,NA,NA,NA
+Aves,Motacilla citreola,Motacilla,Motacillidae,Passeriformes,Aves,Chordata,Motacilla citreola Pallas, 1776,NA,NA,NA,NA
+Aves,Motacilla tschutschensis,Motacilla,Motacillidae,Passeriformes,Aves,Chordata,Motacilla tschutschensis J.F. Gmelin, 1789,NA,NA,NA,NA
+Aves,Motacilla alba,Motacilla,Motacillidae,Passeriformes,Aves,Chordata,Motacilla alba Linnaeus, 1758,NA,NA,NA,NA
+Aves,Anthus rufulus,Anthus,Motacillidae,Passeriformes,Aves,Chordata,Anthus rufulus Vieillot, 1818,NA,NA,NA,NA
+Mammals,Macaca mulatta,Macaca,Cercopithecidae,Primates,NA,Chordata,Macaca mulatta (Zimmermann, 1780),NA,NA,NA,NA
+Mammals,Semnopithecus entellus,Semnopithecus,Cercopithecidae,Primates,NA,Chordata,Semnopithecus entellus (Dufresne, 1797),NA,NA,NA,NA
+Mammals,Funambulus palmarum,Funambulus,Sciuridae,Rodentia,NA,Chordata,Funambulus palmarum (Linnaeus, 1766),NA,NA,NA,NA
+Mammals,Hystrix indica,Hystrix,Hystricidae,Rodentia,NA,Chordata,Hystrix indica Kerr, 1792,NA,NA,NA,NA
+Mammals,Lepus nigricollis,Lepus,Leporidae,Lagomorpha,NA,Chordata,Lepus nigricollis F. Cuvier, 1823,NA,NA,NA,NA
+Mammals,Pteropus giganteus,Pteropus,Pteropodidae,Chiroptera,NA,Chordata,Pteropus giganteus (Brunnich, 1782),NA,NA,NA,NA
+Mammals,Felis chaus,Felis,Felidae,Carnivora,NA,Chordata,Felis chaus Schreber, 1777,1,NA,NA,NA
+Mammals,Prionailurus viverrinus,Prionailurus,Felidae,Carnivora,NA,Chordata,Prionailurus viverrinus (Bennett, 1833),1,NA,NA,NA
+Mammals,Paradoxurus hermaphrodites,Paradoxurus,Viverridae,Carnivora,NA,Chordata,Paradoxurus hermaphrodites (Pallas, 1777),NA,NA,NA,NA
+Mammals,Viverricula indica,Viverricula,Viverridae,Carnivora,NA,Chordata,Viverricula indica (Desmarest, 1804),NA,NA,NA,NA
+Mammals,Urva auropunctatus,Urva,Herpestidae,Carnivora,NA,Chordata,Urva auropunctatus (Hodgson, 1836),NA,NA,NA,NA
+Mammals,Canis aureus,Canis,Canidae,Carnivora,NA,Chordata,Canis aureus Linnaeus, 1758,NA,NA,NA,NA
+Mammals,Sus scrofa,Sus,Suidae,Artiodactyla,NA,Chordata,Sus scrofa Linnaeus, 1758,NA,NA,NA,NA
+Algae,Merismopedia ferrophila,NA,NA,NA,NA,NA,NA,NA,Cyanobacteria,NA,NA
+Algae,Merismopedia tenuissima,NA,NA,NA,NA,NA,NA,NA,Cyanobacteria,NA,NA
+Algae,Chroococcus schizodermaticus,NA,NA,NA,NA,NA,NA,NA,Cyanobacteria,NA,NA
+Algae,Chroococcus turgidus,NA,NA,NA,NA,NA,NA,NA,Cyanobacteria,NA,NA
+Algae,Spirulina major,NA,NA,NA,NA,NA,NA,NA,Cyanobacteria,NA,NA
+Algae,Oscillatoria leonardii,NA,NA,NA,NA,NA,NA,NA,Cyanobacteria,NA,NA
+Algae,Anabaena subcylindrica,NA,NA,NA,NA,NA,NA,NA,Cyanobacteria,NA,NA
+Algae,Euglena nuitabilis,NA,NA,NA,NA,NA,NA,NA,Euglenophyta,NA,NA
+Algae,Colacium physeter,NA,NA,NA,NA,NA,NA,NA,Euglenophyta,NA,NA
+Algae,Euglena proxima,NA,NA,NA,NA,NA,NA,NA,Euglenophyta,NA,NA
+Algae,Phacus longicauda,NA,NA,NA,NA,NA,NA,NA,Euglenophyta,NA,NA
+Algae,Trachelomonas nigra,NA,NA,NA,NA,NA,NA,NA,Euglenophyta,NA,NA
+Algae,Ulnaria ulna,NA,NA,NA,NA,NA,NA,NA,Bacillariophyta,NA,NA
+Algae,Eunotia bilunaris,NA,NA,NA,NA,NA,NA,NA,Bacillariophyta,NA,NA
+Algae,Mastogloia smithii,NA,NA,NA,NA,NA,NA,NA,Bacillariophyta,NA,NA
+Algae,Cymbella aspera,NA,NA,NA,NA,NA,NA,NA,Bacillariophyta,NA,NA
+Algae,Comphonema vibrio,NA,NA,NA,NA,NA,NA,NA,Bacillariophyta,NA,NA
+Algae,Neidium eine var. amphirhyrichus,NA,NA,NA,NA,NA,NA,NA,Bacillariophyta,NA,NA
+Algae,Pinnularia aniabilis,NA,NA,NA,NA,NA,NA,NA,Bacillariophyta,NA,NA
+Algae,Pinnularia borealis,NA,NA,NA,NA,NA,NA,NA,Bacillariophyta,NA,NA
+Algae,Pinnularia viridis,NA,NA,NA,NA,NA,NA,NA,Bacillariophyta,NA,NA
+Algae,Navicula radiosa,NA,NA,NA,NA,NA,NA,NA,Bacillariophyta,NA,NA
+Algae,Navicula viridula var. rostellata,NA,NA,NA,NA,NA,NA,NA,Bacillariophyta,NA,NA
+Algae,Gyrosignia scalproides var. eximiton,NA,NA,NA,NA,NA,NA,NA,Bacillariophyta,NA,NA
+Algae,Stauroneis anceps,NA,NA,NA,NA,NA,NA,NA,Bacillariophyta,NA,NA
+Algae,Stauroneis pusila,NA,NA,NA,NA,NA,NA,NA,Bacillariophyta,NA,NA
+Algae,Amphora elliptica,NA,NA,NA,NA,NA,NA,NA,Bacillariophyta,NA,NA
+Algae,Amphora oval,NA,NA,NA,NA,NA,NA,NA,Bacillariophyta,NA,NA
+Algae,Nitzschia palea,NA,NA,NA,NA,NA,NA,NA,Bacillariophyta,NA,NA
+Algae,Rhopalodia gibba,NA,NA,NA,NA,NA,NA,NA,Bacillariophyta,NA,NA
+Algae,Chlamlydomonas ehrenbergii,NA,NA,NA,NA,NA,NA,NA,Chlorophyta,NA,NA
+Algae,Ankistrodesmus stipitatus,NA,NA,NA,NA,NA,NA,NA,Chlorophyta,NA,NA
+Algae,Kirchneriella obesa,NA,NA,NA,NA,NA,NA,NA,Chlorophyta,NA,NA
+Algae,Monoraphidium irregulare,NA,NA,NA,NA,NA,NA,NA,Chlorophyta,NA,NA
+Algae,Monoraphidium tortile,NA,NA,NA,NA,NA,NA,NA,Chlorophyta,NA,NA
+Algae,Coelastrum scabrum,NA,NA,NA,NA,NA,NA,NA,Chlorophyta,NA,NA
+Algae,Desmodesmus armatus (Chodat) var. spinus,NA,NA,NA,NA,NA,NA,NA,Chlorophyta,NA,NA
+Algae,Scenedesmus obliqus,NA,NA,NA,NA,NA,NA,NA,Chlorophyta,NA,NA
+Algae,Scenedesmus planctonicus,NA,NA,NA,NA,NA,NA,NA,Chlorophyta,NA,NA
+Algae,Crucigenia tetrapedia,NA,NA,NA,NA,NA,NA,NA,Chlorophyta,NA,NA
+Algae,Botryococcus braunii,NA,NA,NA,NA,NA,NA,NA,Chlorophyta,NA,NA
+Algae,Closterium leibleinii var. angulation,NA,NA,NA,NA,NA,NA,NA,Charophyta,NA,NA
+Algae,Closterium jenneri Ralfs var. Robustuni,NA,NA,NA,NA,NA,NA,NA,Charophyta,NA,NA
+Algae,Cosmariton Isere,NA,NA,NA,NA,NA,NA,NA,Charophyta,NA,NA
+Algae,Cosmariton monilifinme,NA,NA,NA,NA,NA,NA,NA,Charophyta,NA,NA
+Algae,Cosmariton radiosum,NA,NA,NA,NA,NA,NA,NA,Charophyta,NA,NA
+Algae,Cosmariton trilobulatum var. abscission,NA,NA,NA,NA,NA,NA,NA,Charophyta,NA,NA
+Algae,Cosmariton undulation var. ivollei,NA,NA,NA,NA,NA,NA,NA,Charophyta,NA,NA
+Algae,Euastrum spinulcision var. spinulosion,NA,NA,NA,NA,NA,NA,NA,Charophyta,NA,NA
+Algae,Staurastrum bloklandiae,NA,NA,NA,NA,NA,NA,NA,Charophyta,NA,NA
+Algae,Staurastrum gracile var. nanum,NA,NA,NA,NA,NA,NA,NA,Charophyta,NA,NA
+Algae,Chara fragilis,NA,NA,NA,NA,NA,NA,NA,Charophyta,NA,NA
+Plants,Aeschynomene aspera,NA,Fabaceae,NA,NA,NA,NA,NA,NA,Herb,0
+Plants,Alocasia macrorrhizos,NA,Araceae,NA,NA,NA,NA,NA,NA,Herb,0
+Plants,Alloteropsis cimicina,NA,Poaceae,NA,NA,NA,NA,NA,NA,Grass,0
+Plants,Apluda mutica,NA,Poaceae,NA,NA,NA,NA,NA,NA,Herb,0
+Plants,Blyxa octandra,NA,Hydrocharitaceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Bolboschoenus maritimus,NA,Cyperaceae,NA,NA,NA,NA,NA,NA,Herb,1
+Plants,Ceratophyllum demersum,NA,Ceratophyllaceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Ceratopteris thalictroides,NA,Pteridaceae,NA,NA,NA,NA,NA,NA,Fern,1
+Plants,Chara vulgaris,NA,Characeae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Cladophora glomerata,NA,Cladophoraceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Commelina diffusa,NA,Commelinaceae,NA,NA,NA,NA,NA,NA,Herb,0
+Plants,Eragrostis nutans,NA,Poaceae,NA,NA,NA,NA,NA,NA,Herb,0
+Plants,Limnophila aromatica,NA,Plantaginaceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Limnophila heterophylla,NA,Plantaginaceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Limnophila indica,NA,Scrophulariaceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Najas indica,NA,Najadaceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Nechamandra alternifolia,NA,Hydrocharitaceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Neptunia oleracea,NA,Mimosaceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Panicum repens,NA,Poaceae,NA,NA,NA,NA,NA,NA,Herb,0
+Plants,Paspalidium punctatum,NA,Poaceae,NA,NA,NA,NA,NA,NA,Herb,0
+Plants,Paspalum distichum,NA,Poaceae,NA,NA,NA,NA,NA,NA,Herb,0
+Plants,Paspalum scrobiculatum,NA,Poaceae,NA,NA,NA,NA,NA,NA,Herb,0
+Plants,Paspalum vaginatum,NA,Poaceae,NA,NA,NA,NA,NA,NA,Herb,0
+Plants,Persicaria barbata,NA,Polygonaceae,NA,NA,NA,NA,NA,NA,Herb,0
+Plants,Potamogeton crispus,NA,Potamogetnaceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Potamogeton lucens,NA,Potamogetnaceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Ruppia maritima,NA,Ruppiaceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Salvinia natans,NA,Salviniaceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Nelumbo nucifera,NA,Nymphaeaceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Nymphaea nouchali,NA,Nymphaeaceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Nymphaea pubescens,NA,Nymphaeaceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Nymphoides cristata,NA,Menyanthanceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Nymphoides hydrophylla,NA,Menyanthanceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Nymphoides indica,NA,Menyanthanceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Nymphoides parvifolia,NA,Menyanthanceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Najas indica,NA,Najadaceae,NA,NA,NA,NA,NA,NA,Herb,1
+Plants,Marsilea minuta,NA,Onagraceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Marsilea polycarpa,NA,Marsileaceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Marsilea quadrifolia,NA,Marsileaceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Sagittaria sagittifolia,NA,Alismataceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Wolffia arrhiza,NA,Araceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Wolffia globosa,NA,Araceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Typha angustata,NA,Typhaceae,NA,NA,NA,NA,NA,NA,Herb,1
+Plants,Typha domingensis,NA,Typhaceae,NA,NA,NA,NA,NA,NA,Herb,1
+Plants,Utricularia aurea,NA,Lentibulariaceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Utricularia bifida,NA,Lentibulariaceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Utricularia inflexa,NA,Lentibulariaceae,NA,NA,NA,NA,NA,NA,Herb,2
+Plants,Utricularia stellaris,NA,Utriculariaceae,NA,NA,NA,NA,NA,NA,Herb,2
