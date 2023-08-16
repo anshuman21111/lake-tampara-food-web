@@ -1,0 +1,34 @@
+"","id","degree_type","rep","basal_removed_each","num_lost_each","num_remain_tot","num_removed_tot","num_lost_tot","prop_remain","prop_removed","name_lost","service_lost","cum_nontarget_lost","ES_remain","propES_remain"
+"97","high","high",NA,NA,0,143,0,0,1,0,"",0,0,8,1
+"98","high","high",NA,"Aquarius adelaides",1,142,1,1,0.993006993006993,0.00740740740740741,"Aquarius adelaides",0,0,8,1
+"99","high","high",NA,"Limnogonus fossarum",1,141,2,2,0.986013986013986,0.0148148148148148,"Limnogonus fossarum",0,0,8,1
+"100","high","high",NA,"Laccotrephes griseus",1,140,3,3,0.979020979020979,0.0222222222222222,"Laccotrephes griseus",0,0,8,1
+"101","high","high",NA,"Laccotrephes ruber",1,139,4,4,0.972027972027972,0.0296296296296296,"Laccotrephes ruber",0,0,8,1
+"102","high","high",NA,"Anisops campbelli",1,138,5,5,0.965034965034965,0.037037037037037,"Anisops campbelli",0,0,8,1
+"103","high","high",NA,"Diplonychus rusticus",1,137,6,6,0.958041958041958,0.0444444444444444,"Diplonychus rusticus",0,0,8,1
+"104","high","high",NA,"Ranatra elongata",1,136,7,7,0.951048951048951,0.0518518518518519,"Ranatra elongata",0,0,8,1
+"105","high","high",NA,"Ranatra filiformis",1,135,8,8,0.944055944055944,0.0592592592592593,"Ranatra filiformis",0,0,8,1
+"106","high","high",NA,"Ranatra varipes",1,134,9,9,0.937062937062937,0.0666666666666667,"Ranatra varipes",0,0,8,1
+"107","high","high",NA,"Hydrovatus confertus",1,133,10,10,0.93006993006993,0.0740740740740741,"Hydrovatus confertus",0,0,8,1
+"108","high","high",NA,"Diplonychus annulatus",17,116,11,27,0.811188811188811,0.0814814814814815,"Duttaphrynus melanostictus;Minervarya agricola;Diplonychus annulatus;Euphlyctis cyanophlyctis;Aplocheilus panchax;Microhyla mymensinghensis;Polypedates maculatus;Himantopus himantopus;Pluvialis fulva;Charadrius dubius;Vanellus malabaricus;Vanellus indicus;Numenius arquata;Tringa tetanus;Hirundo rustica;Motacilla citreola;Motacilla tschutschensis",0,0,8,1
+"109","high","high",NA,"Trichogaster lalius",1,115,12,28,0.804195804195804,0.0888888888888889,"Trichogaster lalius",0,0,8,1
+"110","high","high",NA,"Trichogaster fasciata",1,114,13,29,0.797202797202797,0.0962962962962963,"Trichogaster fasciata",0,0,8,1
+"111","high","high",NA,"Badis badis",1,113,14,30,0.79020979020979,0.103703703703704,"Badis badis",0,0,8,1
+"112","high","high",NA,"Puntius vittatus",1,112,15,31,0.783216783216783,0.111111111111111,"Puntius vittatus",0,0,8,1
+"113","high","high",NA,"Rasbora daniconius",1,111,16,32,0.776223776223776,0.118518518518519,"Rasbora daniconius",0,0,8,1
+"114","high","high",NA,"Pethia phutunio",1,110,17,33,0.769230769230769,0.125925925925926,"Pethia phutunio",0,0,8,1
+"115","high","high",NA,"Big fish juveniles",1,109,18,34,0.762237762237762,0.133333333333333,"Big fish juveniles",0,0,8,1
+"116","high","high",NA,"Parambassis baculis",5,104,19,39,0.727272727272727,0.140740740740741,"Parambassis baculis;Enhydris enhydris;Anhinga melanogaster;Phalacrocorax fuscicollis;Bubulcus ibis",0,0,8,1
+"117","high","high",NA,"Green Algae",19,85,20,58,0.594405594405594,0.148148148148148,"Mystus tengara;Mystus vittatus;Green Algae;Macrobrachium rude;Macrobrachium equidens;Arcella discoides;Centropyxis aculeata;Brachionus calyciflorus;Brachionus forficula;Keratella lenzi;Lecane aculeata;Lecane bulla;Asplanchna brightwelli;Mesocyclops leukarti;Scapholeberis kingi;Macrothrix spinosa;Macrothrix goeldi;Alona pulchella;Coronatella rectangula",0,0,8,1
+"118","high","high",NA,"Macrobrachium malcolmsonii",1,84,21,59,0.587412587412587,0.155555555555556,"Macrobrachium malcolmsonii",0,0,8,1
+"119","high","high",NA,"Macrobrachium rosenbergii",10,74,22,69,0.517482517482518,0.162962962962963,"Xenentodon cancila;Mastacembelus armatus;Macrobrachium rosenbergii;Calidris minuta;Xenus cinereus;Tringa ochropus;Tringa stagnatilis;Tringa glareola;Chroicocephalus brunnicephalus;Sternula albifrons",0,0,8,1
+"120","high","high",NA,"Hoplobatrachus tigerinus",14,60,23,83,0.41958041958042,0.17037037037037,"Hoplobatrachus tigerinus;Fowlea piscator;Naja naja;Centropus bengalensis;Ardea purpurea;Ardea alba;Ardea intermedia;Egretta garzetta;Nycticorax nycticorax;Plegadis falcinellus;Threskiornis melanocephalus;Spilornis cheela;Acridotheres ginginianus;Varanus bengalensis",0,0,8,1
+"121","high","high",NA,"Herbaceous aquatic plants",15,45,24,98,0.314685314685315,0.177777777777778,"Glossogobius giuris;Macrognathus pancalus;Herbaceous aquatic plants;Tadorna ferruginea;Nettapus coromandelianus;Spatula querquedula;Anas poecilorhyncha;Anas acuta;Netta rufina;Gallinula chloropus;Fulica atra;Porphyrio poliocephalus;Amaurornis phoenicurus;Metopidius indicus;Hydrophasianus chirurgus",0,0,8,1
+"122","high","high",NA,"Oreochromis niloticus",1,44,25,99,0.307692307692308,0.185185185185185,"Oreochromis niloticus",0,0,8,1
+"123","high","high",NA,"Notopterus notopterus",1,43,26,100,0.300699300699301,0.192592592592593,"Notopterus notopterus",0,0,8,1
+"124","high","high",NA,"Tadploes",19,24,27,119,0.167832167832168,0.2,"Tadploes;Odonata sp.;Coracias benghalensis;Tachybaptus ruficollis;Tringa nebularia;Chlidonias hybrida;Sterna aurantia;Anastomus oscitans;Microcarbo niger;Ardeola grayii;Alcedo atthis;Halcyon smyrnensis;Ceryle rudis;Merops orientalis;Merops philippinus;Oriolus kundoo;Oriolus xanthornus;Dicrurus caerulescens;Motacilla alba",0,0,8,1
+"125","high","high",NA,"Channa punctata",1,23,28,120,0.160839160839161,0.207407407407407,"Channa punctata",0,0,8,1
+"126","high","high",NA,"Channa striata",2,21,29,122,0.146853146853147,0.214814814814815,"Channa striata;Felis chaus",0,0,8,1
+"127","high","high",NA,"Channa gachua",1,20,30,123,0.13986013986014,0.222222222222222,"Channa gachua",0,0,8,1
+"128","high","high",NA,"Heteropneustes fossilis",8,12,31,131,0.0839160839160839,0.22962962962963,"Netuma thalassina;Heteropneustes fossilis;Dendrocygna javanica;Mycteria leucocephala;Ardea cinerea;Haliaeetus leucogaster;Fishery;Aquatic recreation",2,2,6,0.75
+"129","high","high",NA,"Detritus",12,0,32,143,0,0.237037037037037,"Lissemys punctata;Carp sp.;Detritus;Mosquito larvae;Prionailurus viverrinus;Circus aeruginosus;Biocontrol;Bioindicators;Bird_watching;Nutrient recycling;Food provisioning;Carbon sequestration",6,8,0,0
