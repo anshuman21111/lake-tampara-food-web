@@ -1,0 +1,148 @@
+---
+title: "Tampara lake seasonal food webs"
+output: html_document
+date: "2023-08-29"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, fig.asp = 1.5, fig.show="hold", out.width="50%", warning = FALSE, message = FALSE)
+```
+
+
+
+```{r read_in_data, include = FALSE}
+library(tidyverse)
+library(ggpubr)
+
+### Read in the data ####
+
+species_metad <- read.csv2("data/species_data_frame.csv")
+
+species_level <- read.csv("data/processed/species_metrics.csv") %>%
+  mutate(web = factor(web,
+                      levels = c("Premonsoon","Monsoon","Postmonsoon"))) %>%
+  left_join(species_metad, by = join_by("species"=="SPECIES"))
+
+network_level <- read.csv("data/processed/network_metrics.csv")[c(1,3,2),] %>%
+  mutate(links_per_species = links/size)%>%
+  mutate(web = factor(web,
+                      levels = c("Premonsoon","Monsoon","Postmonsoon")))
+
+species_level <- species_level %>%
+  group_by(species) %>%
+  mutate(TL_change = TL - mean(TL),
+         degree_change = degree - mean(degree),
+         outdegree_change = outdegree - mean(outdegree),
+         indegree_change = indegree - mean(indegree),
+         omniv_change = omnivory - mean(omnivory))
+
+```
+
+## Summary
+
+* Pre-monsoon and monsoon food webs are relatively similar 
+* Post-monsoon has the most species, but slightly fewer links per species. 
+* This is mostly driven by an influx of birds, and existing birds consuming fewer species.
+* In the post-monsoon season, aquatic insects and prawns have more things eating them (presumably the new bird arrivals?)
+* This means that there's a drop in trophic level, as the birds etc are eating lower in the food chain
+* Monsoon is the most omnivorous season, which leads to higher trophic levels, especially among birds and herpetofauna.
+
+## Plots
+
+Postmonsoon has by far the most species, but there are on average fewer links per species here. This is because there are many more birds post-monsoon than other seasons.
+
+```{r size_links, echo=FALSE}
+# Size and links per species
+ggplot(data = network_level, aes(x = web, group = 1)) +
+  geom_line(aes(y = size)) +
+  geom_line(aes(y = links_per_species*7), linetype = 2) +
+  scale_y_continuous(
+    #First axis 
+    name = "Number of species (solid line)",
+    # Second axis
+    sec.axis = sec_axis(~./7, name = "Links per species (dashed line)")
+  ) +
+  theme_pubr()
+
+guild_level2 <- species_level %>%
+  group_by(guild, web) %>%
+  summarize(number_species = n())
+
+ggplot(data = guild_level2, aes(x = web, y = number_species, color = guild, group = guild)) +
+  geom_point() +
+  geom_line() + 
+  theme_pubr()
+```
+
+
+
+
+Birds (yellow lines) eat fewer things in the post-monsoon season. Left hand plot shows absolute number of prey per predator, right hand plot shows the change relative to that species' mean across all seasons.
+
+```{r outdegree}
+ ggplot(data = species_level) + 
+   geom_line(aes(x = web, y = outdegree, group = species, color = guild)) + 
+   geom_point(aes(x = web, y = jitter(outdegree), group = species, color = guild))+
+   geom_hline(yintercept = 0, linetype = 2, color = "gray") +
+   labs(title = "Number of prey across seasons", y = "Number of prey") +
+   theme_pubr()
+
+ ggplot(data = species_level) + 
+   geom_line(aes(x = web, y = outdegree_change, group = species, color = guild)) + 
+   geom_point(aes(x = web, y = jitter(outdegree_change), group = species, color = guild))+
+   geom_hline(yintercept = 0, linetype = 2, color = "gray") +
+   labs(title = "Change in number of prey across seasons", y = "Change in number of prey") +
+   theme_pubr()
+
+```
+
+Aquatic insects and prawns have more predators in the post-monsoon season. Left hand plot shows absolute number of predators per prey, right hand plot shows the change relative to that species' mean across all seasons.
+
+```{r indegree}
+ggplot(data = species_level) + 
+   geom_line(aes(x = web, y = indegree, group = species, color = guild)) + 
+   geom_point(aes(x = web, y = jitter(indegree), group = species, color = guild))+
+   geom_hline(yintercept = 0, linetype = 2, color = "gray") +
+   labs(title = "Number of predators across seasons", y = "Number of predators") +
+   theme_pubr()
+
+
+ ggplot(data = species_level) + 
+   geom_line(aes(x = web, y = indegree_change, group = species, color = guild)) + 
+   geom_point(aes(x = web, y = jitter(indegree_change), group = species, color = guild))+
+   geom_hline(yintercept = 0, linetype = 2, color = "gray") +
+   labs(title = "Change in number of predators across seasons", y = "Change in number of predators") +
+   theme_pubr()
+```
+
+Birds especially increase their omnivory in the monsoon season. Left hand plot shows absolute value of omnivory, right hand plot shows the change relative to that species' mean across all seasons.
+
+```{r omnivory}
+ggplot(data = species_level) + 
+   geom_line(aes(x = web, y = omnivory, group = species, color = guild)) + 
+   geom_hline(yintercept = 0, linetype = 2, color = "gray") +
+   labs(title = "Omnivory across seasons") +
+   theme_pubr()
+
+ggplot(data = species_level) + 
+   geom_line(aes(x = web, y = omniv_change, group = species, color = guild)) + 
+   geom_hline(yintercept = 0, linetype = 2, color = "gray") +
+   labs(title = "Change in omnivory across seasons") +
+   theme_pubr()
+```
+
+Birds and herpetofauna decrease their trophic level a bit in the postmonsoon season, fishes don't really change. Left hand plot shows absolute trophic level, right hand plot shows the change relative to that species' mean across all seasons.
+
+```{r change_in_TL, echo = FALSE}
+ggplot(data = species_level) + 
+  geom_line(aes(x = web, y = TL, group = species, color = guild)) + 
+  geom_hline(yintercept = 0, linetype = 2, color = "gray") +
+  labs(title = "Trophic level across seasons", y = "Trophic level") +
+  theme_pubr()
+
+ggplot(data = species_level) + 
+  geom_line(aes(x = web, y = TL_change, group = species, color = guild)) + 
+  geom_hline(yintercept = 0, linetype = 2, color = "gray") +
+  labs(title = "Change in trophic level across seasons", y = "Change in trophic level") +
+  theme_pubr()
+```
