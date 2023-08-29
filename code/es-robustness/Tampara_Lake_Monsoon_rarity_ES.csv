@@ -1,0 +1,94 @@
+"","basal_removed_each","num_lost_each","num_remain_tot","num_removed_tot","num_lost_tot","prop_remain","prop_removed","name_lost","degree_type","service_lost","cum_nontarget_lost","ES_remain","propES_remain"
+"1",NA,0,119,0,0,1,0,"","given",0,0,8,1
+"2","Netuma thalassina",1,118,1,1,0.991596638655462,0.00900900900900901,"Netuma thalassina","given",0,0,8,1
+"3","Xenentodon cancila",1,117,2,2,0.983193277310924,0.018018018018018,"Xenentodon cancila","given",0,0,8,1
+"4","Heteropneustes fossilis",1,116,3,3,0.974789915966387,0.027027027027027,"Heteropneustes fossilis","given",0,0,8,1
+"5","Badis badis",1,115,4,4,0.966386554621849,0.036036036036036,"Badis badis","given",0,0,8,1
+"6","Bungarus fasciatus",1,114,5,5,0.957983193277311,0.045045045045045,"Bungarus fasciatus","given",0,0,8,1
+"7","Naja naja",1,113,6,6,0.949579831932773,0.0540540540540541,"Naja naja","given",0,0,8,1
+"8","Felis chaus",1,112,7,7,0.941176470588235,0.0630630630630631,"Felis chaus","given",0,0,8,1
+"9","Prionailurus viverrinus",1,111,8,8,0.932773109243697,0.0720720720720721,"Prionailurus viverrinus","given",0,0,8,1
+"10","Haliaeetus leucogaster",1,110,9,9,0.92436974789916,0.0810810810810811,"Haliaeetus leucogaster","given",0,0,8,1
+"11","Spilornis cheela",1,109,10,10,0.915966386554622,0.0900900900900901,"Spilornis cheela","given",0,0,8,1
+"12","Alcedo atthis",1,108,11,11,0.907563025210084,0.0990990990990991,"Alcedo atthis","given",0,0,8,1
+"13","Varanus bengalensis",1,107,12,12,0.899159663865546,0.108108108108108,"Varanus bengalensis","given",0,0,8,1
+"14","Channa striata",1,106,13,13,0.890756302521008,0.117117117117117,"Channa striata","given",0,0,8,1
+"15","Duttaphrynus scaber",1,105,14,14,0.882352941176471,0.126126126126126,"Duttaphrynus scaber","given",0,0,8,1
+"16","Fejervarya orissaensis",1,104,15,15,0.873949579831933,0.135135135135135,"Fejervarya orissaensis","given",0,0,8,1
+"17","Minervarya agricola",1,103,16,16,0.865546218487395,0.144144144144144,"Minervarya agricola","given",0,0,8,1
+"18","Hoplobatrachus crassus",1,102,17,17,0.857142857142857,0.153153153153153,"Hoplobatrachus crassus","given",0,0,8,1
+"19","Macrognathus pancalus",1,101,18,18,0.848739495798319,0.162162162162162,"Macrognathus pancalus","given",0,0,8,1
+"20","Mastacembelus armatus",1,100,19,19,0.840336134453782,0.171171171171171,"Mastacembelus armatus","given",0,0,8,1
+"21","Trichogaster lalius",1,99,20,20,0.831932773109244,0.18018018018018,"Trichogaster lalius","given",0,0,8,1
+"22","Trichogaster fasciata",1,98,21,21,0.823529411764706,0.189189189189189,"Trichogaster fasciata","given",0,0,8,1
+"23","Lissemys punctata",1,97,22,22,0.815126050420168,0.198198198198198,"Lissemys punctata","given",0,0,8,1
+"24","Parambassis baculis",1,96,23,23,0.80672268907563,0.207207207207207,"Parambassis baculis","given",0,0,8,1
+"25","Aplocheilus panchax",1,95,24,24,0.798319327731092,0.216216216216216,"Aplocheilus panchax","given",0,0,8,1
+"26","Hydrovatus confertus",1,94,25,25,0.789915966386555,0.225225225225225,"Hydrovatus confertus","given",0,0,8,1
+"27","Minervarya pierrei",1,93,26,26,0.781512605042017,0.234234234234234,"Minervarya pierrei","given",0,0,8,1
+"28","Sphaerotheca breviceps",1,92,27,27,0.773109243697479,0.243243243243243,"Sphaerotheca breviceps","given",0,0,8,1
+"29","Sphaerotheca rolandae",1,91,28,28,0.764705882352941,0.252252252252252,"Sphaerotheca rolandae","given",0,0,8,1
+"30","Microhyla mymensinghensis",1,90,29,29,0.756302521008403,0.261261261261261,"Microhyla mymensinghensis","given",0,0,8,1
+"31","Uperodon systoma",1,89,30,30,0.747899159663866,0.27027027027027,"Uperodon systoma","given",0,0,8,1
+"32","Enhydris enhydris",1,88,31,31,0.739495798319328,0.279279279279279,"Enhydris enhydris","given",0,0,8,1
+"33","Fowlea piscator",1,87,32,32,0.73109243697479,0.288288288288288,"Fowlea piscator","given",0,0,8,1
+"34","Coracias benghalensis",1,86,33,33,0.722689075630252,0.297297297297297,"Coracias benghalensis","given",0,0,8,1
+"35","Arcella discoides",1,85,34,34,0.714285714285714,0.306306306306306,"Arcella discoides","given",0,0,8,1
+"36","Centropyxis aculeata",1,84,35,35,0.705882352941177,0.315315315315315,"Centropyxis aculeata","given",0,0,8,1
+"37","Brachionus calyciflorus",1,83,36,36,0.697478991596639,0.324324324324324,"Brachionus calyciflorus","given",0,0,8,1
+"38","Brachionus forficula",1,82,37,37,0.689075630252101,0.333333333333333,"Brachionus forficula","given",0,0,8,1
+"39","Keratella lenzi",1,81,38,38,0.680672268907563,0.342342342342342,"Keratella lenzi","given",0,0,8,1
+"40","Lecane aculeata",1,80,39,39,0.672268907563025,0.351351351351351,"Lecane aculeata","given",0,0,8,1
+"41","Lecane bulla",2,78,40,41,0.65546218487395,0.36036036036036,"Anisops campbelli;Lecane bulla","given",0,0,8,1
+"42","Asplanchna brightwelli",1,77,41,42,0.647058823529412,0.369369369369369,"Asplanchna brightwelli","given",0,0,8,1
+"43","Mesocyclops leukarti",1,76,42,43,0.638655462184874,0.378378378378378,"Mesocyclops leukarti","given",0,0,8,1
+"44","Scapholeberis kingi",1,75,43,44,0.630252100840336,0.387387387387387,"Scapholeberis kingi","given",0,0,8,1
+"45","Macrothrix spinosa",1,74,44,45,0.621848739495798,0.396396396396396,"Macrothrix spinosa","given",0,0,8,1
+"46","Macrothrix goeldi",1,73,45,46,0.613445378151261,0.405405405405405,"Macrothrix goeldi","given",0,0,8,1
+"47","Alona pulchella",1,72,46,47,0.605042016806723,0.414414414414414,"Alona pulchella","given",0,0,8,1
+"48","Coronatella rectangula",3,69,47,50,0.579831932773109,0.423423423423423,"Mystus tengara;Macrobrachium rude;Coronatella rectangula","given",0,0,8,1
+"49","Tachybaptus ruficollis",1,68,48,51,0.571428571428571,0.432432432432432,"Tachybaptus ruficollis","given",0,0,8,1
+"50","Centropus bengalensis",1,67,49,52,0.563025210084034,0.441441441441441,"Centropus bengalensis","given",0,0,8,1
+"51","Porphyrio poliocephalus",1,66,50,53,0.554621848739496,0.45045045045045,"Porphyrio poliocephalus","given",0,0,8,1
+"52","Amaurornis phoenicurus",1,65,51,54,0.546218487394958,0.459459459459459,"Amaurornis phoenicurus","given",0,0,8,1
+"53","Vanellus indicus",1,64,52,55,0.53781512605042,0.468468468468468,"Vanellus indicus","given",0,0,8,1
+"54","Mycteria leucocephala",1,63,53,56,0.529411764705882,0.477477477477477,"Mycteria leucocephala","given",0,0,8,1
+"55","Ardea purpurea",1,62,54,57,0.521008403361345,0.486486486486487,"Ardea purpurea","given",0,0,8,1
+"56","Ardea alba",1,61,55,58,0.512605042016807,0.495495495495495,"Ardea alba","given",0,0,8,1
+"57","Nycticorax nycticorax",1,60,56,59,0.504201680672269,0.504504504504504,"Nycticorax nycticorax","given",0,0,8,1
+"58","Ceryle rudis",1,59,57,60,0.495798319327731,0.513513513513513,"Ceryle rudis","given",0,0,8,1
+"59","Merops philippinus",1,58,58,61,0.487394957983193,0.522522522522523,"Merops philippinus","given",0,0,8,1
+"60","Oriolus kundoo",1,57,59,62,0.478991596638655,0.531531531531532,"Oriolus kundoo","given",0,0,8,1
+"61","Oriolus xanthornus",1,56,60,63,0.470588235294118,0.540540540540541,"Oriolus xanthornus","given",0,0,8,1
+"62","Acridotheres ginginianus",1,55,61,64,0.46218487394958,0.54954954954955,"Acridotheres ginginianus","given",0,0,8,1
+"63","Motacilla citreola",1,54,62,65,0.453781512605042,0.558558558558559,"Motacilla citreola","given",0,0,8,1
+"64","Carp sp.",1,53,63,66,0.445378151260504,0.567567567567568,"Carp sp.","given",0,0,8,1
+"65","Channa punctata",1,52,64,67,0.436974789915966,0.576576576576577,"Channa punctata","given",0,0,8,1
+"66","Mystus vittatus",1,51,65,68,0.428571428571429,0.585585585585586,"Mystus vittatus","given",0,0,8,1
+"67","Glossogobius giuris",1,50,66,69,0.420168067226891,0.594594594594595,"Glossogobius giuris","given",0,0,8,1
+"68","Oreochromis niloticus",1,49,67,70,0.411764705882353,0.603603603603604,"Oreochromis niloticus","given",0,0,8,1
+"69","Duttaphrynus melanostictus",1,48,68,71,0.403361344537815,0.612612612612613,"Duttaphrynus melanostictus","given",0,0,8,1
+"70","Hoplobatrachus tigerinus",1,47,69,72,0.394957983193277,0.621621621621622,"Hoplobatrachus tigerinus","given",0,0,8,1
+"71","Channa gachua",1,46,70,73,0.38655462184874,0.630630630630631,"Channa gachua","given",0,0,8,1
+"72","Notopterus notopterus",1,45,71,74,0.378151260504202,0.63963963963964,"Notopterus notopterus","given",0,0,8,1
+"73","Diplonychus annulatus",1,44,72,75,0.369747899159664,0.648648648648649,"Diplonychus annulatus","given",0,0,8,1
+"74","Diplonychus rusticus",1,43,73,76,0.361344537815126,0.657657657657658,"Diplonychus rusticus","given",0,0,8,1
+"75","Aquarius adelaides",1,42,74,77,0.352941176470588,0.666666666666667,"Aquarius adelaides","given",0,0,8,1
+"76","Limnogonus fossarum",1,41,75,78,0.34453781512605,0.675675675675676,"Limnogonus fossarum","given",0,0,8,1
+"77","Laccotrephes griseus",1,40,76,79,0.336134453781513,0.684684684684685,"Laccotrephes griseus","given",0,0,8,1
+"78","Laccotrephes ruber",1,39,77,80,0.327731092436975,0.693693693693694,"Laccotrephes ruber","given",0,0,8,1
+"79","Ranatra elongata",1,38,78,81,0.319327731092437,0.702702702702703,"Ranatra elongata","given",0,0,8,1
+"80","Ranatra filiformis",1,37,79,82,0.310924369747899,0.711711711711712,"Ranatra filiformis","given",0,0,8,1
+"81","Ranatra varipes",6,31,80,88,0.260504201680672,0.720720720720721,"Ranatra varipes;Euphlyctis cyanophlyctis;Hylarana tytleri;Polypedates maculatus;Himantopus himantopus;Hirundo rustica","given",0,0,8,1
+"82","Big fish juveniles",1,30,81,89,0.252100840336134,0.72972972972973,"Big fish juveniles","given",0,0,8,1
+"83","Puntius vittatus",1,29,82,90,0.243697478991597,0.738738738738739,"Puntius vittatus","given",0,0,8,1
+"84","Rasbora daniconius",1,28,83,91,0.235294117647059,0.747747747747748,"Rasbora daniconius","given",0,0,8,1
+"85","Pethia phutunio",4,24,84,95,0.201680672268908,0.756756756756757,"Pethia phutunio;Ardea intermedia;Bubulcus ibis;Aquatic recreation","given",1,1,7,0.875
+"86","Herbaceous aquatic plants",3,21,85,98,0.176470588235294,0.765765765765766,"Herbaceous aquatic plants;Dendrocygna javanica;Metopidius indicus","given",0,1,7,0.875
+"87","Tadploes",5,16,86,103,0.134453781512605,0.774774774774775,"Tadploes;Odonata sp.;Anastomus oscitans;Halcyon smyrnensis;Merops orientalis","given",0,1,7,0.875
+"88","Macrobrachium malcolmsonii",1,15,87,104,0.126050420168067,0.783783783783784,"Macrobrachium malcolmsonii","given",0,1,7,0.875
+"89","Macrobrachium rosenbergii",1,14,88,105,0.117647058823529,0.792792792792793,"Macrobrachium rosenbergii","given",0,1,7,0.875
+"90","Macrobrachium equidens",7,7,89,112,0.0588235294117647,0.801801801801802,"Macrobrachium equidens;Microcarbo niger;Egretta garzetta;Ardeola grayii;Biocontrol;Bird_watching;Fishery","given",3,4,4,0.5
+"91","Detritus",1,6,90,113,0.0504201680672269,0.810810810810811,"Detritus","given",0,4,4,0.5
+"92","Mosquito larvae",1,5,91,114,0.0420168067226891,0.81981981981982,"Mosquito larvae","given",0,4,4,0.5
+"93","Green Algae",5,0,92,119,0,0.828828828828829,"Green Algae;Bioindicators;Nutrient recycling;Food provisioning;Carbon sequestration","given",4,8,0,0
