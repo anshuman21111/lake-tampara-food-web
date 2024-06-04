@@ -18,6 +18,9 @@ library(ggpubr)
 
 species_metad <- read.csv2("data/species_data_frame.csv")
 
+troph_dat <- read.csv("data/Trophic interaction list.csv") %>%
+  filter(!is.na(SL))
+
 species_level <- read.csv("data/processed/species_metrics.csv") %>%
   mutate(web = factor(web,
                       levels = c("Premonsoon","Monsoon","Postmonsoon"))) %>%
@@ -34,7 +37,10 @@ species_level <- species_level %>%
          degree_change = degree - mean(degree),
          outdegree_change = outdegree - mean(outdegree),
          indegree_change = indegree - mean(indegree),
-         omniv_change = omnivory - mean(omnivory))
+         omniv_change = omnivory - mean(omnivory)) %>%
+  left_join(troph_dat, by = c("species"="SPECIES"))
+
+
 
 ```
 
@@ -144,5 +150,39 @@ ggplot(data = species_level) +
   geom_line(aes(x = web, y = TL_change, group = species, color = guild)) + 
   geom_hline(yintercept = 0, linetype = 2, color = "gray") +
   labs(title = "Change in trophic level across seasons", y = "Change in trophic level") +
+  theme_pubr()
+```
+
+```{r body_size, echo = FALSE}
+ggplot(data = species_level, aes(x = SIZE_CAT, y = TL,color = guild)) + 
+  geom_point() + 
+  stat_smooth(method = "lm", 
+              formula = y ~ x, 
+              geom = "smooth") +
+  geom_hline(yintercept = 0, linetype = 2, color = "gray") +
+  labs(title = "Body size by trophic level", y = "Trophic level") +
+  facet_wrap(vars(web)) +
+  theme_pubr()
+
+ggplot(data = species_level, aes(x = web, y = TL,color = guild)) + 
+  geom_boxplot() +
+  geom_point() +
+  geom_hline(yintercept = 0, linetype = 2, color = "gray") +
+  labs(title = "Trophic level by habitat", y = "Trophic level") +
+  facet_wrap(vars(HABITAT)) +
+  theme_pubr()
+
+ggplot(data = species_level, aes(x = web, y = indegree, color = guild)) +
+  geom_boxplot() +
+  geom_point() + 
+  labs(title = "Number of prey by habitat") +
+  facet_wrap(vars(HABITAT)) +
+  theme_pubr()
+
+
+ggplot(data = species_level, aes(x = web, y = outdegree, color = guild)) +
+  geom_boxplot() +
+  geom_point() + 
+  labs(title = "Number of prey by habitat") +
   theme_pubr()
 ```
