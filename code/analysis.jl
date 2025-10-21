@@ -17,7 +17,7 @@ function openwebs(webnames)
 	dfs = []
 
 	for web in webnames
-		filename = "data/Tampara/" * web * "_adjacency_matrix.csv"
+		filename = "data/" * web * "_adjacency_matrix.csv"
 
 		df = CSV.read(filename,DataFrame)
 
@@ -80,7 +80,7 @@ links_byweb = [links(N) for N in Ns]
 C_byweb = [connectance(N) for N in Ns]
 
 
-function create_dict_array(dicts, webnames, Ss)
+function create_dict_array(dicts, webnames)
 	species = collect(keys(dicts[1]))
 
 	for d in dicts[2:end]
@@ -111,32 +111,32 @@ end
 degrees_byweb = [EcologicalNetworks.degree(N) for N in Ns]
 degree_array = create_dict_array(degrees_byweb, webnames)
 ### Write to csv
-#CSV.write("data/Tampara/processed/degree_dataframe.csv",  Tables.table(degree_array), writeheader=false)
+#CSV.write("data/processed/degree_dataframe.csv",  Tables.table(degree_array), writeheader=false)
 
 
 
 outdegrees_byweb = [EcologicalNetworks.degree(N, dims = 1) for N in Ns]
 outdegree_array = create_dict_array(outdegrees_byweb, webnames)
 ### Write to csv
-#CSV.write("data/Tampara/processed/outdegree_dataframe.csv",  Tables.table(outdegree_array), writeheader=false)
+#CSV.write("data/processed/outdegree_dataframe.csv",  Tables.table(outdegree_array), writeheader=false)
 
 
 specificity_byweb = [specificity(N) for N in Ns]
 specificity_array = create_dict_array(specificity_byweb, webnames)
 ### Write to csv
-#CSV.write("data/Tampara/processed/specificity_dataframe.csv",  Tables.table(specificity_array), writeheader=false)
+#CSV.write("data/processed/specificity_dataframe.csv",  Tables.table(specificity_array), writeheader=false)
 
 
 centrality_degree_byweb = [centrality_degree(N) for N in Ns]
 centrality_degree_array = create_dict_array(centrality_degree_byweb, webnames)
 ### Write to csv
-#CSV.write("data/Tampara/processed/centrality_degree_dataframe.csv",  Tables.table(centrality_degree_array), writeheader=false)
+#CSV.write("data/processed/centrality_degree_dataframe.csv",  Tables.table(centrality_degree_array), writeheader=false)
 
 
 centrality_closeness_byweb = [centrality_closeness(N) for N in Ns]
 centrality_closeness_array = create_dict_array(centrality_closeness_byweb, webnames)
 ### Write to csv
-#CSV.write("data/Tampara/processed/centrality_closeness_dataframe.csv",  Tables.table(centrality_closeness_array), writeheader=false)
+#CSV.write("data/processed/centrality_closeness_dataframe.csv",  Tables.table(centrality_closeness_array), writeheader=false)
 
 
 overlap_byweb = [overlap(N) for N in Ns]       # calculate overlap based on prey (dims = 1) or predators (dims = 2)
@@ -148,13 +148,13 @@ AJS_byweb = [AJS(N) for N in Ns]
 trophic_level_byweb = [trophic_level(N) for N in Ns]
 trophic_level_array = create_dict_array(trophic_level_byweb, webnames)
 ### Write to csv
-#CSV.write("data/Tampara/processed/trophic_level_dataframe.csv",  Tables.table(trophic_level_array), writeheader=false)
+#CSV.write("data/processed/trophic_level_dataframe.csv",  Tables.table(trophic_level_array), writeheader=false)
 
 
 omnivory_byweb = [omnivory(N) for N in Ns]
 omnivory_array = create_dict_array(omnivory_byweb, webnames)
 ### Write to csv
-#CSV.write("data/Tampara/processed/omnivory_dataframe.csv",  Tables.table(omnivory_array), writeheader=false)
+#CSV.write("data/processed/omnivory_dataframe.csv",  Tables.table(omnivory_array), writeheader=false)
 
 
 ## Motifs
@@ -203,5 +203,5 @@ end
 
 
 
-CSV.write("data/Tampara/processed/species_motif_counts.csv", species_motif_counts_df, writeheader=FALSE)
+CSV.write("data/processed/species_motif_counts.csv", species_motif_counts_df, writeheader=false)
 
