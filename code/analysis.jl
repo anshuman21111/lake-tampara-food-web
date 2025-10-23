@@ -17,7 +17,7 @@ function openwebs(webnames)
 	dfs = []
 
 	for web in webnames
-		filename = "data/Tampara/" * web * "_adjacency_matrix.csv"
+		filename = "newdata/" * web * "_adjmat.csv"
 
 		df = CSV.read(filename,DataFrame)
 
@@ -76,11 +76,18 @@ As = convertWebsToBoolArray(webs)
 
 Ns = [UnipartiteNetwork(As[j],Ss[j]) for j in 1:length(As)]
 
+size_byweb = [size(S)[1] for S in Ss];
 links_byweb = [links(N) for N in Ns]
 C_byweb = [connectance(N) for N in Ns]
+nestedness_byweb = [ρ(N) for N in Ns];
+
+web_metrics_df = DataFrame(web = webnames, size = size_byweb, links = links_byweb, C = C_byweb, nestedness = nestedness_byweb);
+
+filename = "newdata/processed/network_metrics.csv" 
+CSV.write(filename, web_metrics_df, writeheader=true);
 
 
-function create_dict_array(dicts, webnames, Ss)
+function create_dict_array(dicts, webnames)
 	species = collect(keys(dicts[1]))
 
 	for d in dicts[2:end]
@@ -111,32 +118,32 @@ end
 degrees_byweb = [EcologicalNetworks.degree(N) for N in Ns]
 degree_array = create_dict_array(degrees_byweb, webnames)
 ### Write to csv
-#CSV.write("data/Tampara/processed/degree_dataframe.csv",  Tables.table(degree_array), writeheader=false)
+#CSV.write("newdata/processed/degree_dataframe.csv",  Tables.table(degree_array), writeheader=false)
 
 
 
 outdegrees_byweb = [EcologicalNetworks.degree(N, dims = 1) for N in Ns]
 outdegree_array = create_dict_array(outdegrees_byweb, webnames)
 ### Write to csv
-#CSV.write("data/Tampara/processed/outdegree_dataframe.csv",  Tables.table(outdegree_array), writeheader=false)
+#CSV.write("newdata/processed/outdegree_dataframe.csv",  Tables.table(outdegree_array), writeheader=false)
 
 
 specificity_byweb = [specificity(N) for N in Ns]
 specificity_array = create_dict_array(specificity_byweb, webnames)
 ### Write to csv
-#CSV.write("data/Tampara/processed/specificity_dataframe.csv",  Tables.table(specificity_array), writeheader=false)
+#CSV.write("newdata/processed/specificity_dataframe.csv",  Tables.table(specificity_array), writeheader=false)
 
 
 centrality_degree_byweb = [centrality_degree(N) for N in Ns]
 centrality_degree_array = create_dict_array(centrality_degree_byweb, webnames)
 ### Write to csv
-#CSV.write("data/Tampara/processed/centrality_degree_dataframe.csv",  Tables.table(centrality_degree_array), writeheader=false)
+#CSV.write("newdata/processed/centrality_degree_dataframe.csv",  Tables.table(centrality_degree_array), writeheader=false)
 
 
 centrality_closeness_byweb = [centrality_closeness(N) for N in Ns]
 centrality_closeness_array = create_dict_array(centrality_closeness_byweb, webnames)
 ### Write to csv
-#CSV.write("data/Tampara/processed/centrality_closeness_dataframe.csv",  Tables.table(centrality_closeness_array), writeheader=false)
+#CSV.write("newdata/processed/centrality_closeness_dataframe.csv",  Tables.table(centrality_closeness_array), writeheader=false)
 
 
 overlap_byweb = [overlap(N) for N in Ns]       # calculate overlap based on prey (dims = 1) or predators (dims = 2)
@@ -148,13 +155,13 @@ AJS_byweb = [AJS(N) for N in Ns]
 trophic_level_byweb = [trophic_level(N) for N in Ns]
 trophic_level_array = create_dict_array(trophic_level_byweb, webnames)
 ### Write to csv
-#CSV.write("data/Tampara/processed/trophic_level_dataframe.csv",  Tables.table(trophic_level_array), writeheader=false)
+#CSV.write("newdata/processed/trophic_level_dataframe.csv",  Tables.table(trophic_level_array), writeheader=false)
 
 
 omnivory_byweb = [omnivory(N) for N in Ns]
 omnivory_array = create_dict_array(omnivory_byweb, webnames)
 ### Write to csv
-#CSV.write("data/Tampara/processed/omnivory_dataframe.csv",  Tables.table(omnivory_array), writeheader=false)
+#CSV.write("newdata/processed/omnivory_dataframe.csv",  Tables.table(omnivory_array), writeheader=false)
 
 
 ## Motifs
@@ -171,7 +178,7 @@ omnivory_array = create_dict_array(omnivory_byweb, webnames)
 
 # Get all the motif tuples for each motif and each web
 motif_lists = [find_motif(N,m) for m in unipartitemotifs(), N in Ns]
-
+CSV.write
 # motif 3 doesn't seem to exist in any of our webs, so this breaks if we do it normally
 motifs = [1,2,4,5,6,7,8,9,10,11,12,13]
 
@@ -203,5 +210,52 @@ end
 
 
 
-CSV.write("data/Tampara/processed/species_motif_counts.csv", species_motif_counts_df, writeheader=FALSE)
+CSV.write("newdata/processed/species_motif_counts.csv", species_motif_counts_df, writeheader=false)
+
+
+function motifs_to_csv(motif_list, webnames)
+
+    # Create a vector to hold the column labels for the three integer columns
+    col_labels = ["sp1", "sp2", "sp3"]
+
+    # Create a vector to hold the data for each column
+    sp1_data = Vector{String}()
+    sp2_data = Vector{String}()
+    sp3_data = Vector{String}()
+    web_data = Vector{String}()
+    motif_data = Vector{Symbol}()
+    
+    # Loop over each element of the matrix and extract the data to the appropriate vectors
+    motif_names = keys(unipartitemotifs())
+
+    for i in 1:size(motif_lists, 1)
+        for j in 1:size(motif_lists, 2)
+            for k in 1:size(motif_lists[i, j])[1]
+                sp1, sp2, sp3 = motif_lists[i, j][k][1]
+                push!(sp1_data, Ss[j][sp1])
+                push!(sp2_data, Ss[j][sp2])
+                push!(sp3_data, Ss[j][sp3])
+                push!(web_data, webnames[j])
+                push!(motif_data, motif_names[i])
+            end
+        end
+    end
+    
+    # Create the dataframe using the extracted data and column labels
+    motif_df = DataFrame(
+        sp1 = sp1_data,
+        sp2 = sp2_data,
+        sp3 = sp3_data,
+        web = web_data,
+        motif = motif_data
+    )
+    
+    return motif_df
+end
+
+# Convert it all into one big dataframe
+motif_df = motifs_to_csv(motif_lists, webnames);
+
+filename = "newdata/processed/motif_lists.csv" 
+CSV.write(filename, motif_df, writeheader=true);
 
