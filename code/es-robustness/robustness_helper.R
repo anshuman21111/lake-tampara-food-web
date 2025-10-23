@@ -2,16 +2,10 @@
 # Modified from code from 10.1038/s41467-021-21824-x
 
 # Function for food web robustness
-fw_robustness <- function (MATRIX, BASAL, N_RAND, OUTPUT, FW_NAME, SEQ_NAME, TOT_SUSC, GIVEN) {
-  if (GIVEN) {
-    # run a given extinction cascade (specified by BASAL)
-    mat_results <- collapse_wrap_given(N = MATRIX, basal = BASAL) 
-  } else {
-    # run standard extinction cascades and subset to the results you want 
-    mat_output <- collapse_wrap(N = MATRIX, basal = BASAL, n_rand = N_RAND)
-    mat_results <- subset(mat_output, mat_output$id == OUTPUT)
-  }
-  
+fw_robustness_high <- function (MATRIX, BASAL, FW_NAME, SEQ_NAME, TOT_SUSC) {
+
+  mat_results <- collapse_wrap_high(N = MATRIX, basal = BASAL)
+
   # Y AXIS
   mat_results$nodes_susc <- TOT_SUSC
   mat_results$nontarget_lost_each <- stri_count_fixed(mat_results$name_lost,";")
@@ -22,21 +16,31 @@ fw_robustness <- function (MATRIX, BASAL, N_RAND, OUTPUT, FW_NAME, SEQ_NAME, TOT
   target_remove <- length(BASAL)
   mat_results$prop_target_removed <- mat_results$num_removed_tot / target_remove
   
-  # Plot
-  root <- ggplot(mat_results, aes(x=prop_target_removed, y=Y))
-  (root + geom_point(shape=19)
-    + geom_line() + theme_bw(base_size = 14)
-    + xlim(0,1) + ylim(0,1)
-    + xlab("Proportion of target species removed")
-    + ylab("Proportion of susceptible species remaining")
-  )
-  ggsave(sprintf("%s_%s.jpeg",FW_NAME, SEQ_NAME), width=6, height=5, units="in", dpi=500)
-  
   # Calculate and save robustness (AUC)
   auc <- robust_auc(x = mat_results$prop_target_removed, y = mat_results$Y)
   write.csv(mat_results, sprintf("%s_%s.csv",FW_NAME, SEQ_NAME))
   
-  return(auc)
+  return(list("auc"=auc, "res"=mat_results))
+}
+
+fw_robustness_random <- function(MATRIX, BASAL, N_RAND, TOT_SUSC, FW_NAME) {
+  rand <- data.frame(matrix(ncol=2,nrow=N_RAND)) # save robustness results 
+  colnames(rand) <- c("Randomization","R")
+  rand$Randomization <- seq(1:N_RAND)
+  mat_res_list = list()
+  for(i in c(1:N_RAND)){
+    seq <- sample(BASAL) # random extinction order 
+    mat_results <- collapse_wrap_given(N = MATRIX, basal = seq)
+    mat_results$nodes_susc <- TOT_SUSC
+    mat_results$nontarget_lost_each <- stri_count_fixed(mat_results$name_lost,";")
+    mat_results$cum_nontarget_lost <- cumsum(mat_results$nontarget_lost_each) 
+    mat_results$Y <- (mat_results$nodes_susc - mat_results$cum_nontarget_lost)/mat_results$nodes_susc
+    rand$R[i] <- robust_auc(x = mat_results$prop_removed, y = mat_results$Y)
+    mat_res_list[[length(mat_res_list) + 1]] <- mat_results
+  }
+  write.csv(rand, sprintf("%s_random.csv",FW_NAME))
+  # For now return min, mean, and max of the robustness results from random extinctions
+  return(list("mean"=mean(rand$R),"sd"=sd(rand$R), "res"=mat_res_list))
 }
 
 # Function for ES Robustness
@@ -68,16 +72,6 @@ es_robustness <- function(MATRIX, BASAL, N_RAND, OUTPUT, FW_NAME, SEQ_NAME, TOT_
   target_remove <- length(BASAL)
   mat_results$prop_removed <- mat_results$num_removed_tot / target_remove
   
-  root <- ggplot(mat_results, aes(x=prop_removed, y=propES_remain))
-  (root + geom_point(shape=19) 
-    + geom_line() + theme_bw(base_size = 14) 
-    + xlim(0,1) + ylim(0,1)
-    + xlab("Proportion of target species removed")
-    + ylab("Proportion of ecosystem services remaining")
-  )
-  ggsave(sprintf("%s_%s_ES.jpeg",FW_NAME, SEQ_NAME), width=6, height=5, units="in", dpi=500)
-  write.csv(mat_results, sprintf("%s_%s_ES.csv",FW_NAME, SEQ_NAME))
-  
   if (GIVEN){
     # revise output to get ES AUC 
     # this tracks the secondary loss of ecosystem service nodes instead of species
@@ -98,25 +92,7 @@ es_robustness <- function(MATRIX, BASAL, N_RAND, OUTPUT, FW_NAME, SEQ_NAME, TOT_
       auc_wrapper()
   }
   
-  return(auc_res$auc)
-}
-
-fw_robustness_random <- function(MATRIX, BASAL, N_RAND, TOT_SUSC, FW_NAME) {
-  rand <- data.frame(matrix(ncol=2,nrow=N_RAND)) # save robustness results 
-  colnames(rand) <- c("Randomization","R")
-  rand$Randomization <- seq(1:N_RAND)
-  for(i in c(1:N_RAND)){
-    seq <- sample(BASAL) # random extinction order 
-    mat_results <- collapse_wrap_given(N = MATRIX, basal = seq)
-    mat_results$nodes_susc <- TOT_SUSC
-    mat_results$nontarget_lost_each <- stri_count_fixed(mat_results$name_lost,";")
-    mat_results$cum_nontarget_lost <- cumsum(mat_results$nontarget_lost_each) 
-    mat_results$Y <- (mat_results$nodes_susc - mat_results$cum_nontarget_lost)/mat_results$nodes_susc
-    rand$R[i] <- robust_auc(x = mat_results$prop_removed, y = mat_results$Y)
-  }
-  write.csv(rand, sprintf("%s_random.csv",FW_NAME))
-  # For now return min, mean, and max of the robustness results from random extinctions
-  return(list("min"=min(rand$R),"mean"=mean(rand$R),"max"=max(rand$R)))
+  return(list("auc"=auc_res$auc, "res"=mat_results))
 }
 
 es_robustness_random <- function(MATRIX, BASAL, N_RAND, TOT_SUSC, FW_NAME, SERVICE_NAMES){
@@ -126,19 +102,22 @@ es_robustness_random <- function(MATRIX, BASAL, N_RAND, TOT_SUSC, FW_NAME, SERVI
   rand <- data.frame(matrix(ncol=2,nrow=N_RAND)) # save robustness results 
   colnames(rand) <- c("Randomization","R")
   rand$Randomization <- seq(1:N_RAND)
+  mat_res_list = list()
   for(i in c(1:N_RAND)){
     seq <- sample(BASAL)
     mat_output <- collapse_wrap_given(N = MATRIX, basal = seq)
-    auc_res <- mat_output %>%
+    mat_results <- mat_output %>%
       mutate(service_lost = str_count(string = name_lost, pattern = es_pattern)) %>%
       # add column with the cumulative sum of the services lost
       mutate(service_lost_c = cumsum(service_lost)) %>%
       # overwrite original column of proportion species remaining, for now
-      mutate(prop_remain = 1 - (service_lost_c / NUM_SERVICES)) %>%
+      mutate(prop_remain = 1 - (service_lost_c / NUM_SERVICES)) 
+    auc_res <- mat_results %>%
       auc_wrapper_given()
     rand$R[i] <- auc_res$auc
+    mat_res_list[[length(mat_res_list) + 1]] <- mat_results
   }
   write.csv(rand, sprintf("%s_random_ES.csv",FW_NAME))
-  return(list("min"=min(rand$R),"mean"=mean(rand$R),"max"=max(rand$R)))
+  return(list("mean"=mean(rand$R),"sd"=sd(rand$R), "res"=mat_res_list))
   
 }

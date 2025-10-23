@@ -1,30 +1,30 @@
-"","id","degree_type","rep","basal_removed_each","num_lost_each","num_remain_tot","num_removed_tot","num_lost_tot","prop_remain","prop_removed","name_lost","nodes_susc","nontarget_lost_each","cum_nontarget_lost","Y","prop_target_removed"
-"68","high","high",NA,NA,0,109,0,0,1,0,"",106,0,0,1,0
-"69","high","high",NA,"Aquarius adelaides",1,108,1,1,0.990825688073395,0.00917431192660551,"Aquarius adelaides",106,0,0,1,0.00917431192660551
-"70","high","high",NA,"Limnogonus fossarum",1,107,2,2,0.981651376146789,0.018348623853211,"Limnogonus fossarum",106,0,0,1,0.018348623853211
-"71","high","high",NA,"Laccotrephes griseus",1,106,3,3,0.972477064220184,0.0275229357798165,"Laccotrephes griseus",106,0,0,1,0.0275229357798165
-"72","high","high",NA,"Laccotrephes ruber",1,105,4,4,0.963302752293578,0.036697247706422,"Laccotrephes ruber",106,0,0,1,0.036697247706422
-"73","high","high",NA,"Anisops campbelli",1,104,5,5,0.954128440366973,0.0458715596330275,"Anisops campbelli",106,0,0,1,0.0458715596330275
-"74","high","high",NA,"Diplonychus rusticus",1,103,6,6,0.944954128440367,0.055045871559633,"Diplonychus rusticus",106,0,0,1,0.055045871559633
-"75","high","high",NA,"Ranatra elongata",1,102,7,7,0.935779816513762,0.0642201834862385,"Ranatra elongata",106,0,0,1,0.0642201834862385
-"76","high","high",NA,"Ranatra filiformis",1,101,8,8,0.926605504587156,0.073394495412844,"Ranatra filiformis",106,0,0,1,0.073394495412844
-"77","high","high",NA,"Ranatra varipes",1,100,9,9,0.917431192660551,0.0825688073394495,"Ranatra varipes",106,0,0,1,0.0825688073394495
-"78","high","high",NA,"Hydrovatus confertus",1,99,10,10,0.908256880733945,0.0917431192660551,"Hydrovatus confertus",106,0,0,1,0.0917431192660551
-"79","high","high",NA,"Diplonychus annulatus",14,85,11,24,0.779816513761468,0.100917431192661,"Duttaphrynus melanostictus;Duttaphrynus scaber;Fejervarya orissaensis;Minervarya agricola;Diplonychus annulatus;Euphlyctis cyanophlyctis;Aplocheilus panchax;Minervarya pierrei;Uperodon systoma;Polypedates maculatus;Himantopus himantopus;Vanellus indicus;Hirundo rustica;Motacilla citreola",106,13,13,0.877358490566038,0.100917431192661
-"80","high","high",NA,"Trichogaster lalius",1,84,12,25,0.770642201834862,0.110091743119266,"Trichogaster lalius",106,0,13,0.877358490566038,0.110091743119266
-"81","high","high",NA,"Trichogaster fasciata",1,83,13,26,0.761467889908257,0.119266055045872,"Trichogaster fasciata",106,0,13,0.877358490566038,0.119266055045872
-"82","high","high",NA,"Big fish juveniles",1,82,14,27,0.752293577981651,0.128440366972477,"Big fish juveniles",106,0,13,0.877358490566038,0.128440366972477
-"83","high","high",NA,"Badis badis",1,81,15,28,0.743119266055046,0.137614678899083,"Badis badis",106,0,13,0.877358490566038,0.137614678899083
-"84","high","high",NA,"Puntius vittatus",1,80,16,29,0.73394495412844,0.146788990825688,"Puntius vittatus",106,0,13,0.877358490566038,0.146788990825688
-"85","high","high",NA,"Rasbora daniconius",1,79,17,30,0.724770642201835,0.155963302752294,"Rasbora daniconius",106,0,13,0.877358490566038,0.155963302752294
-"86","high","high",NA,"Pethia phutunio",1,78,18,31,0.715596330275229,0.165137614678899,"Pethia phutunio",106,0,13,0.877358490566038,0.165137614678899
-"87","high","high",NA,"Parambassis baculis",7,71,19,38,0.651376146788991,0.174311926605505,"Parambassis baculis;Enhydris enhydris;Anastomus oscitans;Bubulcus ibis;Alcedo atthis;Halcyon smyrnensis;Ceryle rudis",106,6,19,0.820754716981132,0.174311926605505
-"88","high","high",NA,"Green Algae",23,48,20,61,0.440366972477064,0.18348623853211,"Mystus tengara;Mystus vittatus;Macrobrachium rude;Macrobrachium equidens;Odonata sp.;Arcella discoides;Centropyxis aculeata;Brachionus calyciflorus;Brachionus forficula;Keratella lenzi;Lecane aculeata;Lecane bulla;Asplanchna brightwelli;Mesocyclops leukarti;Scapholeberis kingi;Macrothrix spinosa;Macrothrix goeldi;Alona pulchella;Coronatella rectangula;Green Algae;Merops orientalis;Oriolus kundoo;Oriolus xanthornus",106,22,41,0.613207547169811,0.18348623853211
-"89","high","high",NA,"Hoplobatrachus crassus",1,47,21,62,0.431192660550459,0.192660550458716,"Hoplobatrachus crassus",106,0,41,0.613207547169811,0.192660550458716
-"90","high","high",NA,"Hoplobatrachus tigerinus",13,34,22,75,0.311926605504587,0.201834862385321,"Hoplobatrachus tigerinus;Fowlea piscator;Bungarus fasciatus;Naja naja;Coracias benghalensis;Centropus bengalensis;Ardea purpurea;Ardea alba;Ardea intermedia;Nycticorax nycticorax;Spilornis cheela;Acridotheres ginginianus;Varanus bengalensis",106,12,53,0.5,0.201834862385321
-"91","high","high",NA,"Herbaceous aquatic plants",8,26,23,83,0.238532110091743,0.211009174311927,"Macrognathus pancalus;Herbaceous aquatic plants;Anas poecilorhyncha;Gallinula chloropus;Porphyrio poliocephalus;Amaurornis phoenicurus;Metopidius indicus;Hydrophasianus chirurgus",106,7,60,0.433962264150943,0.211009174311927
-"92","high","high",NA,"Macrobrachium malcolmsonii",1,25,24,84,0.229357798165138,0.220183486238532,"Macrobrachium malcolmsonii",106,0,60,0.433962264150943,0.220183486238532
-"93","high","high",NA,"Macrobrachium rosenbergii",9,16,25,93,0.146788990825688,0.229357798165138,"Glossogobius giuris;Xenentodon cancila;Mastacembelus armatus;Macrobrachium rosenbergii;Nettapus coromandelianus;Tachybaptus ruficollis;Microcarbo niger;Egretta garzetta;Ardeola grayii",106,8,68,0.358490566037736,0.229357798165138
-"94","high","high",NA,"Detritus",8,8,26,101,0.073394495412844,0.238532110091743,"Oreochromis niloticus;Channa gachua;Heteropneustes fossilis;Notopterus notopterus;Lissemys punctata;Detritus;Mosquito larvae;Carp sp.",106,7,75,0.292452830188679,0.238532110091743
-"95","high","high",NA,"Channa punctata",1,7,27,102,0.0642201834862385,0.247706422018349,"Channa punctata",106,0,75,0.292452830188679,0.247706422018349
-"96","high","high",NA,"Channa striata",7,0,28,109,0,0.256880733944954,"Channa striata;Netuma thalassina;Felis chaus;Prionailurus viverrinus;Dendrocygna javanica;Mycteria leucocephala;Haliaeetus leucogaster",106,6,81,0.235849056603774,0.256880733944954
+"","basal_removed_each","num_lost_each","num_remain_tot","num_removed_tot","num_lost_tot","prop_remain","prop_removed","name_lost","degree_type","nodes_susc","nontarget_lost_each","cum_nontarget_lost","Y","prop_target_removed"
+"1",NA,0,122,0,0,1,0,"","high",119,0,0,1,0
+"2","Aquarius adelaides",1,121,1,1,0.991803278688525,0.00819672131147541,"Aquarius adelaides","high",119,0,0,1,0.00819672131147541
+"3","Limnogonus fossarum",1,120,2,2,0.983606557377049,0.0163934426229508,"Limnogonus fossarum","high",119,0,0,1,0.0163934426229508
+"4","Laccotrephes griseus",1,119,3,3,0.975409836065574,0.0245901639344262,"Laccotrephes griseus","high",119,0,0,1,0.0245901639344262
+"5","Laccotrephes ruber",1,118,4,4,0.967213114754098,0.0327868852459016,"Laccotrephes ruber","high",119,0,0,1,0.0327868852459016
+"6","Anisops campbelli",1,117,5,5,0.959016393442623,0.040983606557377,"Anisops campbelli","high",119,0,0,1,0.040983606557377
+"7","Diplonychus rusticus",1,116,6,6,0.950819672131147,0.0491803278688525,"Diplonychus rusticus","high",119,0,0,1,0.0491803278688525
+"8","Ranatra elongata",1,115,7,7,0.942622950819672,0.0573770491803279,"Ranatra elongata","high",119,0,0,1,0.0573770491803279
+"9","Ranatra filiformis",1,114,8,8,0.934426229508197,0.0655737704918033,"Ranatra filiformis","high",119,0,0,1,0.0655737704918033
+"10","Ranatra varipes",1,113,9,9,0.926229508196721,0.0737704918032787,"Ranatra varipes","high",119,0,0,1,0.0737704918032787
+"11","Diplonychus annulatus",1,112,10,10,0.918032786885246,0.0819672131147541,"Diplonychus annulatus","high",119,0,0,1,0.0819672131147541
+"12","Hydrovatus confertus",8,104,11,18,0.852459016393443,0.0901639344262295,"Fejervarya orissaensis;Euphlyctis cyanophlyctis;Aplocheilus panchax;Hydrovatus confertus;Uperodon systoma;Polypedates maculatus;Hirundo rustica;Motacilla citreola","high",119,7,7,0.941176470588235,0.0901639344262295
+"13","Herbaceous aquatic plants",2,102,12,20,0.836065573770492,0.0983606557377049,"Herbaceous aquatic plants;Anas poecilorhyncha","high",119,1,8,0.932773109243697,0.0983606557377049
+"14","Trichogaster lalius",1,101,13,21,0.827868852459016,0.10655737704918,"Trichogaster lalius","high",119,0,8,0.932773109243697,0.10655737704918
+"15","Trichogaster fasciata",1,100,14,22,0.819672131147541,0.114754098360656,"Trichogaster fasciata","high",119,0,8,0.932773109243697,0.114754098360656
+"16","Big fish juveniles",1,99,15,23,0.811475409836066,0.122950819672131,"Big fish juveniles","high",119,0,8,0.932773109243697,0.122950819672131
+"17","Badis badis",1,98,16,24,0.80327868852459,0.131147540983607,"Badis badis","high",119,0,8,0.932773109243697,0.131147540983607
+"18","Puntius vittatus",1,97,17,25,0.795081967213115,0.139344262295082,"Puntius vittatus","high",119,0,8,0.932773109243697,0.139344262295082
+"19","Rasbora daniconius",1,96,18,26,0.786885245901639,0.147540983606557,"Rasbora daniconius","high",119,0,8,0.932773109243697,0.147540983606557
+"20","Pethia phutunio",1,95,19,27,0.778688524590164,0.155737704918033,"Pethia phutunio","high",119,0,8,0.932773109243697,0.155737704918033
+"21","Parambassis baculis",2,93,20,29,0.762295081967213,0.163934426229508,"Parambassis baculis;Bubulcus ibis","high",119,1,9,0.92436974789916,0.163934426229508
+"22","Minervarya agricola",1,92,21,30,0.754098360655738,0.172131147540984,"Minervarya agricola","high",119,0,9,0.92436974789916,0.172131147540984
+"23","Minervarya pierrei",5,87,22,35,0.713114754098361,0.180327868852459,"Minervarya pierrei;Enhydris enhydris;Alcedo atthis;Halcyon smyrnensis;Ceryle rudis","high",119,4,13,0.890756302521008,0.180327868852459
+"24","Detritus",25,62,23,60,0.508196721311475,0.188524590163934,"Duttaphrynus melanostictus;Duttaphrynus scaber;Pila globosa;Filopaludina bengalensis;Idiopoma dissimilis;Melanoides tuberculata;Tarebia lineata;Bithynia pulchella;Gabbia orcula;Radix rufescens;Racesina luteola;Macrobrachium malcolmsonii;Macrobrachium rosenbergii;Gyraulus barrackporensis;Gyraulus convexiusculus;Gyraulus euphraticus;Indoplanorbis exustus;Detritus;Porphyrio poliocephalus;Amaurornis phoenicurus;Himantopus himantopus;Vanellus indicus;Metopidius indicus;Hydrophasianus chirurgus;Anastomus oscitans","high",119,24,37,0.689075630252101,0.188524590163934
+"25","Green Algae",34,28,24,94,0.229508196721311,0.19672131147541,"Mystus tengara;Mystus vittatus;Glossogobius giuris;Oreochromis niloticus;Macrognathus pancalus;Xenentodon cancila;Heteropneustes fossilis;Mastacembelus armatus;Notopterus notopterus;Macrobrachium rude;Macrobrachium equidens;Odonata sp.;Mosquito larvae;Arcella discoides;Centropyxis aculeata;Brachionus calyciflorus;Brachionus forficula;Keratella lenzi;Lecane aculeata;Lecane bulla;Asplanchna brightwelli;Mesocyclops leukarti;Scapholeberis kingi;Macrothrix spinosa;Macrothrix goeldi;Alona pulchella;Coronatella rectangula;Green Algae;Nettapus coromandelianus;Tachybaptus ruficollis;Merops orientalis;Oriolus kundoo;Oriolus xanthornus;Carp sp.","high",119,33,70,0.411764705882353,0.19672131147541
+"26","Hoplobatrachus crassus",1,27,25,95,0.221311475409836,0.204918032786885,"Hoplobatrachus crassus","high",119,0,70,0.411764705882353,0.204918032786885
+"27","Hoplobatrachus tigerinus",19,8,26,114,0.0655737704918033,0.213114754098361,"Hoplobatrachus tigerinus;Channa gachua;Lissemys punctata;Fowlea piscator;Bungarus fasciatus;Naja naja;Centropus bengalensis;Gallinula chloropus;Microcarbo niger;Ardea purpurea;Ardea alba;Ardea intermedia;Egretta garzetta;Ardeola grayii;Nycticorax nycticorax;Spilornis cheela;Coracias benghalensis;Acridotheres ginginianus;Varanus bengalensis","high",119,18,88,0.260504201680672,0.213114754098361
+"28","Channa striata",1,7,27,115,0.0573770491803279,0.221311475409836,"Channa striata","high",119,0,88,0.260504201680672,0.221311475409836
+"29","Channa punctata",7,0,28,122,0,0.229508196721311,"Channa punctata;Netuma thalassina;Felis chaus;Prionailurus viverrinus;Dendrocygna javanica;Mycteria leucocephala;Haliaeetus leucogaster","high",119,6,94,0.210084033613445,0.229508196721311
